@@ -336,7 +336,31 @@
         </div>
     </div>
 
-    <script src="config.js"></script>
-    <script src="app.js"></script>
+    <script>
+        // 优先加载本地配置文件（安全），如果不存在则加载默认配置
+        (function() {
+            const configScript = document.createElement('script');
+            configScript.onerror = function() {
+                // config.local.js不存在，加载默认config.js
+                const defaultScript = document.createElement('script');
+                defaultScript.src = 'config.js';
+                defaultScript.onload = function() {
+                    // 加载app.js
+                    const appScript = document.createElement('script');
+                    appScript.src = 'app.js';
+                    document.body.appendChild(appScript);
+                };
+                document.body.appendChild(defaultScript);
+            };
+            configScript.onload = function() {
+                // config.local.js加载成功，加载app.js
+                const appScript = document.createElement('script');
+                appScript.src = 'app.js';
+                document.body.appendChild(appScript);
+            };
+            configScript.src = 'config.local.js';
+            document.body.appendChild(configScript);
+        })();
+    </script>
 </body>
 </html>
