@@ -62,13 +62,36 @@ Page({
       // 保存最后更新时间
       storage.setLastUpdate(data.meta.lastUpdate);
 
+      // 显示成功提示
+      wx.showToast({
+        title: '数据加载成功',
+        icon: 'success',
+        duration: 1500
+      });
+
     } catch (error) {
       console.error('加载文章失败', error);
       this.setData({ loading: false });
 
-      wx.showToast({
-        title: '加载失败，请稍后重试',
-        icon: 'none'
+      // 显示详细错误信息
+      wx.showModal({
+        title: '数据加载失败',
+        content: error.message || '网络连接失败，请检查网络设置',
+        confirmText: '重试',
+        cancelText: '查看帮助',
+        success: (res) => {
+          if (res.confirm) {
+            // 重试
+            this.loadArticles();
+          } else if (res.cancel) {
+            // 显示帮助信息
+            wx.showModal({
+              title: '网络问题排查',
+              content: '可能的原因：\n1. 网络连接不稳定\n2. 需要关闭域名校验（开发阶段）\n3. GitHub服务暂时不可用\n\n建议：下拉刷新重试',
+              showCancel: false
+            });
+          }
+        }
       });
     }
   },

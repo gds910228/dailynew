@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "version": "2.0.0",
+    "lastUpdate": "2026-01-19",
+    "totalCount": 1
+  },
+  "categories": [
+    "测试",
+    "半导体",
+    "AI硬件"
+  ],
+  "articles": [
+    {
+      "id": "20260119001",
+      "title": "测试文章 - 数据加载成功",
+      "description": "如果你能看到这篇文章，说明小程序数据加载功能正常工作！这是一个本地测试数据文件。",
+      "imageUrl": "https://via.placeholder.com/800x1200/667eea/ffffff?text=测试图片",
+      "imageUrls": [
+        "https://via.placeholder.com/800x1200/667eea/ffffff?text=图片1",
+        "https://via.placeholder.com/800x1200/764ba2/ffffff?text=图片2"
+      ],
+      "thumbnailUrl": "https://via.placeholder.com/400x600/667eea/ffffff?text=缩略图",
+      "tags": ["测试", "本地数据"],
+      "category": "测试",
+      "publishDate": "2026-01-19",
+      "videoId": "",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    }
+  ]
+}

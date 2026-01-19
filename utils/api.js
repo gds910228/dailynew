@@ -1,29 +1,91 @@
-// API配置
+// API配置 - 多个备用URL
 const CONFIG = {
-  // GitHub数据源URL（请替换为你的实际地址）
-  // 格式：https://raw.githubusercontent.com/[用户名]/[仓库名]/[分支]/data/articles.json
-  dataUrl: 'https://raw.githubusercontent.com/gds910228/dailynew/main/data/articles.json'
+  dataUrls: [
+    'https://api.github.com/repos/gds910228/dailynew/contents/data/articles.json',
+    'https://raw.githubusercontent.com/gds910228/dailynew/main/data/articles.json',
+    'https://cdn.jsdelivr.net/gh/gds910228/dailynew@main/data/articles.json'
+  ]
 };
 
 /**
- * 获取文章列表
+ * 获取文章列表（带多URL重试机制）
  */
 function getArticles() {
   return new Promise((resolve, reject) => {
-    wx.request({
-      url: CONFIG.dataUrl,
-      method: 'GET',
-      success: (res) => {
-        if (res.statusCode === 200) {
-          resolve(res.data);
-        } else {
-          reject(new Error('获取数据失败'));
-        }
-      },
-      fail: (err) => {
-        reject(err);
+    let currentUrlIndex = 0;
+
+    const tryRequest = () => {
+      if (currentUrlIndex >= CONFIG.dataUrls.length) {
+        reject(new Error('网络连接失败，请检查网络设置或稍后重试'));
+        return;
       }
-    });
+
+      const currentUrl = CONFIG.dataUrls[currentUrlIndex];
+      console.log(`尝试加载源 ${currentUrlIndex + 1}/${CONFIG.dataUrls.length}:`, currentUrl);
+
+      wx.request({
+        url: currentUrl,
+        method: 'GET',
+        header: {
+          'Accept': currentUrl.includes('api.github.com') ? 'application/vnd.github.v3+json' : 'application/json'
+        },
+        success: (res) => {
+          if (res.statusCode === 200) {
+            console.log(`✓ 数据源 ${currentUrlIndex + 1} 加载成功`);
+
+            // GitHub API格式：content字段包含base64编码的内容
+            if (res.data.content) {
+              try {
+                // GitHub API的base64内容需要移除换行符
+                const base64Content = res.data.content.replace(/\n/g, '');
+                console.log('Base64内容长度:', base64Content.length);
+
+                // 解码base64 - 使用兼容微信小程序的方法
+                let content = '';
+                try {
+                  // 方法1：标准atob + escape/unescape（支持中文）
+                  content = decodeURIComponent(escape(atob(base64Content)));
+                } catch (e) {
+                  try {
+                    // 方法2：直接atob（适合ASCII）
+                    content = atob(base64Content);
+                  } catch (e2) {
+                    throw new Error('Base64解码失败');
+                  }
+                }
+
+                console.log('解码后内容长度:', content.length);
+                console.log('解码后内容预览:', content.substring(0, 50));
+
+                // 解析JSON
+                const data = JSON.parse(content);
+                console.log('✓ 解析成功，文章数量:', data.articles.length);
+                resolve(data);
+              } catch (e) {
+                console.error('✗ 解析数据失败', e);
+                console.error('错误详情:', e.message);
+                reject(new Error('数据解析失败: ' + e.message));
+              }
+            } else {
+              // 直接返回数据（备用）
+              console.log('直接返回数据（非GitHub API格式）');
+              resolve(res.data);
+            }
+          } else {
+            console.warn(`数据源 ${currentUrlIndex + 1} 返回错误:`, res.statusCode);
+            currentUrlIndex++;
+            tryRequest(); // 尝试下一个URL
+          }
+        },
+        fail: (err) => {
+          console.warn(`数据源 ${currentUrlIndex + 1} 请求失败:`, err.errMsg || err);
+          currentUrlIndex++;
+          tryRequest(); // 尝试下一个URL
+        }
+      });
+    };
+
+    tryRequest();
   });
 }
 

@@ -244,8 +244,15 @@ async function commitToGitHub(data) {
     const currentFileData = await currentFile.json();
     const sha = currentFileData.sha;
 
-    // 将数据转为Base64
-    const content = btoa(JSON.stringify(data, null, 2));
+    // 将数据转为Base64（支持中文）
+    const jsonStr = JSON.stringify(data, null, 2);
+    const encoder = new TextEncoder();
+    const dataUint8 = encoder.encode(jsonStr);
+    let binary = '';
+    dataUint8.forEach(byte => {
+        binary += String.fromCharCode(byte);
+    });
+    const content = btoa(binary);
 
     const response = await fetch(url, {
         method: 'PUT',

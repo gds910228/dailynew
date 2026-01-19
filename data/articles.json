@@ -5,17 +5,17 @@
     "totalCount": 3
   },
   "categories": [
-    "åå¯¼ä½",
-    "AIç¡¬ä»¶",
-    "å­å¨è¯ç",
-    "æ°è½æº",
-    "æ¶è´¹çµå­"
+    "半导体",
+    "AI硬件",
+    "存储芯片",
+    "新能源",
+    "消费电子"
   ],
   "articles": [
     {
       "id": "20260119455",
-      "title": "11",
-      "description": "22",
+      "title": "测试文章 - GL-17号",
+      "description": "OpenAI营销、H200清关推演",
       "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/GL-17%E5%8F%B7-OpenAI%E8%90%A5%E9%94%80%E3%80%81H200%E6%B8%85%E5%85%B3%E6%8E%A8%E6%BC%94.jpg",
       "imageUrls": [
         "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/GL-17%E5%8F%B7-OpenAI%E8%90%A5%E9%94%80%E3%80%81H200%E6%B8%85%E5%85%B3%E6%8E%A8%E6%BC%94.jpg"
@@ -32,43 +32,43 @@
     },
     {
       "id": "20250118001",
-      "title": "åå¯¼ä½è®¾å¤ï¼å°ç§¯çµæ©äº§ï¼å½äº§æ¿ä»£å é",
-      "description": "æ ¸å¿å¬åï¼å°ç§¯çµä¸ç»©å®è°ââAIéæ±çå®å­å¨ï¼æªæ¥ä¸å¹´å°è¿è¡å¤§è§æ¨¡æ©äº§ãæèµæºä¼ï¼å½äº§å»èè®¾å¤ãèèæ²ç§¯è®¾å¤ååææåçã",
-      "imageUrl": "https://via.placeholder.com/800x1200/4A90E2/ffffff?text=åå¾ç¤ºä¾",
-      "thumbnailUrl": "https://via.placeholder.com/400x600/4A90E2/ffffff?text=ç¼©ç¥å¾",
+      "title": "半导体设备：台积电扩产，国产替代加速",
+      "description": "核心催化：台积电业绩定调——AI需求真实存在，未来三年将进行大规模扩产。投资机会：国产刻蚀设备、薄膜沉积设备厂商有望受益。",
+      "imageUrl": "https://via.placeholder.com/800x1200/4A90E2/ffffff?text=单图示例",
+      "thumbnailUrl": "https://via.placeholder.com/400x600/4A90E2/ffffff?text=缩略图",
       "tags": [
-        "åå¯¼ä½",
+        "半导体",
         "AI",
-        "å°ç§¯çµ"
+        "台积电"
       ],
-      "category": "åå¯¼ä½",
+      "category": "半导体",
       "publishDate": "2025-01-18",
       "videoId": "",
-      "author": "æ¯æ¥æ°ç¥è¯æ±",
+      "author": "每日新知识汇",
       "viewCount": 0,
       "downloadCount": 0,
       "favoriteCount": 0
     },
     {
       "id": "20250119001",
-      "title": "AIç¡¬ä»¶è¡ä¸æ·±åº¦åæï¼å¤å¾ç¤ºä¾ï¼",
-      "description": "AIè¯çãæå¡å¨ãå­å¨å¨äº§ä¸é¾åæãåå«å¸åºè§æ¨¡ãä¸»è¦ç©å®¶ãææ¯è¶å¿ç­å¤ç»´åº¦è§£è¯»ã",
-      "imageUrl": "https://via.placeholder.com/800x1200/667eea/ffffff?text=å¾ç1",
+      "title": "AI硬件行业深度分析（多图示例）",
+      "description": "AI芯片、服务器、存储全产业链分析。包含市场规模、主要玩家、技术趋势等多维度解读。",
+      "imageUrl": "https://via.placeholder.com/800x1200/667eea/ffffff?text=图片1",
       "imageUrls": [
-        "https://via.placeholder.com/800x1200/667eea/ffffff?text=å¾ç1",
-        "https://via.placeholder.com/800x1200/764ba2/ffffff?text=å¾ç2",
-        "https://via.placeholder.com/800x1200/667eea/ffffff?text=å¾ç3"
+        "https://via.placeholder.com/800x1200/667eea/ffffff?text=图片1",
+        "https://via.placeholder.com/800x1200/764ba2/ffffff?text=图片2",
+        "https://via.placeholder.com/800x1200/667eea/ffffff?text=图片3"
       ],
-      "thumbnailUrl": "https://via.placeholder.com/400x600/667eea/ffffff?text=å¾ç1",
+      "thumbnailUrl": "https://via.placeholder.com/400x600/667eea/ffffff?text=图片1",
       "tags": [
         "AI",
-        "ç¡¬ä»¶",
-        "è¯ç"
+        "硬件",
+        "芯片"
       ],
-      "category": "AIç¡¬ä»¶",
+      "category": "AI硬件",
       "publishDate": "2025-01-19",
       "videoId": "",
-      "author": "æ¯æ¥æ°ç¥è¯æ±",
+      "author": "每日新知识汇",
       "viewCount": 0,
       "downloadCount": 0,
       "favoriteCount": 0
