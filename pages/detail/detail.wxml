@@ -1,0 +1,76 @@
+<!--pages/detail/detail.wxml-->
+<view class="container">
+  <!-- 图片展示区 -->
+  <view class="image-container">
+    <image
+      class="article-image"
+      src="{{article.imageUrl}}"
+      mode="widthFix"
+      bindtap="onPreviewImage"
+    ></image>
+  </view>
+
+  <!-- 内容区 -->
+  <view class="content-container">
+    <!-- 标题 -->
+    <view class="title">{{article.title}}</view>
+
+    <!-- 元信息 -->
+    <view class="meta-info">
+      <text class="category">{{article.category}}</text>
+      <text class="date">{{article.publishDate}}</text>
+      <text class="author">{{article.author}}</text>
+    </view>
+
+    <!-- 标签 -->
+    <view class="tags">
+      <view
+        wx:for="{{article.tags}}"
+        wx:key="index"
+        class="tag"
+      >
+        #{{item}}
+      </view>
+    </view>
+
+    <!-- 描述 -->
+    <view class="description">{{article.description}}</view>
+
+    <!-- 分享引导 -->
+    <view class="share-tip">
+      <text>💡 建议横屏查看，长按图片可保存到相册</text>
+    </view>
+  </view>
+
+  <!-- 底部操作栏 -->
+  <view class="action-bar">
+    <view class="action-btn" bindtap="onFavorite">
+      <image
+        class="action-icon"
+        src="{{isFavorited ? '/assets/icons/heart-active.png' : '/assets/icons/heart.png'}}"
+        mode="aspectFit"
+      ></image>
+      <text>{{isFavorited ? '已收藏' : '收藏'}}</text>
+    </view>
+
+    <view class="action-btn" bindtap="onDownload">
+      <image class="action-icon" src="/assets/icons/download.png" mode="aspectFit"></image>
+      <text>下载原图</text>
+    </view>
+
+    <button class="action-btn share-btn" open-type="share">
+      <image class="action-icon" src="/assets/icons/share.png" mode="aspectFit"></image>
+      <text>分享</text>
+    </button>
+
+    <view wx:if="{{article.videoId}}" class="action-btn" bindtap="onWatchVideo">
+      <image class="action-icon" src="/assets/icons/video.png" mode="aspectFit"></image>
+      <text>看视频</text>
+    </view>
+  </view>
+
+  <!-- 免责声明 -->
+  <view class="disclaimer">
+    <text>本内容仅为个人学习笔记，不构成投资建议</text>
+  </view>
+</view>

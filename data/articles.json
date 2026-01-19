@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdate": "2025-01-18",
+    "totalCount": 0
+  },
+  "categories": [
+    "半导体",
+    "AI硬件",
+    "存储芯片",
+    "新能源",
+    "消费电子"
+  ],
+  "articles": [
+    {
+      "id": "20250118001",
+      "title": "半导体设备：台积电扩产，国产替代加速",
+      "description": "核心催化：台积电业绩定调——AI需求真实存在，未来三年将进行大规模扩产。投资机会：国产刻蚀设备、薄膜沉积设备厂商有望受益。",
+      "imageUrl": "https://via.placeholder.com/800x1200/4A90E2/ffffff?text=示例图片",
+      "thumbnailUrl": "https://via.placeholder.com/400x600/4A90E2/ffffff?text=缩略图",
+      "tags": ["半导体", "AI", "台积电"],
+      "category": "半导体",
+      "publishDate": "2025-01-18",
+      "videoId": "",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    }
+  ]
+}

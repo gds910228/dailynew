@@ -1,0 +1,152 @@
+/* pages/detail/detail.wxss */
+page {
+  background: #f5f5f5;
+  padding-bottom: 180rpx;
+}
+
+/* 图片展示区 */
+.image-container {
+  background: #000;
+  width: 100%;
+}
+
+.article-image {
+  width: 100%;
+  display: block;
+}
+
+/* 内容区 */
+.content-container {
+  background: #fff;
+  padding: 40rpx 30rpx;
+  margin-bottom: 20rpx;
+}
+
+/* 标题 */
+.title {
+  font-size: 36rpx;
+  font-weight: 600;
+  color: #333;
+  line-height: 1.5;
+  margin-bottom: 20rpx;
+}
+
+/* 元信息 */
+.meta-info {
+  display: flex;
+  align-items: center;
+  gap: 20rpx;
+  margin-bottom: 30rpx;
+  font-size: 24rpx;
+}
+
+.category {
+  padding: 6rpx 16rpx;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  border-radius: 8rpx;
+}
+
+.date,
+.author {
+  color: #999;
+}
+
+/* 标签 */
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15rpx;
+  margin-bottom: 30rpx;
+}
+
+.tag {
+  padding: 8rpx 20rpx;
+  background: #f0f0f0;
+  color: #666;
+  font-size: 24rpx;
+  border-radius: 8rpx;
+}
+
+/* 描述 */
+.description {
+  font-size: 28rpx;
+  color: #666;
+  line-height: 1.8;
+  margin-bottom: 30rpx;
+}
+
+/* 分享提示 */
+.share-tip {
+  padding: 20rpx;
+  background: #fff9e6;
+  border-left: 4rpx solid #ffa940;
+  border-radius: 8rpx;
+  font-size: 26rpx;
+  color: #ad8b00;
+  line-height: 1.6;
+}
+
+/* 底部操作栏 */
+.action-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  background: #fff;
+  padding: 20rpx 30rpx;
+  box-shadow: 0 -4rpx 20rpx rgba(0, 0, 0, 0.06);
+  gap: 20rpx;
+}
+
+.action-btn {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 15rpx 0;
+  border-radius: 12rpx;
+  background: #f5f5f5;
+  font-size: 24rpx;
+  color: #333;
+  transition: all 0.3s;
+}
+
+.action-btn:active {
+  background: #e8e8e8;
+}
+
+.share-btn {
+  padding: 0;
+  margin: 0;
+  background: #f5f5f5;
+  border: none;
+  font-size: 24rpx;
+  line-height: normal;
+}
+
+.share-btn::after {
+  border: none;
+}
+
+.action-icon {
+  width: 44rpx;
+  height: 44rpx;
+  margin-bottom: 8rpx;
+}
+
+/* 免责声明 */
+.disclaimer {
+  position: fixed;
+  bottom: 160rpx;
+  left: 0;
+  right: 0;
+  padding: 15rpx 30rpx;
+  background: rgba(0, 0, 0, 0.6);
+  text-align: center;
+  font-size: 22rpx;
+  color: rgba(255, 255, 255, 0.8);
+  line-height: 1.5;
+}
