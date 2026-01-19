@@ -3,7 +3,10 @@
     "allow": [
       "Bash(findstr:*)",
       "Bash(python:*)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(curl:*)",
+      "Bash(git add:*)",
+      "Bash(git check-ignore:*)"
     ],
     "deny": [],
     "ask": []
