@@ -23,6 +23,23 @@ Page({
     try {
       wx.showLoading({ title: '加载中...' });
 
+      // 先初始化空数据，避免渲染时访问 undefined
+      this.setData({
+        article: {
+          id: '',
+          title: '',
+          description: '',
+          imageUrl: '',
+          imageUrls: [],
+          thumbnailUrl: '',
+          tags: [],
+          category: '',
+          publishDate: '',
+          videoId: '',
+          author: ''
+        }
+      });
+
       // 获取所有文章
       const data = await api.getArticles();
 
@@ -38,14 +55,29 @@ Page({
         return;
       }
 
+      // 确保 article 有所有必需的字段
+      const safeArticle = {
+        id: article.id || '',
+        title: article.title || '',
+        description: article.description || '',
+        imageUrl: article.imageUrl || '',
+        imageUrls: article.imageUrls || [],
+        thumbnailUrl: article.thumbnailUrl || article.imageUrl || '',
+        tags: article.tags || [],
+        category: article.category || '未分类',
+        publishDate: article.publishDate || '',
+        videoId: article.videoId || '',
+        author: article.author || '每日新知识汇'
+      };
+
       // 检查收藏状态
       const isFavorited = storage.isFavorited(id);
 
       // 记录浏览历史
-      storage.addHistory(article);
+      storage.addHistory(safeArticle);
 
       this.setData({
-        article: article,
+        article: safeArticle,
         isFavorited: isFavorited
       });
 

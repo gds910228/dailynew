@@ -14,7 +14,12 @@
       "Bash(git pull:*)",
       "Bash(git remote add:*)",
       "Bash(git push:*)",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(nul)",
+      "Bash(git config:*)",
+      "Bash(git ls-remote:*)",
+      "Bash(netstat:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []

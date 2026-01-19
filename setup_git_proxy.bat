@@ -3,78 +3,78 @@ title Setup Git Proxy
 
 echo.
 echo ========================================
-echo Git代理配置工具
+echo Git Proxy Configuration
 echo ========================================
 echo.
-
-echo 如果你有VPN/代理，可以使用此工具配置git代理
-echo.
-echo 常见代理地址:
-echo   - Clash: 127.0.0.1:7890
-echo   - V2Ray: 127.0.0.1:10809
-echo   - 其他: 请查看你的代理软件设置
+echo This script helps you configure Git proxy for GitHub access.
 echo.
 
-echo ========================================
-echo 选择操作:
-echo ========================================
+REM 显示当前配置
+echo Current proxy settings:
 echo.
-echo 1. 设置代理
-echo 2. 取消代理
-echo 3. 查看当前代理设置
-echo 4. 退出
-echo.
-
-set /p choice="请选择 (1-4): "
-
-if "%choice%"=="1" goto SET_PROXY
-if "%choice%"=="2" goto UNSET_PROXY
-if "%choice%"=="3" goto VIEW_PROXY
-if "%choice%"=="4" goto END
-
-:SET_PROXY
-echo.
-set /p proxy_addr="请输入代理地址 (例如: 127.0.0.1:7890): "
-
-echo.
-echo 设置HTTP代理: %proxy_addr%
-git config --global http.proxy http://%proxy_addr%
-
-echo 设置HTTPS代理: %proxy_addr%
-git config --global https.proxy http://%proxy_addr%
-
-echo.
-echo ✅ 代理设置完成！
-echo.
-echo 现在可以重试上传图片了
-goto END
-
-:UNSET_PROXY
-echo.
-echo 取消HTTP代理...
-git config --global --unset http.proxy
-
-echo 取消HTTPS代理...
-git config --global --unset https.proxy
-
-echo.
-echo ✅ 代理已取消
-goto END
-
-:VIEW_PROXY
-echo.
-echo 当前代理设置:
-echo.
-echo HTTP代理:
 git config --global --get http.proxy
-if errorlevel 1 echo   (未设置)
+git config --global --get https.proxy
+echo.
+
+echo ========================================
+echo Common Proxy Ports:
+echo ========================================
+echo.
+echo Clash/V2ray clients usually use:
+echo   - HTTP Proxy:  127.0.0.1:7890
+echo   - SOCKS5 Proxy: 127.0.0.1:7891
+echo.
+echo V2rayN usually uses:
+echo   - HTTP Proxy:  127.0.0.1:10809
+echo   - SOCKS5 Proxy: 127.0.0.1:10808
+echo.
+echo ========================================
+echo.
+
+echo Please check your proxy software settings to find the correct port.
+echo.
+set /p PROXY_PORT="Enter your proxy port (or press Enter to skip): "
+
+if "%PROXY_PORT%"=="" (
+    echo.
+    echo [INFO] Skipping proxy configuration
+    echo.
+    choice /C YN /M "Remove existing proxy settings"
+    if errorlevel 2 goto :end
+    if errorlevel 1 goto :remove_proxy
+)
 
 echo.
-echo HTTPS代理:
-git config --global --get https.proxy
-if errorlevel 1 echo   (未设置)
-goto END
+echo Setting proxy to: http://127.0.0.1:%PROXY_PORT%
+git config --global http.proxy http://127.0.0.1:%PROXY_PORT%
+git config --global https.proxy http://127.0.0.1:%PROXY_PORT%
 
-:END
+echo.
+echo [OK] Proxy configured!
+echo.
+echo Testing connection...
+git ls-remote https://github.com/ HEAD
+if errorlevel 1 (
+    echo.
+    echo [WARNING] Connection test failed!
+    echo Please verify:
+    echo   1. Proxy software is running
+    echo   2. Port number is correct
+    echo   3. Proxy allows HTTP tunneling
+) else (
+    echo.
+    echo [OK] GitHub connection successful!
+)
+goto :end
+
+:remove_proxy
+echo.
+echo Removing proxy settings...
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+echo [OK] Proxy settings removed
+goto :end
+
+:end
 echo.
 pause

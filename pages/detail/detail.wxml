@@ -1,11 +1,11 @@
 <!--pages/detail/detail.wxml-->
 <view class="container">
   <!-- 图片展示区 - 支持多图轮播 -->
-  <view class="image-container">
+  <view class="image-container" wx:if="{{article}}">
     <swiper
-      wx:if="{{article.imageUrls && article.imageUrls.length > 1}}"
+      wx:if="{{article.imageUrls && article.imageUrls.length >= 1}}"
       class="image-swiper"
-      indicator-dots="{{true}}"
+      indicator-dots="{{article.imageUrls.length > 1}}"
       indicator-color="rgba(255, 255, 255, 0.5)"
       indicator-active-color="#fff"
       autoplay="{{false}}"
@@ -25,12 +25,17 @@
 
     <!-- 单图显示（兼容旧数据） -->
     <image
-      wx:else
+      wx:elif="{{article.imageUrl}}"
       class="article-image"
       src="{{article.imageUrl}}"
       mode="widthFix"
       bindtap="onPreviewImage"
     ></image>
+
+    <!-- 无图片提示 -->
+    <view wx:else class="no-image">
+      <text>暂无图片</text>
+    </view>
 
     <!-- 图片计数器 -->
     <view wx:if="{{article.imageUrls && article.imageUrls.length > 1}}" class="image-counter">
@@ -39,19 +44,19 @@
   </view>
 
   <!-- 内容区 -->
-  <view class="content-container">
+  <view class="content-container" wx:if="{{article}}">
     <!-- 标题 -->
-    <view class="title">{{article.title}}</view>
+    <view class="title">{{article.title || ''}}</view>
 
     <!-- 元信息 -->
     <view class="meta-info">
-      <text class="category">{{article.category}}</text>
-      <text class="date">{{article.publishDate}}</text>
-      <text class="author">{{article.author}}</text>
+      <text class="category">{{article.category || '未分类'}}</text>
+      <text class="date">{{article.publishDate || ''}}</text>
+      <text class="author">{{article.author || ''}}</text>
     </view>
 
     <!-- 标签 -->
-    <view class="tags">
+    <view class="tags" wx:if="{{article.tags && article.tags.length > 0}}">
       <view
         wx:for="{{article.tags}}"
         wx:key="index"
@@ -62,7 +67,7 @@
     </view>
 
     <!-- 描述 -->
-    <view class="description">{{article.description}}</view>
+    <view class="description">{{article.description || ''}}</view>
 
     <!-- 分享引导 -->
     <view class="share-tip">
@@ -71,7 +76,7 @@
   </view>
 
   <!-- 底部操作栏 -->
-  <view class="action-bar">
+  <view class="action-bar" wx:if="{{article}}">
     <view class="action-btn" bindtap="onFavorite">
       <image
         class="action-icon"
@@ -91,7 +96,7 @@
       <text>分享</text>
     </button>
 
-    <view wx:if="{{article.videoId}}" class="action-btn" bindtap="onWatchVideo">
+    <view wx:if="{{article.videoId && article.videoId !== ''}}" class="action-btn" bindtap="onWatchVideo">
       <image class="action-icon" src="/assets/icons/video.png" mode="aspectFit"></image>
       <text>看视频</text>
     </view>
