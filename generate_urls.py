@@ -111,10 +111,41 @@ def main():
     choice = input("\nOpen Web Admin? (y/n): ").lower().strip()
 
     if choice == 'y':
+        # 将URL编码为URL参数
+        import base64
+        import urllib.parse
+        import subprocess
+
+        urls_text = '\n'.join(urls)
+        urls_b64 = base64.b64encode(urls_text.encode('utf-8')).decode('utf-8')
+        # URL安全编码
+        urls_b64_safe = urllib.parse.quote(urls_b64)
+
         admin_path = os.path.abspath("admin/index.html")
         if os.path.exists(admin_path):
-            webbrowser.open(f'file:///{admin_path}')
-            print(f"\n[OK] Web Admin opened")
+            # Windows路径处理
+            if os.name == 'nt':
+                file_url = admin_path.replace('\\', '/')
+                file_url = f'file:///{file_url}'
+            else:
+                file_url = f'file://{admin_path}'
+
+            full_url = f'{file_url}?urls={urls_b64_safe}'
+
+            # Windows系统使用更可靠的打开方式
+            if os.name == 'nt':
+                try:
+                    # 使用Windows默认浏览器打开
+                    os.startfile(full_url)
+                except:
+                    # 如果os.startfile失败，使用subprocess
+                    subprocess.Popen(['cmd', '/c', 'start', '', full_url], shell=True)
+            else:
+                webbrowser.open(full_url)
+
+            print(f"\n[OK] Web Admin opened with URLs pre-filled")
+            print(f"[DEBUG] URL length: {len(full_url)} characters")
+            print(f"[DEBUG] URLs count: {len(urls)}")
         else:
             print(f"\n[ERROR] File not found: {admin_path}")
 

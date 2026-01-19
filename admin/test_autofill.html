@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>URL自动填充测试</title>
+</head>
+<body>
+    <h1>URL自动填充测试页面</h1>
+    <p>检查浏览器控制台（F12）查看调试信息</p>
+
+    <h2>测试结果：</h2>
+    <textarea id="imageUrl" style="width: 100%; height: 200px;"></textarea>
+
+    <script>
+        console.log('=== 开始测试URL自动填充 ===');
+        console.log('完整URL:', window.location.href);
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const urlsParam = urlParams.get('urls');
+
+        console.log('URL参数存在:', urlsParam ? '是' : '否');
+
+        if (urlsParam) {
+            console.log('URL参数长度:', urlsParam.length);
+
+            try {
+                const urlDecoded = decodeURIComponent(urlsParam);
+                console.log('URL解码成功，长度:', urlDecoded.length);
+
+                const decodedUrls = atob(urlDecoded);
+                console.log('Base64解码成功');
+                console.log('内容:', decodedUrls);
+
+                document.getElementById('imageUrl').value = decodedUrls;
+                console.log('✅ 填充成功！');
+
+            } catch (error) {
+                console.error('❌ 解码失败:', error);
+            }
+        } else {
+            document.getElementById('imageUrl').value = '未找到URL参数。请使用 generate-urls.bat 生成并打开此页面。';
+            console.log('❌ 未找到URL参数');
+        }
+
+        console.log('=== 测试结束 ===');
+    </script>
+</body>
+</html>

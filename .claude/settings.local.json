@@ -11,7 +11,10 @@
       "WebSearch",
       "Bash(cat:*)",
       "mcp__web-reader__webReader",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(test:*)"
     ],
     "deny": [],
     "ask": []
