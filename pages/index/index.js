@@ -14,10 +14,12 @@ Page({
   },
 
   onLoad() {
+    console.log('页面onLoad');
     this.loadArticles();
   },
 
   onShow() {
+    console.log('页面onShow，当前文章数量:', this.data.articles.length);
     // 从详情页返回时，刷新收藏状态
     if (this.data.articles.length > 0) {
       this.updateArticlesFavoriteStatus();
@@ -44,20 +46,41 @@ Page({
 
       const data = await api.getArticles();
 
-      // 提取分类
-      const categorySet = new Set(['全部']);
-      data.articles.forEach(article => {
-        if (article.category) {
-          categorySet.add(article.category);
-        }
+      console.log('API返回的原始数据:', data);
+      console.log('文章数量:', data.articles.length);
+
+      // 数据规范化：确保所有必需字段都存在，并且都是简单类型
+      const normalizedArticles = data.articles.map((article, index) => {
+        const normalized = {
+          id: String(article.id || `article_${index}`),
+          title: String(article.title || '无标题'),
+          description: String(article.description || ''),
+          thumbnailUrl: String(article.thumbnailUrl || article.imageUrl || ''),
+          publishDate: String(article.publishDate || '未知日期'),
+          imageUrl: String(article.imageUrl || article.thumbnailUrl || ''),
+          imageUrls: Array.isArray(article.imageUrls) ? article.imageUrls.map(url => String(url)) : [],
+          viewCount: Number(article.viewCount || 0),
+          downloadCount: Number(article.downloadCount || 0),
+          favoriteCount: Number(article.favoriteCount || 0)
+        };
+
+        console.log(`文章${index}规范化后:`, normalized);
+        return normalized;
       });
 
+      // 按照日期降序排序（最新的在前）
+      normalizedArticles.sort((a, b) => {
+        return new Date(b.publishDate) - new Date(a.publishDate);
+      });
+
+      console.log('排序后的文章列表:', normalizedArticles.map(a => ({ id: a.id, title: a.title, date: a.publishDate })));
+
       this.setData({
-        articles: data.articles,
-        filteredArticles: data.articles,
-        categories: Array.from(categorySet),
+        articles: normalizedArticles,
         loading: false
       });
+
+      console.log('setData调用完成，articles长度:', this.data.articles.length);
 
       // 保存最后更新时间
       storage.setLastUpdate(data.meta.lastUpdate);

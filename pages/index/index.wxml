@@ -1,105 +1,38 @@
 <!--pages/index/index.wxml-->
 <view class="container">
-  <!-- 顶部搜索栏 -->
-  <view class="search-bar">
-    <view class="search-box">
-      <image class="search-icon" src="/assets/icons/search.png" mode="aspectFit"></image>
-      <input
-        class="search-input"
-        type="text"
-        placeholder="搜索标题、标签"
-        value="{{searchKeyword}}"
-        bindinput="onSearchInput"
-      />
-      <image
-        wx:if="{{searchKeyword}}"
-        class="clear-icon"
-        src="/assets/icons/close.png"
-        mode="aspectFit"
-        bindtap="onClearSearch"
-      ></image>
-    </view>
-  </view>
-
-  <!-- 分类筛选 -->
-  <scroll-view class="category-scroll" scroll-x enable-flex>
-    <view class="category-list">
-      <view
-        wx:for="{{categories}}"
-        wx:key="index"
-        class="category-item {{selectedCategory === item ? 'active' : ''}}"
-        data-category="{{item}}"
-        bindtap="onSelectCategory"
-      >
-        {{item}}
-      </view>
-    </view>
-  </scroll-view>
-
   <!-- 文章列表 -->
   <view class="article-list">
-    <!-- 空状态 -->
-    <view wx:if="{{filteredArticles.length === 0 && !loading}}" class="empty-state">
-      <image class="empty-icon" src="/assets/icons/empty.png" mode="aspectFit"></image>
-      <text class="empty-text">暂无相关内容</text>
-    </view>
-
-    <!-- 文章卡片 -->
     <view
-      wx:for="{{filteredArticles}}"
+      wx:for="{{articles}}"
       wx:key="id"
       class="article-card"
       bindtap="onArticleTap"
       data-id="{{item.id}}"
     >
-      <!-- 封面图 -->
-      <view class="card-cover">
-        <image
-          class="cover-image"
-          src="{{item.thumbnailUrl}}"
-          mode="aspectFill"
-          lazy-load
-        ></image>
-        <view class="card-category-tag">{{item.category}}</view>
-      </view>
+      <!-- 图片 -->
+      <image
+        class="card-image"
+        src="{{item.thumbnailUrl}}"
+        mode="aspectFill"
+        lazy-load
+      ></image>
 
-      <!-- 卡片内容 -->
+      <!-- 内容 -->
       <view class="card-content">
         <view class="card-title">{{item.title}}</view>
-        <view class="card-description">{{item.description}}</view>
-
-        <!-- 标签 -->
-        <view class="card-tags">
-          <view
-            wx:for="{{item.tags}}"
-            wx:for-item="tag"
-            wx:key="index"
-            class="tag"
-          >
-            #{{tag}}
-          </view>
-        </view>
-
-        <!-- 底部信息 -->
-        <view class="card-footer">
-          <text class="publish-date">{{item.publishDate}}</text>
-          <view class="download-btn" catchtap="onQuickDownload" data-url="{{item.imageUrl}}">
-            <image class="download-icon" src="/assets/icons/download.png" mode="aspectFit"></image>
-            <text>下载原图</text>
-          </view>
-        </view>
+        <view class="card-desc">{{item.description}}</view>
+        <view class="card-date">{{item.publishDate}}</view>
       </view>
     </view>
   </view>
 
   <!-- 加载状态 -->
   <view wx:if="{{loading}}" class="loading-state">
-    <view class="loading-spinner"></view>
     <text>加载中...</text>
   </view>
 
-  <!-- 下拉刷新提示 -->
-  <view wx:if="{{refreshing}}" class="refreshing">
-    <text>正在刷新...</text>
+  <!-- 空状态 -->
+  <view wx:if="{{articles.length === 0 && !loading}}" class="empty-state">
+    <text>暂无内容</text>
   </view>
 </view>
