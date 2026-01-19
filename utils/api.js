@@ -2,7 +2,7 @@
 const CONFIG = {
   // GitHub数据源URL（请替换为你的实际地址）
   // 格式：https://raw.githubusercontent.com/[用户名]/[仓库名]/[分支]/data/articles.json
-  dataUrl: 'https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/dailynew/main/data/articles.json'
+  dataUrl: 'https://raw.githubusercontent.com/gds910228/dailynew/main/data/articles.json'
 };
 
 /**
