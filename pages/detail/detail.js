@@ -4,8 +4,9 @@ const storage = require('../../utils/storage.js');
 
 Page({
   data: {
-    article: {},        // 文章数据
-    isFavorited: false  // 是否已收藏
+    article: {},             // 文章数据
+    isFavorited: false,      // 是否已收藏
+    currentImageIndex: 0     // 当前显示的图片索引
   },
 
   onLoad(options) {
@@ -64,12 +65,31 @@ Page({
   /**
    * 预览图片
    */
-  onPreviewImage() {
+  onPreviewImage(e) {
     const { article } = this.data;
 
-    wx.previewImage({
-      current: article.imageUrl,
-      urls: [article.imageUrl]
+    // 支持多图预览
+    if (article.imageUrls && article.imageUrls.length > 1) {
+      const index = e.currentTarget.dataset.index || 0;
+      wx.previewImage({
+        current: article.imageUrls[index],
+        urls: article.imageUrls
+      });
+    } else {
+      // 单图预览（兼容旧数据）
+      wx.previewImage({
+        current: article.imageUrl,
+        urls: [article.imageUrl]
+      });
+    }
+  },
+
+  /**
+   * 图片切换事件
+   */
+  onImageChange(e) {
+    this.setData({
+      currentImageIndex: e.detail.current
     });
   },
 
@@ -108,15 +128,36 @@ Page({
    * 下载原图
    */
   async onDownload() {
-    const { article } = this.data;
+    const { article, currentImageIndex } = this.data;
 
+    // 如果是多图，显示选择菜单
+    if (article.imageUrls && article.imageUrls.length > 1) {
+      wx.showActionSheet({
+        itemList: ['下载当前图片', '下载所有图片'],
+        success: async (res) => {
+          if (res.tapIndex === 0) {
+            // 下载当前图片
+            await this.downloadSingleImage(article.imageUrls[currentImageIndex]);
+          } else if (res.tapIndex === 1) {
+            // 下载所有图片
+            await this.downloadAllImages(article.imageUrls);
+          }
+        }
+      });
+    } else {
+      // 单图直接下载
+      await this.downloadSingleImage(article.imageUrl);
+    }
+  },
+
+  /**
+   * 下载单张图片
+   */
+  async downloadSingleImage(imageUrl) {
     try {
       wx.showLoading({ title: '下载中...' });
 
-      // 下载图片
-      const filePath = await api.downloadImage(article.imageUrl);
-
-      // 保存到相册
+      const filePath = await api.downloadImage(imageUrl);
       await api.saveImageToPhotosAlbum(filePath);
 
       wx.hideLoading();
@@ -130,6 +171,46 @@ Page({
         icon: 'none'
       });
     }
+  },
+
+  /**
+   * 下载所有图片
+   */
+  async downloadAllImages(imageUrls) {
+    wx.showModal({
+      title: '确认下载',
+      content: `将下载 ${imageUrls.length} 张图片，是否继续？`,
+      success: async (res) => {
+        if (res.confirm) {
+          wx.showLoading({ title: '准备下载...' });
+
+          let successCount = 0;
+          let failCount = 0;
+
+          for (let i = 0; i < imageUrls.length; i++) {
+            try {
+              wx.showLoading({ title: `下载 ${i + 1}/${imageUrls.length}` });
+
+              const filePath = await api.downloadImage(imageUrls[i]);
+              await api.saveImageToPhotosAlbum(filePath);
+
+              successCount++;
+            } catch (error) {
+              console.error(`下载第${i + 1}张失败`, error);
+              failCount++;
+            }
+          }
+
+          wx.hideLoading();
+
+          wx.showModal({
+            title: '下载完成',
+            content: `成功：${successCount}张\n失败：${failCount}张`,
+            showCancel: false
+          });
+        }
+      }
+    });
   },
 
   /**

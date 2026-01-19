@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
-    "lastUpdate": "2025-01-18",
-    "totalCount": 0
+    "version": "2.0.0",
+    "lastUpdate": "2025-01-19",
+    "totalCount": 2
   },
   "categories": [
     "半导体",
@@ -16,11 +16,31 @@
       "id": "20250118001",
       "title": "半导体设备：台积电扩产，国产替代加速",
       "description": "核心催化：台积电业绩定调——AI需求真实存在，未来三年将进行大规模扩产。投资机会：国产刻蚀设备、薄膜沉积设备厂商有望受益。",
-      "imageUrl": "https://via.placeholder.com/800x1200/4A90E2/ffffff?text=示例图片",
+      "imageUrl": "https://via.placeholder.com/800x1200/4A90E2/ffffff?text=单图示例",
       "thumbnailUrl": "https://via.placeholder.com/400x600/4A90E2/ffffff?text=缩略图",
       "tags": ["半导体", "AI", "台积电"],
       "category": "半导体",
       "publishDate": "2025-01-18",
+      "videoId": "",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
+    {
+      "id": "20250119001",
+      "title": "AI硬件行业深度分析（多图示例）",
+      "description": "AI芯片、服务器、存储全产业链分析。包含市场规模、主要玩家、技术趋势等多维度解读。",
+      "imageUrl": "https://via.placeholder.com/800x1200/667eea/ffffff?text=图片1",
+      "imageUrls": [
+        "https://via.placeholder.com/800x1200/667eea/ffffff?text=图片1",
+        "https://via.placeholder.com/800x1200/764ba2/ffffff?text=图片2",
+        "https://via.placeholder.com/800x1200/667eea/ffffff?text=图片3"
+      ],
+      "thumbnailUrl": "https://via.placeholder.com/400x600/667eea/ffffff?text=图片1",
+      "tags": ["AI", "硬件", "芯片"],
+      "category": "AI硬件",
+      "publishDate": "2025-01-19",
       "videoId": "",
       "author": "每日新知识汇",
       "viewCount": 0,

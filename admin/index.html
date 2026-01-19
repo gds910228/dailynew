@@ -280,17 +280,14 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="imageUrl">原图URL *</label>
-                    <input type="url" id="imageUrl" required placeholder="https://example.com/image.jpg">
-                    <button type="button" class="btn" style="padding: 8px; font-size: 14px; margin-top: 8px;" onclick="uploadImage()">
-                        📤 上传图片到图床
-                    </button>
-                    <p class="help-text">支持粘贴图片URL或使用上传功能</p>
+                    <label>图片URL * <span style="font-weight: normal; color: #666;">（支持多张图片，每行一个URL）</span></label>
+                    <textarea id="imageUrl" required placeholder="https://example.com/image1.jpg&#10;https://example.com/image2.jpg&#10;https://example.com/image3.jpg" style="min-height: 120px;"></textarea>
+                    <p class="help-text">每行填写一个图片URL，第一张将作为封面图</p>
                 </div>
 
                 <div class="form-group">
-                    <label for="category">分类 *</label>
-                    <select id="category" required>
+                    <label for="category">分类（可选）</label>
+                    <select id="category">
                         <option value="">请选择分类</option>
                         <option value="半导体">半导体</option>
                         <option value="AI硬件">AI硬件</option>
@@ -301,11 +298,11 @@
                 </div>
 
                 <div class="form-group">
-                    <label>标签 *</label>
+                    <label>标签（可选）</label>
                     <div class="tags-input-container" id="tagsContainer">
                         <input type="text" class="tags-input" id="tagsInput" placeholder="输入标签后按回车">
                     </div>
-                    <p class="help-text">输入标签后按Enter添加，至少添加一个标签</p>
+                    <p class="help-text">输入标签后按Enter添加，建议添加2-3个标签便于搜索</p>
                 </div>
 
                 <div class="form-row">

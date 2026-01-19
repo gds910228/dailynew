@@ -6,7 +6,9 @@
       "Bash(dir:*)",
       "Bash(curl:*)",
       "Bash(git add:*)",
-      "Bash(git check-ignore:*)"
+      "Bash(git check-ignore:*)",
+      "Bash(git ls-tree:*)",
+      "WebSearch"
     ],
     "deny": [],
     "ask": []

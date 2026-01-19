@@ -130,21 +130,27 @@ async function handleSubmit(e) {
         return;
     }
 
-    // 验证标签
-    if (tags.length === 0) {
-        showMessage('请至少添加一个标签', 'error');
+    // 收集表单数据
+    // 处理多个图片URL
+    const imageUrlText = document.getElementById('imageUrl').value;
+    const imageUrls = imageUrlText.split('\n')
+        .map(url => url.trim())
+        .filter(url => url.length > 0);
+
+    if (imageUrls.length === 0) {
+        showMessage('请至少填写一个图片URL', 'error');
         return;
     }
 
-    // 收集表单数据
     const article = {
         id: generateArticleId(),
         title: document.getElementById('title').value,
         description: document.getElementById('description').value,
-        imageUrl: document.getElementById('imageUrl').value,
-        thumbnailUrl: document.getElementById('imageUrl').value, // 暂时使用同一URL
-        tags: tags,
-        category: document.getElementById('category').value,
+        imageUrl: imageUrls[0], // 第一张图作为主图
+        imageUrls: imageUrls, // 所有图片URL数组
+        thumbnailUrl: imageUrls[0], // 使用第一张图作为缩略图
+        tags: tags.length > 0 ? tags : [], // 如果没有标签，使用空数组
+        category: document.getElementById('category').value || '未分类', // 如果没有分类，使用默认值
         publishDate: document.getElementById('publishDate').value,
         videoId: document.getElementById('videoId').value,
         author: document.getElementById('author').value,

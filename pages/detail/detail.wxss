@@ -8,11 +8,31 @@ page {
 .image-container {
   background: #000;
   width: 100%;
+  position: relative;
+}
+
+/* Swiper轮播 */
+.image-swiper {
+  width: 100%;
+  height: auto;
 }
 
 .article-image {
   width: 100%;
   display: block;
+}
+
+/* 图片计数器 */
+.image-counter {
+  position: absolute;
+  bottom: 20rpx;
+  right: 20rpx;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 8rpx 20rpx;
+  border-radius: 40rpx;
+  font-size: 24rpx;
+  z-index: 10;
 }
 
 /* 内容区 */

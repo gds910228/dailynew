@@ -1,13 +1,41 @@
 <!--pages/detail/detail.wxml-->
 <view class="container">
-  <!-- 图片展示区 -->
+  <!-- 图片展示区 - 支持多图轮播 -->
   <view class="image-container">
+    <swiper
+      wx:if="{{article.imageUrls && article.imageUrls.length > 1}}"
+      class="image-swiper"
+      indicator-dots="{{true}}"
+      indicator-color="rgba(255, 255, 255, 0.5)"
+      indicator-active-color="#fff"
+      autoplay="{{false}}"
+      current="{{currentImageIndex}}"
+      bindchange="onImageChange"
+    >
+      <swiper-item wx:for="{{article.imageUrls}}" wx:key="index">
+        <image
+          class="article-image"
+          src="{{item}}"
+          mode="widthFix"
+          bindtap="onPreviewImage"
+          data-index="{{index}}"
+        ></image>
+      </swiper-item>
+    </swiper>
+
+    <!-- 单图显示（兼容旧数据） -->
     <image
+      wx:else
       class="article-image"
       src="{{article.imageUrl}}"
       mode="widthFix"
       bindtap="onPreviewImage"
     ></image>
+
+    <!-- 图片计数器 -->
+    <view wx:if="{{article.imageUrls && article.imageUrls.length > 1}}" class="image-counter">
+      {{currentImageIndex + 1}} / {{article.imageUrls.length}}
+    </view>
   </view>
 
   <!-- 内容区 -->
