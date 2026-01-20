@@ -40,17 +40,32 @@ function getArticles() {
                 const base64Content = res.data.content.replace(/\n/g, '');
                 console.log('Base64内容长度:', base64Content.length);
 
-                // 解码base64 - 使用兼容微信小程序的方法
+                // 解码base64 - 使用更兼容的方法
                 let content = '';
+
                 try {
-                  // 方法1：标准atob + escape/unescape（支持中文）
-                  content = decodeURIComponent(escape(atob(base64Content)));
-                } catch (e) {
+                  // 方法1：使用Uint8Array解码（最兼容，支持UTF-8）
+                  const binaryString = atob(base64Content);
+                  const bytes = new Uint8Array(binaryString.length);
+                  for (let i = 0; i < binaryString.length; i++) {
+                    bytes[i] = binaryString.charCodeAt(i);
+                  }
+                  const decoder = new TextDecoder('utf-8');
+                  content = decoder.decode(bytes);
+                } catch (e1) {
+                  console.warn('方法1失败，尝试方法2:', e1);
                   try {
-                    // 方法2：直接atob（适合ASCII）
-                    content = atob(base64Content);
+                    // 方法2：escape/unescape（备选）
+                    content = decodeURIComponent(escape(atob(base64Content)));
                   } catch (e2) {
-                    throw new Error('Base64解码失败');
+                    console.warn('方法2失败，尝试方法3:', e2);
+                    try {
+                      // 方法3：直接atob（仅ASCII）
+                      content = atob(base64Content);
+                    } catch (e3) {
+                      console.error('所有解码方法都失败:', e3);
+                      throw new Error('Base64解码失败，请检查网络连接');
+                    }
                   }
                 }
 
