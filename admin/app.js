@@ -225,7 +225,16 @@ async function fetchCurrentData() {
     }
 
     const result = await response.json();
-    const content = atob(result.content); // Base64解码
+
+    // 正确解码Base64（支持UTF-8中文）
+    const binaryString = atob(result.content.replace(/\n/g, ''));
+    const bytes = new Uint8Array(binaryString.length);
+    for (let i = 0; i < binaryString.length; i++) {
+        bytes[i] = binaryString.charCodeAt(i);
+    }
+    const decoder = new TextDecoder();
+    const content = decoder.decode(bytes);
+
     return JSON.parse(content);
 }
 
