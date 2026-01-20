@@ -9,9 +9,25 @@ const CONFIG = {
 
 /**
  * Base64解码函数（微信小程序兼容版）
- * 微信小程序环境不支持atob，需要手动实现
+ * 优先使用微信官方API，降级到手动实现
  */
-function atobPolyfill(base64String) {
+function decodeBase64(base64String) {
+  // 方法1：使用微信官方API（最可靠）
+  if (typeof wx !== 'undefined' && wx.base64ToArrayBuffer) {
+    try {
+      const arrayBuffer = wx.base64ToArrayBuffer(base64String);
+      const uint8Array = new Uint8Array(arrayBuffer);
+      let decoded = '';
+      for (let i = 0; i < uint8Array.length; i++) {
+        decoded += String.fromCharCode(uint8Array[i]);
+      }
+      return decoded;
+    } catch (e) {
+      console.warn('wx.base64ToArrayBuffer失败，尝试手动实现:', e);
+    }
+  }
+
+  // 方法2：手动实现atob（备选）
   const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
   let output = '';
   let buffer = 0;
@@ -33,8 +49,8 @@ function atobPolyfill(base64String) {
   return output;
 }
 
-// 使用polyfill或原生atob（如果在浏览器环境）
-const safeAtob = typeof atob !== 'undefined' ? atob : atobPolyfill;
+// 使用原生atob（如果在浏览器环境）或自定义实现
+const safeAtob = typeof atob !== 'undefined' ? atob : decodeBase64;
 
 /**
  * 获取文章列表（带多URL重试机制）
@@ -98,8 +114,12 @@ function getArticles() {
                   }
                 }
 
+                // 清理末尾的空白字符和非法字符
+                content = content.trim();
+
                 console.log('解码后内容长度:', content.length);
                 console.log('解码后内容预览:', content.substring(0, 50));
+                console.log('解码后内容末尾:', content.substring(content.length - 50));
 
                 // 解析JSON
                 const data = JSON.parse(content);
