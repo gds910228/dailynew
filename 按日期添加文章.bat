@@ -1,9 +1,10 @@
 @echo off
-title 按日期添加文章
+chcp 65001 >nul
+title Add Article by Date
 
 echo.
 echo ========================================
-echo 按日期添加文章到小程序
+echo Add Article to Mini Program by Date
 echo ========================================
 echo.
 
@@ -19,8 +20,8 @@ if errorlevel 1 (
 echo [OK] Python is installed
 echo.
 
-echo [Step 2] 输入日期（格式：20260120）
-set /p date_folder="请输入日期: "
+echo [Step 2] Enter date (format: 20260120)
+set /p date_folder="Date: "
 
 echo.
 echo [Step 3] Generating URLs for %date_folder%...
