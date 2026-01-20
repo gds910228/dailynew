@@ -4,7 +4,7 @@ const storage = require('../../utils/storage.js');
 
 Page({
   data: {
-    article: {},             // 文章数据
+    article: null,           // 文章数据（初始化为null，避免空对象导致渲染错误）
     isFavorited: false,      // 是否已收藏
     currentImageIndex: 0     // 当前显示的图片索引
   },
@@ -22,23 +22,6 @@ Page({
   async loadArticle(id) {
     try {
       wx.showLoading({ title: '加载中...' });
-
-      // 先初始化空数据，避免渲染时访问 undefined
-      this.setData({
-        article: {
-          id: '',
-          title: '',
-          description: '',
-          imageUrl: '',
-          imageUrls: [],
-          thumbnailUrl: '',
-          tags: [],
-          category: '',
-          publishDate: '',
-          videoId: '',
-          author: ''
-        }
-      });
 
       // 获取所有文章
       const data = await api.getArticles();
@@ -61,9 +44,9 @@ Page({
         title: article.title || '',
         description: article.description || '',
         imageUrl: article.imageUrl || '',
-        imageUrls: article.imageUrls || [],
+        imageUrls: Array.isArray(article.imageUrls) ? article.imageUrls : [],
         thumbnailUrl: article.thumbnailUrl || article.imageUrl || '',
-        tags: article.tags || [],
+        tags: Array.isArray(article.tags) ? article.tags : [],
         category: article.category || '未分类',
         publishDate: article.publishDate || '',
         videoId: article.videoId || '',
@@ -76,6 +59,15 @@ Page({
       // 记录浏览历史
       storage.addHistory(safeArticle);
 
+      // 调试日志：检查图片数据
+      console.log('=== 详情页数据调试 ===');
+      console.log('文章ID:', safeArticle.id);
+      console.log('imageUrl:', safeArticle.imageUrl);
+      console.log('imageUrls:', safeArticle.imageUrls);
+      console.log('imageUrls长度:', safeArticle.imageUrls.length);
+      console.log('thumbnailUrl:', safeArticle.thumbnailUrl);
+
+      // 一次性设置所有数据
       this.setData({
         article: safeArticle,
         isFavorited: isFavorited
@@ -122,6 +114,22 @@ Page({
   onImageChange(e) {
     this.setData({
       currentImageIndex: e.detail.current
+    });
+  },
+
+  /**
+   * 图片加载失败处理
+   */
+  onImageError(e) {
+    const errMsg = e.detail.errMsg;
+    console.error('=== 图片加载失败 ===');
+    console.error('错误信息:', errMsg);
+    console.error('图片URL:', e.currentTarget.dataset.src || e.currentTarget.src);
+
+    wx.showModal({
+      title: '图片加载失败',
+      content: `错误: ${errMsg}\n\n建议：\n1. 检查网络连接\n2. 尝试下拉刷新`,
+      showCancel: false
     });
   },
 

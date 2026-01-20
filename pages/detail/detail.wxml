@@ -3,7 +3,7 @@
   <!-- 图片展示区 - 支持多图轮播 -->
   <view class="image-container" wx:if="{{article}}">
     <swiper
-      wx:if="{{article.imageUrls && article.imageUrls.length >= 1}}"
+      wx:if="{{article.imageUrls && article.imageUrls.length > 0}}"
       class="image-swiper"
       indicator-dots="{{article.imageUrls.length > 1}}"
       indicator-color="rgba(255, 255, 255, 0.5)"
@@ -16,9 +16,11 @@
         <image
           class="article-image"
           src="{{item}}"
-          mode="widthFix"
+          mode="aspectFill"
           bindtap="onPreviewImage"
           data-index="{{index}}"
+          lazy-load="{{true}}"
+          binderror="onImageError"
         ></image>
       </swiper-item>
     </swiper>
@@ -28,8 +30,9 @@
       wx:elif="{{article.imageUrl}}"
       class="article-image"
       src="{{article.imageUrl}}"
-      mode="widthFix"
+      mode="aspectFill"
       bindtap="onPreviewImage"
+      lazy-load="{{true}}"
     ></image>
 
     <!-- 无图片提示 -->
