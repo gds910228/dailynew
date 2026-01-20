@@ -12,7 +12,7 @@ import shutil
 import subprocess
 
 def generate_image_urls():
-    """生成所有图片的正确URL"""
+    """生成所有图片的正确URL（支持子文件夹结构）"""
     images_dir = "assets/images"
 
     if not os.path.exists(images_dir):
@@ -20,38 +20,50 @@ def generate_image_urls():
         return []
 
     urls = []
-    image_files = []
+    image_info = []  # 存储 (相对路径, 文件名) 的元组
 
-    # 获取所有图片文件
-    for filename in os.listdir(images_dir):
-        if filename.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp')):
-            image_files.append(filename)
+    # 递归扫描所有子文件夹
+    for root, dirs, files in os.walk(images_dir):
+        for filename in files:
+            if filename.lower().endswith(('.jpg', '.jpeg', '.png', '.gif', '.webp')):
+                # 获取相对路径（相对于 assets/images）
+                full_path = os.path.join(root, filename)
+                rel_path = os.path.relpath(full_path, images_dir)
+                image_info.append((rel_path, filename))
 
-    if not image_files:
+    if not image_info:
         print("[INFO] No images found")
         return []
 
-    # 按文件名排序
-    image_files.sort()
+    # 按相对路径排序（确保日期文件夹有序）
+    image_info.sort(key=lambda x: x[0])
 
     print("\n" + "="*70)
     print(" Image URLs (Copy and Paste to Web Admin):")
     print("="*70)
 
-    for i, filename in enumerate(image_files, 1):
-        # URL编码文件名
-        encoded_filename = urllib.parse.quote(filename)
+    for i, (rel_path, filename) in enumerate(image_info, 1):
+        # 将路径分隔符统一为正斜杠（URL标准）
+        url_path = rel_path.replace(os.sep, '/')
 
-        # 生成URL
-        url = f"https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/{encoded_filename}"
+        # URL编码整个相对路径（包括子文件夹）
+        encoded_path = urllib.parse.quote(url_path)
+
+        # 生成URL（包含子文件夹路径）
+        url = f"https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/{encoded_path}"
 
         urls.append(url)
 
-        # 显示结果
-        print(f"\n{i}. {filename}")
+        # 显示结果（显示文件夹结构）
+        folder_name = os.path.dirname(rel_path)
+        if folder_name:
+            print(f"\n{i}. [{folder_name}] {filename}")
+        else:
+            print(f"\n{i}. {filename}")
         print(f"   {url}")
 
     print("\n" + "="*70)
+    print(f" Total: {len(urls)} images")
 
     return urls
 
@@ -272,7 +284,7 @@ def main():
     print("2. Fill in other article information")
     print("3. Click submit")
     print("4. Refresh mini-program to view")
-    print("\nDone! 🎉\n")
+    print("\nDone!\n")
 
 if __name__ == '__main__':
     try:
