@@ -8,6 +8,59 @@ const CONFIG = {
 };
 
 /**
+ * 转换图片URL（开发环境使用本地路径）
+ * @param {string} url - 原始图片URL（GitHub URL）
+ * @returns {string} 本地路径或原始URL
+ */
+function convertImageUrl(url) {
+  // 检测是否是开发环境
+  const isDev = typeof __wxConfig !== 'undefined' &&
+                (__wxConfig.envVersion === 'develop' || __wxConfig.envVersion === 'trial');
+
+  if (!isDev) {
+    // 生产环境，直接返回原URL
+    return url;
+  }
+
+  // 开发环境：尝试转换为本地路径
+  try {
+    // GitHub URL格式:
+    // https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260119/xxx.jpg
+
+    // 提取文件路径部分
+    const githubPrefix = 'https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/';
+
+    if (!url.startsWith(githubPrefix)) {
+      // 不是GitHub URL，直接返回
+      return url;
+    }
+
+    // 提取路径：assets/images/20260119/xxx.jpg
+    const imagePath = url.substring(githubPrefix.length);
+
+    // 转换为小程序本地路径：/assets/images/20260119/xxx.jpg
+    const localPath = `/assets/images/${imagePath}`;
+
+    return localPath;
+
+  } catch (error) {
+    console.error('URL转换失败:', error);
+    return url;
+  }
+}
+
+/**
+ * 批量转换图片URL
+ */
+function convertImageUrls(urls) {
+  if (!Array.isArray(urls)) {
+    return convertImageUrl(urls);
+  }
+
+  return urls.map(url => convertImageUrl(url));
+}
+
+/**
  * 获取文章列表（带多URL重试机制）
  */
 function getArticles() {
@@ -59,6 +112,24 @@ function getArticles() {
 
                 // 解析JSON
                 const data = JSON.parse(content);
+
+                // 开发环境：转换图片URL为本地路径
+                const isDev = typeof __wxConfig !== 'undefined' &&
+                             (__wxConfig.envVersion === 'develop' || __wxConfig.envVersion === 'trial');
+
+                if (isDev) {
+                  console.log('开发环境：转换图片URL为本地路径');
+                  data.articles = data.articles.map(article => {
+                    const converted = {
+                      ...article,
+                      imageUrl: convertImageUrl(article.imageUrl),
+                      imageUrls: convertImageUrls(article.imageUrls),
+                      thumbnailUrl: convertImageUrl(article.thumbnailUrl)
+                    };
+                    return converted;
+                  });
+                }
+
                 console.log('✓ 解析成功，文章数量:', data.articles.length);
                 resolve(data);
               } catch (e) {
@@ -186,5 +257,7 @@ module.exports = {
   filterByCategory,
   searchByTags,
   downloadImage,
-  saveImageToPhotosAlbum
+  saveImageToPhotosAlbum,
+  convertImageUrl,
+  convertImageUrls
 };
