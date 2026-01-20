@@ -8,6 +8,35 @@ const CONFIG = {
 };
 
 /**
+ * Base64解码函数（微信小程序兼容版）
+ * 微信小程序环境不支持atob，需要手动实现
+ */
+function atobPolyfill(base64String) {
+  const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
+  let output = '';
+  let buffer = 0;
+  let bufferLength = 0;
+
+  for (let i = 0; i < base64String.length; i++) {
+    const char = base64String[i];
+    const index = chars.indexOf(char);
+    if (index === -1) continue;
+
+    buffer = (buffer << 6) | index;
+    bufferLength += 6;
+
+    if (bufferLength >= 8) {
+      output += String.fromCharCode((buffer >> (bufferLength - 8)) & 0xff);
+      bufferLength -= 8;
+    }
+  }
+  return output;
+}
+
+// 使用polyfill或原生atob（如果在浏览器环境）
+const safeAtob = typeof atob !== 'undefined' ? atob : atobPolyfill;
+
+/**
  * 获取文章列表（带多URL重试机制）
  */
 function getArticles() {
@@ -45,7 +74,7 @@ function getArticles() {
 
                 try {
                   // 方法1：使用Uint8Array解码（最兼容，支持UTF-8）
-                  const binaryString = atob(base64Content);
+                  const binaryString = safeAtob(base64Content);
                   const bytes = new Uint8Array(binaryString.length);
                   for (let i = 0; i < binaryString.length; i++) {
                     bytes[i] = binaryString.charCodeAt(i);
@@ -56,12 +85,12 @@ function getArticles() {
                   console.warn('方法1失败，尝试方法2:', e1);
                   try {
                     // 方法2：escape/unescape（备选）
-                    content = decodeURIComponent(escape(atob(base64Content)));
+                    content = decodeURIComponent(escape(safeAtob(base64Content)));
                   } catch (e2) {
                     console.warn('方法2失败，尝试方法3:', e2);
                     try {
-                      // 方法3：直接atob（仅ASCII）
-                      content = atob(base64Content);
+                      // 方法3：直接safeAtob（仅ASCII）
+                      content = safeAtob(base64Content);
                     } catch (e3) {
                       console.error('所有解码方法都失败:', e3);
                       throw new Error('Base64解码失败，请检查网络连接');
