@@ -3,7 +3,7 @@
   <!-- 顶部用户信息区 -->
   <view class="header">
     <view class="user-info">
-      <image class="avatar" src="/assets/icons/app-icon.png" mode="aspectFit"></image>
+      <image class="avatar" src="/assets/icons/app-icon-v3.svg" mode="aspectFit"></image>
       <view class="app-name">每日新知识汇</view>
       <view class="app-desc">前沿财经资讯整理工具</view>
     </view>

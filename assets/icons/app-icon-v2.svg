@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 背景：渐变深色 -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d2d2d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="200" height="200" rx="44" fill="url(#bgGradient)"/>
+
+  <!-- 顶部电光蓝装饰条 -->
+  <rect x="0" y="0" width="200" height="12" rx="0" fill="#0066ff"/>
+  <rect x="0" y="0" width="200" height="12" rx="0" fill="#0066ff" opacity="0.3"/>
+
+  <!-- 知识符号：灯泡 + 书本组合 -->
+  <g transform="translate(100, 85)">
+    <!-- 灯泡主体 -->
+    <circle cx="0" cy="-15" r="35"
+            fill="none"
+            stroke="#0066ff"
+            stroke-width="4"/>
+
+    <!-- 灯泡底部 -->
+    <rect x="-12" y="22" width="24" height="6" rx="2"
+          fill="#0066ff"/>
+    <rect x="-10" y="30" width="20" height="4" rx="1"
+          fill="#0066ff" opacity="0.7"/>
+
+    <!-- 光芒线条 -->
+    <g stroke="#ffffff" stroke-width="3" stroke-linecap="round">
+      <line x1="0" y1="-65" x2="0" y2="-55"/>
+      <line x1="45" y1="-35" x2="38" y2="-28"/>
+      <line x1="-45" y1="-35" x2="-38" y2="-28"/>
+      <line x1="50" y1="-5" x2="40" y2="-5"/>
+      <line x1="-50" y1="-5" x2="-40" y2="-5"/>
+    </g>
+
+    <!-- 灯泡内的书本轮廓 -->
+    <path d="M -15 -10 Q -8 -5, 0 -10 Q 8 -5, 15 -10 L 15 5 Q 8 10, 0 5 Q -8 10, -15 5 Z"
+          fill="#ffffff"
+          opacity="0.9"/>
+  </g>
+
+  <!-- 底部文字：KNOWLEDGE -->
+  <text x="100" y="160"
+        font-family="Arial Black, sans-serif"
+        font-size="18"
+        font-weight="900"
+        fill="#ffffff"
+        text-anchor="middle"
+        letter-spacing="3">KNOWLEDGE</text>
+
+  <!-- 底部装饰线 -->
+  <rect x="70" y="172" width="60" height="3" rx="1.5" fill="#0066ff"/>
+</svg>

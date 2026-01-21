@@ -1,10 +1,65 @@
-/**app.wxss**/
+/**
+ * 每日新知识汇 - 杂志编辑风格设计系统
+ * Editorial Magazine Design System
+ */
+
+/* 全局变量 */
+page {
+  /* 色彩系统 - 杂志印刷风格 */
+  --color-ink: #1a1a1a;          /* 印刷墨色 - 主文字 */
+  --color-paper: #fafaf8;        /* 米白纸张 - 背景色 */
+  --color-accent: #0066ff;       /* 电光蓝 - 强调色 */
+  --color-accent-hover: #0052cc;
+  --color-text-secondary: #666666;
+  --color-text-tertiary: #999999;
+  --color-border: #e8e8e8;
+  --color-shadow: rgba(26, 26, 26, 0.08);
+
+  /* 字体大小 - 杂志式层次 */
+  --font-size-display: 52rpx;    /* 大标题 */
+  --font-size-h1: 44rpx;         /* 一级标题 */
+  --font-size-h2: 36rpx;         /* 二级标题 */
+  --font-size-h3: 32rpx;         /* 三级标题 */
+  --font-size-body: 28rpx;       /* 正文 */
+  --font-size-caption: 24rpx;    /* 说明文字 */
+  --font-size-small: 22rpx;      /* 小字 */
+
+  /* 间距系统 - 8px基准 */
+  --space-xs: 8rpx;
+  --space-sm: 16rpx;
+  --space-md: 24rpx;
+  --space-lg: 32rpx;
+  --space-xl: 48rpx;
+  --space-xxl: 64rpx;
+
+  /* 圆角 */
+  --radius-sm: 8rpx;
+  --radius-md: 16rpx;
+  --radius-lg: 24rpx;
+  --radius-full: 9999rpx;
+
+  /* 阴影 - 精致杂志感 */
+  --shadow-sm: 0 2rpx 8rpx var(--color-shadow);
+  --shadow-md: 0 8rpx 24rpx var(--color-shadow);
+  --shadow-lg: 0 16rpx 48rpx var(--color-shadow);
+
+  /* 动画 */
+  --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* 全局基础样式 */
+page {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-size: var(--font-size-body);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* 通用容器 */
 .container {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-  padding: 200rpx 0;
-  box-sizing: border-box;
+  min-height: 100vh;
+  background-color: var(--color-paper);
 } 

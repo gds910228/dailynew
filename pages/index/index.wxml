@@ -1,5 +1,11 @@
 <!--pages/index/index.wxml-->
 <view class="container">
+  <!-- 页面标题 - 杂志风格 -->
+  <view class="page-header">
+    <view class="page-title">每日知识</view>
+    <view class="page-subtitle">Daily Knowledge</view>
+  </view>
+
   <!-- 文章列表 -->
   <view class="article-list">
     <view
