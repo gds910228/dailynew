@@ -1,11 +1,35 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-01-21",
-    "totalCount": 6
+    "lastUpdate": "2026-01-22",
+    "totalCount": 7
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260123487",
+      "title": "2026-1-22周四 政策、热点与机会",
+      "description": "市场在央行7000亿MLF活水支撑下横盘蓄势，MACD多周期共振释放变盘信号。板块方面，化工供给侧优化逻辑强化，商业航天作为年度主线强势反弹，有色慢牛延续。建议轻指数重板块，均衡配置中关注硬核方向。  \n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E4%BB%B7%E5%80%BC-%E4%B8%9A%E7%BB%A9%E7%82%92%E9%A2%84%E6%9C%9F%E7%9A%84%E7%A1%AC%E7%A7%91%E6%8A%80PCB%E5%92%8CCPU%E3%80%81%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E4%BB%B7%E5%80%BC-%E4%B8%9A%E7%BB%A9%E7%82%92%E9%A2%84%E6%9C%9F%E7%9A%84%E7%A1%AC%E7%A7%91%E6%8A%80PCB%E5%92%8CCPU%E3%80%81%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E5%A4%9A%E5%91%A8%E6%9C%9F%E5%85%B1%E6%8C%AF%E5%8F%98%E7%9B%98%E4%BF%A1%E5%8F%B7%E3%80%81%E7%A1%AC%E7%A7%91%E6%8A%80%E3%80%81%E5%85%B3%E6%B3%A8%E5%8C%96%E5%B7%A5.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E5%B3%B0%E5%93%A5-%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E3%80%81%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E7%A1%AC%E4%BB%B6%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%92%8C%E6%B6%88%E8%B4%B9%E5%92%8C%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E5%90%AF%E5%8A%A8%E8%BF%B9%E8%B1%A1.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E6%A0%BC%E5%85%B0-%E5%B7%9D%E6%99%AE%E8%AE%A4%E6%80%82%E8%83%8C%E5%90%8E%E5%9C%B0%E7%BC%98%E5%A4%A7%E6%97%97.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E6%A0%BC%E5%85%B0-%E5%B8%82%E5%9C%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E7%8C%AB%E7%AC%94%E5%88%80-%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%8A%80%E6%9C%AF%E6%80%A7%E5%8D%9A%E5%BC%88%E4%BB%8D%E6%98%AF%E4%B8%BB%E8%A6%81%E5%8F%99%E4%BA%8B%E9%80%BB%E8%BE%91.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E4%BB%B7%E5%80%BC-%E4%B8%9A%E7%BB%A9%E7%82%92%E9%A2%84%E6%9C%9F%E7%9A%84%E7%A1%AC%E7%A7%91%E6%8A%80PCB%E5%92%8CCPU%E3%80%81%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+      "tags": [],
+      "category": "未分类",
+      "publishDate": "2026-01-22",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260122268",
       "title": "2026-1-21周三 政策、热点与机会",
