@@ -1,11 +1,33 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-01-22",
-    "totalCount": 7
+    "lastUpdate": "2026-01-24",
+    "totalCount": 8
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260124188",
+      "title": "2026-1-23周五 政策、热点与机会",
+      "description": "马斯克在达沃斯论坛释放三大风口——太空光伏（HJT技术）、人形机器人量产、AI电力瓶颈，直接带动光伏、机器人、半导体设备板块大涨。\n今日市场情绪回暖，监管重拳整治游资，题材活跃度攀升，紧跟产业巨头指引成为关键。 ",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E9%92%99%E9%92%9B%E7%9F%BF%E5%92%8C%E8%88%AA%E5%A4%A9%E7%BA%A7%E6%A0%87%E5%87%86%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%E7%BB%84%E4%BB%B6%E3%80%81C%E7%AB%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E3%80%81%E7%94%B5%E7%BD%91%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E9%92%99%E9%92%9B%E7%9F%BF%E5%92%8C%E8%88%AA%E5%A4%A9%E7%BA%A7%E6%A0%87%E5%87%86%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%E7%BB%84%E4%BB%B6%E3%80%81C%E7%AB%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E3%80%81%E7%94%B5%E7%BD%91%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E6%A0%BC%E5%85%B0-%E9%92%99%E9%92%9B%E7%9F%BF%E3%80%81%E5%AE%87%E8%88%AA%E7%BA%A7%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E7%8C%AB%E7%AC%94%E5%88%80.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E8%B0%83%E7%A0%94-%E5%85%89%E4%BC%8FHJT%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E7%94%B5%E5%8A%9B.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E9%92%99%E9%92%9B%E7%9F%BF%E5%92%8C%E8%88%AA%E5%A4%A9%E7%BA%A7%E6%A0%87%E5%87%86%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%E7%BB%84%E4%BB%B6%E3%80%81C%E7%AB%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E3%80%81%E7%94%B5%E7%BD%91%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+      "tags": [],
+      "category": "未分类",
+      "publishDate": "2026-01-23",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260123487",
       "title": "2026-1-22周四 政策、热点与机会",
