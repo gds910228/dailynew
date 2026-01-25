@@ -11,6 +11,7 @@ import urllib.parse
 import subprocess
 import webbrowser
 import re
+from datetime import datetime
 
 def generate_urls_for_date(date_folder):
     """生成指定日期文件夹的图片URL"""
@@ -67,6 +68,41 @@ def generate_urls_for_date(date_folder):
 
     return urls
 
+def generate_title_with_weekday(date_folder):
+    """生成带星期几的标题，格式：2026-1-24周六 政策、热点与机会"""
+    try:
+        year = int(date_folder[:4])
+        month = int(date_folder[4:6])
+        day = int(date_folder[6:8])
+
+        # 计算星期几
+        date_obj = datetime(year, month, day)
+        weekday_map = {
+            0: '周一',
+            1: '周二',
+            2: '周三',
+            3: '周四',
+            4: '周五',
+            5: '周六',
+            6: '周日'
+        }
+        weekday = weekday_map[date_obj.weekday()]
+
+        # 格式化日期，去掉前导零
+        formatted_date = f"{year}-{month}-{day}{weekday}"
+
+        # 生成完整标题
+        title = f"{formatted_date} 政策、热点与机会"
+
+        return title
+    except Exception as e:
+        print(f"[WARNING] Failed to generate title with weekday: {e}")
+        # 如果计算失败，使用默认格式
+        year = date_folder[:4]
+        month = date_folder[4:6]
+        day = date_folder[6:8]
+        return f"{year}年{month}月{day}日"
+
 def create_temp_admin_html(urls, date_folder):
     """创建临时的admin HTML文件，URL已经预填充"""
     admin_template_path = "admin/index.html"
@@ -83,14 +119,8 @@ def create_temp_admin_html(urls, date_folder):
     # 将URL列表转换为JavaScript字符串，转义换行符
     urls_escaped = '\\n'.join(urls)
 
-    # 解析日期，生成默认标题
-    try:
-        year = date_folder[:4]
-        month = date_folder[4:6]
-        day = date_folder[6:8]
-        default_title = f"{year}年{month}月{day}日"
-    except:
-        default_title = f"{date_folder}"
+    # 使用新函数生成标题（包含星期几）
+    default_title = generate_title_with_weekday(date_folder)
 
     # 在HTML中注入预填充数据（在app.js加载之前）
     inject_script = f'''
@@ -123,7 +153,7 @@ def create_temp_admin_html(urls, date_folder):
                 }
 
                 // 填充标题
-                const titleInput = document.getElementById('articleTitle');
+                const titleInput = document.getElementById('title');
                 if (titleInput && !titleInput.value && window.__PRELOAD_TITLE__) {
                     titleInput.value = window.__PRELOAD_TITLE__;
                     console.log('✅ Title auto-filled:', window.__PRELOAD_TITLE__);
@@ -139,6 +169,13 @@ def create_temp_admin_html(urls, date_folder):
                                         dateStr.substring(6, 8);
                     dateInput.value = formattedDate;
                     console.log('✅ Date auto-filled:', formattedDate);
+                }
+
+                // 填充视频号ID（如果为空）
+                const videoIdInput = document.getElementById('videoId');
+                if (videoIdInput && !videoIdInput.value) {
+                    videoIdInput.value = '每日新知识汇';
+                    console.log('✅ Video ID auto-filled: 每日新知识汇');
                 }
 
                 // 显示提示消息
@@ -162,8 +199,8 @@ def create_temp_admin_html(urls, date_folder):
     html_content = html_content.replace('</head>', inject_script)
 
     # 移除原有的script加载逻辑（因为我们要自定义）
-    # 找到并移除从 "// 优先加载本地配置文件" 到 "</script>" 的部分
-    pattern = r'<script>\s*// 优先加载本地配置文件.*?</script>'
+    # 找到并移除从 "// 优先加载本地配置文件" 到该 script 标签结束的部分
+    pattern = r'<script>\s*// 优先加载本地配置文件[\s\S]*?document\.body\.appendChild\(configScript\);\s*\}\)\(\);[\s\S]*?</script>'
     html_content = re.sub(pattern, '', html_content, flags=re.DOTALL)
 
     # 写入临时文件
@@ -287,7 +324,7 @@ def main():
 
             print(f"\n[OK] Web Admin opened with {len(urls)} URLs pre-filled")
             print(f"[INFO] Using temp file: {temp_file}")
-            print(f"[INFO] Title auto-filled as: {date_folder[:4]}年{date_folder[4:6]}月{date_folder[6:8]}日")
+            print(f"[INFO] Title auto-filled as: {default_title}")
             print(f"[INFO] Date auto-filled as: {date_folder[:4]}-{date_folder[4:6]}-{date_folder[6:8]}")
         else:
             print(f"\n[ERROR] Failed to create temp admin file")

@@ -1,5 +1,4 @@
 // 全局变量
-let tags = [];
 const API_BASE = 'https://api.github.com';
 
 // 初始化
@@ -7,58 +6,12 @@ document.addEventListener('DOMContentLoaded', function() {
     // 设置默认日期为今天
     document.getElementById('publishDate').valueAsDate = new Date();
 
-    // 初始化标签输入
-    initTagsInput();
-
     // 监听图片URL变化，显示预览
     document.getElementById('imageUrl').addEventListener('input', updatePreview);
 
     // 表单提交
     document.getElementById('articleForm').addEventListener('submit', handleSubmit);
 });
-
-// 标签管理
-function initTagsInput() {
-    const input = document.getElementById('tagsInput');
-    const container = document.getElementById('tagsContainer');
-
-    input.addEventListener('keydown', function(e) {
-        if (e.key === 'Enter') {
-            e.preventDefault();
-            const tag = input.value.trim();
-
-            if (tag && !tags.includes(tag)) {
-                tags.push(tag);
-                renderTags();
-                input.value = '';
-            }
-        }
-    });
-}
-
-function renderTags() {
-    const container = document.getElementById('tagsContainer');
-    const input = document.getElementById('tagsInput');
-
-    // 清除现有标签
-    container.querySelectorAll('.tag-item').forEach(el => el.remove());
-
-    // 渲染标签
-    tags.forEach((tag, index) => {
-        const tagEl = document.createElement('div');
-        tagEl.className = 'tag-item';
-        tagEl.innerHTML = `
-            ${tag}
-            <span class="remove-tag" onclick="removeTag(${index})">&times;</span>
-        `;
-        container.insertBefore(tagEl, input);
-    });
-}
-
-function removeTag(index) {
-    tags.splice(index, 1);
-    renderTags();
-}
 
 // 图片上传到SM.MS图床
 async function uploadImage() {
@@ -106,18 +59,32 @@ async function uploadImage() {
 function updatePreview() {
     const imageUrl = document.getElementById('imageUrl').value;
     const title = document.getElementById('title').value;
-    const category = document.getElementById('category').value;
     const date = document.getElementById('publishDate').value;
 
     if (imageUrl) {
-        document.getElementById('previewSection').classList.add('show');
-        document.getElementById('previewImage').src = imageUrl;
-        document.getElementById('previewTitle').textContent = title || '未填写标题';
-        document.getElementById('previewCategory').textContent = category || '未选择分类';
-        document.getElementById('previewTags').textContent = tags.join(', ') || '未添加标签';
-        document.getElementById('previewDate').textContent = date || '未选择日期';
+        const previewSection = document.getElementById('previewSection');
+        if (previewSection) {
+            previewSection.classList.add('show');
+            const previewImage = document.getElementById('previewImage');
+            if (previewImage) {
+                // 获取第一行URL作为预览图
+                const firstImageUrl = imageUrl.split('\n')[0].trim();
+                previewImage.src = firstImageUrl;
+            }
+            const previewTitle = document.getElementById('previewTitle');
+            if (previewTitle) {
+                previewTitle.textContent = title || '未填写标题';
+            }
+            const previewDate = document.getElementById('previewDate');
+            if (previewDate) {
+                previewDate.textContent = date || '未选择日期';
+            }
+        }
     } else {
-        document.getElementById('previewSection').classList.remove('show');
+        const previewSection = document.getElementById('previewSection');
+        if (previewSection) {
+            previewSection.classList.remove('show');
+        }
     }
 }
 
@@ -149,8 +116,8 @@ async function handleSubmit(e) {
         imageUrl: imageUrls[0], // 第一张图作为主图
         imageUrls: imageUrls, // 所有图片URL数组
         thumbnailUrl: imageUrls[0], // 使用第一张图作为缩略图
-        tags: tags.length > 0 ? tags : [], // 如果没有标签，使用空数组
-        category: document.getElementById('category').value || '未分类', // 如果没有分类，使用默认值
+        tags: [], // 空数组
+        category: '', // 空字符串
         publishDate: document.getElementById('publishDate').value,
         videoId: document.getElementById('videoId').value,
         author: document.getElementById('author').value,
@@ -179,10 +146,11 @@ async function handleSubmit(e) {
 
         // 重置表单
         document.getElementById('articleForm').reset();
-        tags = [];
-        renderTags();
         document.getElementById('publishDate').valueAsDate = new Date();
-        document.getElementById('previewSection').classList.remove('show');
+        const previewSection = document.getElementById('previewSection');
+        if (previewSection) {
+            previewSection.classList.remove('show');
+        }
 
         // 3秒后清除消息
         setTimeout(() => {

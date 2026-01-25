@@ -224,6 +224,7 @@
             border-radius: 8px;
             margin-bottom: 20px;
             border: 1px solid #ffeeba;
+            display: none;
         }
 
         .config-section h3 {
@@ -285,30 +286,10 @@
                     <p class="help-text">每行填写一个图片URL，第一张将作为封面图</p>
                 </div>
 
-                <div class="form-group">
-                    <label for="category">分类（可选）</label>
-                    <select id="category">
-                        <option value="">请选择分类</option>
-                        <option value="半导体">半导体</option>
-                        <option value="AI硬件">AI硬件</option>
-                        <option value="存储芯片">存储芯片</option>
-                        <option value="新能源">新能源</option>
-                        <option value="消费电子">消费电子</option>
-                    </select>
-                </div>
-
-                <div class="form-group">
-                    <label>标签（可选）</label>
-                    <div class="tags-input-container" id="tagsContainer">
-                        <input type="text" class="tags-input" id="tagsInput" placeholder="输入标签后按回车">
-                    </div>
-                    <p class="help-text">输入标签后按Enter添加，建议添加2-3个标签便于搜索</p>
-                </div>
-
                 <div class="form-row">
                     <div class="form-group">
                         <label for="videoId">视频号ID</label>
-                        <input type="text" id="videoId" placeholder="可选，关联视频号">
+                        <input type="text" id="videoId" value="每日新知识汇" placeholder="可选，关联视频号">
                     </div>
                     <div class="form-group">
                         <label for="publishDate">发布日期 *</label>
@@ -329,8 +310,6 @@
                 <h3>📋 文章预览</h3>
                 <img id="previewImage" class="preview-image" src="" alt="预览图片">
                 <p><strong>标题：</strong><span id="previewTitle"></span></p>
-                <p><strong>分类：</strong><span id="previewCategory"></span></p>
-                <p><strong>标签：</strong><span id="previewTags"></span></p>
                 <p><strong>日期：</strong><span id="previewDate"></span></p>
             </div>
         </div>
