@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-01-24",
-    "totalCount": 8
+    "lastUpdate": "2026-01-25",
+    "totalCount": 9
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260125540",
+      "title": "2026-1-24周六 政策、热点与机会",
+      "description": "监管三记重拳，精准打击游资炒作，传递A股转向价值投资信号；\n同时解析黄金逼空行情背后是全球对主权货币信心动摇，资金涌入避险。\n市场整体热度压而不息，资金转向小盘股炒作，制度的完善才是长期良药。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E6%A0%BC%E5%85%B0-%E7%9B%91%E7%AE%A1%E3%80%81%E9%BB%84%E9%87%91%E4%B8%8D%E4%BB%85%E6%98%AF%E9%81%BF%E9%99%A9.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E6%A0%BC%E5%85%B0-%E7%9B%91%E7%AE%A1%E3%80%81%E9%BB%84%E9%87%91%E4%B8%8D%E4%BB%85%E6%98%AF%E9%81%BF%E9%99%A9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA-0124.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E8%BF%9C%E6%96%B9%E9%9D%92%E6%9C%A8-%E5%81%9A%E7%A9%BA%E6%9C%BA%E5%88%B6%E5%AE%8C%E5%96%84.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E6%A0%BC%E5%85%B0-%E7%9B%91%E7%AE%A1%E3%80%81%E9%BB%84%E9%87%91%E4%B8%8D%E4%BB%85%E6%98%AF%E9%81%BF%E9%99%A9.jpg",
+      "tags": [],
+      "category": "未分类",
+      "publishDate": "2026-01-24",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260124188",
       "title": "2026-1-23周五 政策、热点与机会",
