@@ -1,11 +1,101 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-01-20",
-    "totalCount": 5
+    "lastUpdate": "2026-01-25",
+    "totalCount": 9
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260125540",
+      "title": "2026-1-24周六 政策、热点与机会",
+      "description": "监管三记重拳，精准打击游资炒作，传递A股转向价值投资信号；\n同时解析黄金逼空行情背后是全球对主权货币信心动摇，资金涌入避险。\n市场整体热度压而不息，资金转向小盘股炒作，制度的完善才是长期良药。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E6%A0%BC%E5%85%B0-%E7%9B%91%E7%AE%A1%E3%80%81%E9%BB%84%E9%87%91%E4%B8%8D%E4%BB%85%E6%98%AF%E9%81%BF%E9%99%A9.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E6%A0%BC%E5%85%B0-%E7%9B%91%E7%AE%A1%E3%80%81%E9%BB%84%E9%87%91%E4%B8%8D%E4%BB%85%E6%98%AF%E9%81%BF%E9%99%A9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA-0124.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E8%BF%9C%E6%96%B9%E9%9D%92%E6%9C%A8-%E5%81%9A%E7%A9%BA%E6%9C%BA%E5%88%B6%E5%AE%8C%E5%96%84.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260124/%E6%A0%BC%E5%85%B0-%E7%9B%91%E7%AE%A1%E3%80%81%E9%BB%84%E9%87%91%E4%B8%8D%E4%BB%85%E6%98%AF%E9%81%BF%E9%99%A9.jpg",
+      "tags": [],
+      "category": "未分类",
+      "publishDate": "2026-01-24",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
+    {
+      "id": "20260124188",
+      "title": "2026-1-23周五 政策、热点与机会",
+      "description": "马斯克在达沃斯论坛释放三大风口——太空光伏（HJT技术）、人形机器人量产、AI电力瓶颈，直接带动光伏、机器人、半导体设备板块大涨。\n今日市场情绪回暖，监管重拳整治游资，题材活跃度攀升，紧跟产业巨头指引成为关键。 ",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E9%92%99%E9%92%9B%E7%9F%BF%E5%92%8C%E8%88%AA%E5%A4%A9%E7%BA%A7%E6%A0%87%E5%87%86%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%E7%BB%84%E4%BB%B6%E3%80%81C%E7%AB%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E3%80%81%E7%94%B5%E7%BD%91%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E9%92%99%E9%92%9B%E7%9F%BF%E5%92%8C%E8%88%AA%E5%A4%A9%E7%BA%A7%E6%A0%87%E5%87%86%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%E7%BB%84%E4%BB%B6%E3%80%81C%E7%AB%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E3%80%81%E7%94%B5%E7%BD%91%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E6%A0%BC%E5%85%B0-%E9%92%99%E9%92%9B%E7%9F%BF%E3%80%81%E5%AE%87%E8%88%AA%E7%BA%A7%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E7%8C%AB%E7%AC%94%E5%88%80.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E8%B0%83%E7%A0%94-%E5%85%89%E4%BC%8FHJT%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E7%94%B5%E5%8A%9B.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260123/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E9%92%99%E9%92%9B%E7%9F%BF%E5%92%8C%E8%88%AA%E5%A4%A9%E7%BA%A7%E6%A0%87%E5%87%86%E5%85%89%E4%BC%8F%E8%AE%BE%E5%A4%87%E7%BB%84%E4%BB%B6%E3%80%81C%E7%AB%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E3%80%81%E7%94%B5%E7%BD%91%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0.jpg",
+      "tags": [],
+      "category": "未分类",
+      "publishDate": "2026-01-23",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
+    {
+      "id": "20260123487",
+      "title": "2026-1-22周四 政策、热点与机会",
+      "description": "市场在央行7000亿MLF活水支撑下横盘蓄势，MACD多周期共振释放变盘信号。板块方面，化工供给侧优化逻辑强化，商业航天作为年度主线强势反弹，有色慢牛延续。建议轻指数重板块，均衡配置中关注硬核方向。  \n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E4%BB%B7%E5%80%BC-%E4%B8%9A%E7%BB%A9%E7%82%92%E9%A2%84%E6%9C%9F%E7%9A%84%E7%A1%AC%E7%A7%91%E6%8A%80PCB%E5%92%8CCPU%E3%80%81%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E4%BB%B7%E5%80%BC-%E4%B8%9A%E7%BB%A9%E7%82%92%E9%A2%84%E6%9C%9F%E7%9A%84%E7%A1%AC%E7%A7%91%E6%8A%80PCB%E5%92%8CCPU%E3%80%81%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E5%A4%9A%E5%91%A8%E6%9C%9F%E5%85%B1%E6%8C%AF%E5%8F%98%E7%9B%98%E4%BF%A1%E5%8F%B7%E3%80%81%E7%A1%AC%E7%A7%91%E6%8A%80%E3%80%81%E5%85%B3%E6%B3%A8%E5%8C%96%E5%B7%A5.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E5%B3%B0%E5%93%A5-%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E3%80%81%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E7%A1%AC%E4%BB%B6%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%92%8C%E6%B6%88%E8%B4%B9%E5%92%8C%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E5%90%AF%E5%8A%A8%E8%BF%B9%E8%B1%A1.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E6%A0%BC%E5%85%B0-%E5%B7%9D%E6%99%AE%E8%AE%A4%E6%80%82%E8%83%8C%E5%90%8E%E5%9C%B0%E7%BC%98%E5%A4%A7%E6%97%97.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E6%A0%BC%E5%85%B0-%E5%B8%82%E5%9C%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E7%8C%AB%E7%AC%94%E5%88%80-%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%8A%80%E6%9C%AF%E6%80%A7%E5%8D%9A%E5%BC%88%E4%BB%8D%E6%98%AF%E4%B8%BB%E8%A6%81%E5%8F%99%E4%BA%8B%E9%80%BB%E8%BE%91.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260122/%E4%BB%B7%E5%80%BC-%E4%B8%9A%E7%BB%A9%E7%82%92%E9%A2%84%E6%9C%9F%E7%9A%84%E7%A1%AC%E7%A7%91%E6%8A%80PCB%E5%92%8CCPU%E3%80%81%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+      "tags": [],
+      "category": "未分类",
+      "publishDate": "2026-01-22",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
+    {
+      "id": "20260122268",
+      "title": "2026-1-21周三 政策、热点与机会",
+      "description": "今日A股在外围市场崩盘中展现极强韧性，主力资金通过ETF调控指数并转战期货控制节奏。\n硬科技（半导体、算力）全线爆发，贵金属避险逻辑强化，后市震荡中慢牛逻辑不变。  ",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E4%BB%B7%E5%80%BC-%E7%A1%AC%E7%A7%91%E6%8A%80%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E7%AE%97%E5%8A%9B.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E4%BB%B7%E5%80%BC-%E7%A1%AC%E7%A7%91%E6%8A%80%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E7%AE%97%E5%8A%9B.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E4%BD%8E%E4%BC%B0-%E5%AE%BD%E5%9F%BAETF%E5%92%8C%E6%B1%87%E9%87%91%E6%8C%81%E4%BB%93.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E7%A1%AC%E7%A7%91%E6%8A%80%E5%85%A8%E9%9D%A2%E7%88%86%E5%8F%91%E9%87%8D%E6%BC%94%E5%8E%BB%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%BC%BA%E5%8A%BF%E3%80%81%E5%85%B3%E6%B3%A8CPU%E7%BC%BA%E8%B4%A7%E6%B6%A8%E4%BB%B7.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E6%A0%BC%E5%85%B0-%E5%A4%96%E8%B5%84%E6%9C%89%E6%9C%9B%E5%9B%9E%E6%B5%81%E3%80%81CPU%E8%A1%A5%E6%B6%A8%E6%96%B9%E5%90%91%E6%98%AF%E9%AB%98%E6%80%A7%E8%83%BD%E8%BD%BD%E6%9D%BF%E7%BB%86%E5%88%86%E9%A2%86%E5%9F%9F.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E6%A0%BC%E5%85%B0-%E5%B8%82%E5%9C%BA%E3%80%81%E4%B8%BB%E5%8A%9B%E6%8D%A2%E9%98%B2%E6%9C%9F%E8%B4%A7%E6%8E%A7%E5%88%B6%E5%A4%A7%E6%96%B9%E5%90%91%E5%81%9A%E5%A4%9A%EF%BC%8C%E9%80%9A%E8%BF%87%E5%85%B6%E4%BD%8E%E9%A2%91%E7%89%B9%E6%80%A7%E9%99%8D%E4%BD%8E%E5%85%A8%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E7%8E%87%E8%AE%A9%E6%85%A2%E7%89%9B%E8%B5%B0%E7%9A%84%E6%9B%B4%E7%A8%B3.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E8%B0%83%E7%A0%94-%E5%B0%81%E6%B5%8B%E3%80%81%E5%AD%98%E5%82%A8.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260121/%E4%BB%B7%E5%80%BC-%E7%A1%AC%E7%A7%91%E6%8A%80%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E7%AE%97%E5%8A%9B.jpg",
+      "tags": [],
+      "category": "未分类",
+      "publishDate": "2026-01-21",
+      "videoId": "",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260120231",
       "title": "2026-1-20周二 政策、热点与机会",
