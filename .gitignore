@@ -36,3 +36,7 @@ npm-debug.log*
 admin/config.local.js
 admin/config.js
 
+# 临时生成的文件（由脚本自动生成）
+admin/index_temp.html
+urls_*.txt
+
