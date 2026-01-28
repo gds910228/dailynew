@@ -1,11 +1,57 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-01-25",
-    "totalCount": 10
+    "lastUpdate": "2026-01-27",
+    "totalCount": 12
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260128620",
+      "title": "2026-1-27周二 政策、热点与机会",
+      "description": "市场风格回归科技成长，聚焦4万亿投资背后的合成钻石战略之争及AI应用落地引爆的算力基建需求。\n半导体设备、光伏出海、机器人龙头为配置核心，贵金属进入高危博弈期需保持敬畏。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E5%B3%B0%E5%93%A5-%E5%A4%A7%E4%BD%93%E5%92%8C%E6%98%A8%E6%97%A5%E4%B8%8D%E5%8F%98%E3%80%81%E5%9B%BD%E4%BA%A7%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E3%80%81%E6%9C%89%E4%B8%9A%E7%BB%A9%E6%88%96%E5%8F%8D%E8%BD%AC%E9%A2%84%E6%9C%9F%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E5%B3%B0%E5%93%A5-%E5%A4%A7%E4%BD%93%E5%92%8C%E6%98%A8%E6%97%A5%E4%B8%8D%E5%8F%98%E3%80%81%E5%9B%BD%E4%BA%A7%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E3%80%81%E6%9C%89%E4%B8%9A%E7%BB%A9%E6%88%96%E5%8F%8D%E8%BD%AC%E9%A2%84%E6%9C%9F%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E6%A0%BC%E5%85%B0-AI%E5%BA%94%E7%94%A8%E8%90%BD%E5%9C%B0%E4%B8%8E%E7%AE%97%E5%8A%9B%E5%9F%BA%E5%BB%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E7%8C%AB%E7%AC%94%E5%88%80-%E4%BC%B0%E7%AE%97%E6%95%91%E5%B8%82%E7%AD%B9%E7%A0%81%E5%B7%B2%E5%8D%96%E5%87%BA%E4%B8%80%E5%8D%8A%E3%80%81%E5%AF%B9%E9%87%91%E9%93%B6%E4%BF%9D%E6%8C%81%E6%95%AC%E7%95%8F.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E7%A0%94%E8%AE%AF%E7%A4%BE-%E5%85%B3%E6%B3%A8%E5%90%91%E9%AB%98%E7%AB%AF%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%88%96%E5%86%9B%E5%B7%A5%E5%BA%94%E7%94%A8%E8%BD%AC%E5%9E%8B%E7%9A%84%E8%B6%85%E7%A1%AC%E6%9D%90%E6%96%99%E9%BE%99%E5%A4%B4.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E8%B0%83%E7%A0%94-%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87%E3%80%81%E5%85%89%E4%BC%8F%E5%87%BA%E6%B5%B7%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%BE%99%E5%A4%B4mm.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260127/%E5%B3%B0%E5%93%A5-%E5%A4%A7%E4%BD%93%E5%92%8C%E6%98%A8%E6%97%A5%E4%B8%8D%E5%8F%98%E3%80%81%E5%9B%BD%E4%BA%A7%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E3%80%81%E6%9C%89%E4%B8%9A%E7%BB%A9%E6%88%96%E5%8F%8D%E8%BD%AC%E9%A2%84%E6%9C%9F%E7%9A%84%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-01-27",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
+    {
+      "id": "20260126588",
+      "title": "2026-1-26周一 政策、热点与机会",
+      "description": "市场高位震荡，贵金属、有色强势领涨，受避险与全球化货币逻辑支撑。AI红包大战打响巨头流量战，光纤价格暴涨揭示算力基建新需求。商业航天、半导体等科技板块震荡分化，需精选业绩核心。监管降温意图明显，市场进入风格博弈与中继调整期，中期趋势依然向上。  \n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E4%BB%B7%E5%80%BC-AI%E5%BA%94%E7%94%A8%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E9%A3%8E%E9%99%A9%E5%8A%A0%E5%89%A7%E3%80%81%E7%96%AB%E8%8B%97%E4%B8%8D%E5%AE%9C%E6%81%8B%E6%88%98.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E4%BB%B7%E5%80%BC-AI%E5%BA%94%E7%94%A8%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E9%A3%8E%E9%99%A9%E5%8A%A0%E5%89%A7%E3%80%81%E7%96%AB%E8%8B%97%E4%B8%8D%E5%AE%9C%E6%81%8B%E6%88%98.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E8%B4%B5%E9%87%91%E5%B1%9E%E3%80%81%E5%85%89%E7%BA%A4%E6%98%AFAI%E5%9F%BA%E5%BB%BA%E7%88%86%E5%8F%91%E4%B8%8B%E5%8F%88%E4%B8%80%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%9C%BA%E4%BC%9A.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E5%B3%B0%E5%93%A5-%E4%BE%9D%E6%97%A7%E7%9C%8B%E5%A5%BD%E7%A7%91%E6%8A%80%E3%80%81%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E5%85%88%E5%87%BA%E4%B8%9A%E7%BB%A9%E5%A6%82%E9%9B%B6%E4%BB%B6%E5%92%8C%E7%81%AB%E7%AE%AD%E5%88%B6%E9%80%A0%E5%92%8C%E9%92%99%E9%92%9B%E7%9F%BF%E6%A0%B8%E5%BF%83%E4%B8%AA%E8%82%A1%E6%8A%97%E8%B7%8C%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BC%81%E7%A8%B3%E5%90%91%E4%B8%8A%E5%90%8E%E5%8F%AF%E4%BB%A5%E4%BD%8E%E5%90%B8.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E6%A0%BC%E5%85%B0-%E9%A2%84%E8%AE%A1%E5%8E%8B%E5%88%B6%E7%83%AD%E5%BA%A6%E8%BF%98%E6%8C%81%E7%BB%AD3%E5%88%B04%E5%B7%A5%E4%BD%9C%E6%97%A5%E3%80%81%E9%87%91%E7%9F%BF%E8%82%A1%E5%88%86%E7%BA%A2%E7%8E%87%E8%BE%BE%E7%99%BE%E5%88%86%E4%B9%8B70%E6%9B%B4%E5%85%B7%E6%80%A7%E4%BB%B7%E6%AF%94.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E7%8C%AB%E7%AC%94%E5%88%80-%E5%BD%93%E5%89%8D%E4%B8%8D%E4%BB%A3%E8%A1%A8%E9%A3%8E%E6%A0%BC%E5%BD%BB%E5%BA%95%E5%8F%8D%E8%BD%AC%E4%BB%8D%E9%9C%80%E8%A7%82%E5%AF%9F3%E5%A4%A9%E4%BB%A5%E4%B8%8A.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260126/%E4%BB%B7%E5%80%BC-AI%E5%BA%94%E7%94%A8%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E9%A3%8E%E9%99%A9%E5%8A%A0%E5%89%A7%E3%80%81%E7%96%AB%E8%8B%97%E4%B8%8D%E5%AE%9C%E6%81%8B%E6%88%98.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-01-26",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260126690",
       "title": "2026-1-25周日 政策、热点与机会",
