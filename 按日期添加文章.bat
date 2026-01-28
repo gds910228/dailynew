@@ -20,11 +20,24 @@ if errorlevel 1 (
 echo [OK] Python is installed
 echo.
 
-echo [Step 2] Enter date (format: 20260120)
+echo [Step 2] Pulling latest changes from remote repository...
+git pull origin main
+if errorlevel 1 (
+    echo WARNING: Git pull failed or had conflicts
+    echo You may need to resolve conflicts manually
+    echo.
+    echo Press any key to continue anyway or Ctrl+C to cancel...
+    pause >nul
+) else (
+    echo [OK] Repository is up to date
+)
+echo.
+
+echo [Step 3] Enter date (format: 20260120)
 set /p date_folder="Date: "
 
 echo.
-echo [Step 3] Generating URLs for %date_folder%...
+echo [Step 4] Generating URLs for %date_folder%...
 python generate_urls_by_date.py %date_folder%
 
 echo.
