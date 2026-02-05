@@ -2,10 +2,32 @@
   "meta": {
     "version": "2.0.0",
     "lastUpdate": "2026-02-05",
-    "totalCount": 20
+    "totalCount": 21
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260206545",
+      "title": "2026-2-5周四 政策、热点与机会",
+      "description": "市场风格切换，科技巨头天量资本开支引发兑现焦虑，板块短期承压。消费板块凭借低估值与春节数据回暖，成为资金避险与高低切换方向，右侧配置机会显现。硬科技国产替代与涨价逻辑不变，光伏遭官方降温需回避。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260205/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E7%A1%AC%E7%A7%91%E6%8A%80%E6%B6%A8%E4%BB%B7%E5%92%8C%E6%9B%BF%E4%BB%A3%E9%80%BB%E8%BE%91%E4%B8%8D%E5%8F%98%E5%9D%9A%E5%AE%9A%E6%8C%81%E6%9C%89%E3%80%81%E5%85%89%E4%BC%8F%E5%AE%98%E6%96%B9%E9%99%8D%E6%B8%A9%E6%98%8E%E7%A1%AE%E3%80%81SaaS%E6%81%90%E6%85%8C%E6%9A%82%E6%97%B6.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260205/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E7%A1%AC%E7%A7%91%E6%8A%80%E6%B6%A8%E4%BB%B7%E5%92%8C%E6%9B%BF%E4%BB%A3%E9%80%BB%E8%BE%91%E4%B8%8D%E5%8F%98%E5%9D%9A%E5%AE%9A%E6%8C%81%E6%9C%89%E3%80%81%E5%85%89%E4%BC%8F%E5%AE%98%E6%96%B9%E9%99%8D%E6%B8%A9%E6%98%8E%E7%A1%AE%E3%80%81SaaS%E6%81%90%E6%85%8C%E6%9A%82%E6%97%B6.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260205/%E5%B3%B0%E5%93%A5-%E5%AF%86%E5%88%87%E8%A7%82%E5%AF%9F%E6%88%90%E4%BA%A4%E9%87%8F%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E7%9F%AD%E7%BA%BF%E7%BA%AF%E6%8A%95%E6%9C%BA%E5%8D%9A%E5%BC%88%E3%80%81%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%98%A5%E8%8A%82%E5%90%8E%E6%9C%89%E4%B8%80%E6%B3%A2%E4%B8%8D%E9%94%99%E8%A1%8C%E6%83%85%E3%80%81%E5%8A%9F%E7%8E%87%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E6%9C%89%E9%A2%84%E6%9C%9F.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260205/%E6%A0%BC%E5%85%B0-%E6%B6%88%E8%B4%B9%E4%B8%8A%E6%B6%A8%E5%B9%B6%E9%9D%9E%E5%9F%BA%E6%9C%AC%E9%9D%A2%E5%8F%8D%E8%BD%AC%E8%80%8C%E6%98%AF%E7%A7%91%E6%8A%80%E9%AB%98%E4%BD%8E%E5%88%87%E3%80%81%E8%B0%83%E6%95%B4%E5%8F%AF%E4%BD%8E%E5%90%B8%E6%A0%B8%E5%BF%83%E7%AE%97%E5%8A%9B%E5%A6%82%E6%99%B6%E5%9C%86%E5%92%8C%E5%85%89%E6%A8%A1%E5%9D%97.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260205/%E7%8C%AB%E7%AC%94%E5%88%80-%E6%B6%88%E8%B4%B9%E5%9C%B0%E4%BA%A7%E6%98%A5%E8%8A%82%E6%8A%A2%E8%B7%91%E4%BD%86%E5%8F%8D%E8%BD%AC%E7%BC%BA%E4%B9%8F%E5%AE%8F%E8%A7%82%E6%94%AF%E6%92%91%E3%80%81A%E8%82%A1%E8%BD%AF%E4%BB%B6%E5%AD%98%E5%9C%A8%E8%A1%A5%E8%B7%8C%E9%A3%8E%E9%99%A9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260205/%E8%B0%83%E7%A0%94-%E7%9F%AD%E6%9C%9F%E7%A7%91%E6%8A%80%E6%89%BF%E5%8E%8B%E6%B6%88%E8%B4%B9%E5%9C%A8%E4%BD%8E%E4%BC%B0%E5%92%8C%E6%95%B0%E6%8D%AE%E5%9B%9E%E6%9A%96%E5%90%83%E6%92%91%E4%B8%8B%E6%9C%89%E5%8F%B3%E4%BE%A7%E9%85%8D%E7%BD%AE%E6%9C%BA%E4%BC%9A.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260205/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E7%A1%AC%E7%A7%91%E6%8A%80%E6%B6%A8%E4%BB%B7%E5%92%8C%E6%9B%BF%E4%BB%A3%E9%80%BB%E8%BE%91%E4%B8%8D%E5%8F%98%E5%9D%9A%E5%AE%9A%E6%8C%81%E6%9C%89%E3%80%81%E5%85%89%E4%BC%8F%E5%AE%98%E6%96%B9%E9%99%8D%E6%B8%A9%E6%98%8E%E7%A1%AE%E3%80%81SaaS%E6%81%90%E6%85%8C%E6%9A%82%E6%97%B6.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-02-05",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260205746",
       "title": "2026-2-4周三 政策、热点与机会",
