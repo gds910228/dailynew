@@ -1,11 +1,33 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-03-10",
-    "totalCount": 32
+    "lastUpdate": "2026-03-12",
+    "totalCount": 33
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260312530",
+      "title": "2026-3-11周三 政策、热点与机会",
+      "description": "市场聚焦中东局势，霍尔木兹海峡风险推升油价，强化能源安全与储能逻辑。\n同时，AI算力基础设施需求明确，电网设备与新能源成为确定性方向。\n市场整体缩量调整，需避免情绪追高。\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260311/%E5%B3%B0%E5%93%A5-%E6%96%B0%E8%83%BD%E6%BA%90%E5%A4%A7%E6%A6%82%E7%8E%87%E6%9C%89%E6%8C%81%E7%BB%AD%E6%80%A7%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3%E5%8C%96%E5%B7%A5%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E5%9B%9E%E8%B0%83%E5%8F%AF%E4%BD%8E%E5%90%B8%E3%80%81%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AF%E8%B7%9F%E8%B8%AA.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260311/%E5%B3%B0%E5%93%A5-%E6%96%B0%E8%83%BD%E6%BA%90%E5%A4%A7%E6%A6%82%E7%8E%87%E6%9C%89%E6%8C%81%E7%BB%AD%E6%80%A7%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3%E5%8C%96%E5%B7%A5%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E5%9B%9E%E8%B0%83%E5%8F%AF%E4%BD%8E%E5%90%B8%E3%80%81%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AF%E8%B7%9F%E8%B8%AA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260311/%E6%A0%BC%E5%85%B0-%E5%82%A8%E8%83%BD%E3%80%81AI%E7%AE%97%E5%8A%9B%E5%9F%BA%E5%BB%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260311/%E7%8C%AB%E7%AC%94%E5%88%80-%E7%AE%97%E5%8A%9B%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260311/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA1.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260311/%E7%8C%AB%E7%AC%94%E5%88%80-%E8%AF%84%E8%AE%BA2.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260311/%E5%B3%B0%E5%93%A5-%E6%96%B0%E8%83%BD%E6%BA%90%E5%A4%A7%E6%A6%82%E7%8E%87%E6%9C%89%E6%8C%81%E7%BB%AD%E6%80%A7%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E7%9B%B8%E5%85%B3%E5%8C%96%E5%B7%A5%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E5%9B%9E%E8%B0%83%E5%8F%AF%E4%BD%8E%E5%90%B8%E3%80%81%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%AF%E8%B7%9F%E8%B8%AA.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-03-11",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260311122",
       "title": "2026-3-10周二 政策、热点与机会",
