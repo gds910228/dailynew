@@ -1,11 +1,33 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-03-24",
-    "totalCount": 42
+    "lastUpdate": "2026-03-25",
+    "totalCount": 43
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260325288",
+      "title": "2026-3-25周三 政策、热点与机会",
+      "description": "市场受美伊和谈预期影响高开高走，强势反包昨日缺口。\n盘面上，受海外算力需求转移及监管引导互联网巨头转向科技战催化，算力（硬件、租赁、光模块等）全线爆发，成为最强主线。\n同时，SpaceX即将IPO刺激商业航天板块。\n年报季报窗口临近，业绩确定性高的科技硬件、新能源（风光储、电池）、有色锂矿等方向也获关注。\n需注意，和谈进程存在变数，局势或有反复，需警惕资金避险情绪。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260325/%E4%BB%B7%E5%80%BC-%E8%88%AA%E8%BF%90%E6%B6%A8%E4%BB%B7%E9%AB%98%E6%99%AF%E6%B0%94%E5%BA%A6%E6%8C%81%E7%BB%AD%E5%BC%BA%E5%8C%96%EF%BC%8C%E5%95%86%E8%88%AA%E7%9A%84%E5%8D%AB%E6%98%9F%E5%88%B6%E9%80%A0%E3%80%81%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%92%8C%E5%BA%94%E7%94%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%87%8F%E9%80%9F%E5%99%A8%E3%80%81%E7%94%B5%E6%9C%BA%E3%80%81%E4%BC%A0%E6%84%9F%E5%99%A8%EF%BC%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8A%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260325/%E4%BB%B7%E5%80%BC-%E8%88%AA%E8%BF%90%E6%B6%A8%E4%BB%B7%E9%AB%98%E6%99%AF%E6%B0%94%E5%BA%A6%E6%8C%81%E7%BB%AD%E5%BC%BA%E5%8C%96%EF%BC%8C%E5%95%86%E8%88%AA%E7%9A%84%E5%8D%AB%E6%98%9F%E5%88%B6%E9%80%A0%E3%80%81%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%92%8C%E5%BA%94%E7%94%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%87%8F%E9%80%9F%E5%99%A8%E3%80%81%E7%94%B5%E6%9C%BA%E3%80%81%E4%BC%A0%E6%84%9F%E5%99%A8%EF%BC%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8A%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260325/%E5%B3%B0%E5%93%A5-%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6%E5%92%8C%E7%A7%9F%E8%B5%81%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E9%A3%8E%E5%85%89%E5%82%A8%E3%80%81%E7%94%B5%E6%B1%A0%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E5%8F%98%E5%8E%8B%E5%99%A8%EF%BC%8C%E6%9C%89%E8%89%B2%E7%9A%84%E9%94%82%E7%9F%BF%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E5%92%8C%E8%AE%BE%E5%A4%87%E4%BB%A5%E5%8F%8A%E5%95%86%E8%88%AA%E8%B7%9F%E8%B8%AA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260325/%E6%A0%BC%E5%85%B0-%E8%AD%A6%E6%83%95%E8%B5%84%E9%87%91%E9%81%BF%E9%99%A9%EF%BC%8C%E7%AE%97%E5%8A%9B%E7%88%86%E5%8F%91.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260325/%E7%8C%AB%E7%AC%94%E5%88%80-%E6%81%92%E7%A7%91%E4%B8%9A%E7%BB%A9%E7%AB%AF%E6%9C%89%E6%9C%9B%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%BF%AE%E5%A4%8D.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260325/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260325/%E4%BB%B7%E5%80%BC-%E8%88%AA%E8%BF%90%E6%B6%A8%E4%BB%B7%E9%AB%98%E6%99%AF%E6%B0%94%E5%BA%A6%E6%8C%81%E7%BB%AD%E5%BC%BA%E5%8C%96%EF%BC%8C%E5%95%86%E8%88%AA%E7%9A%84%E5%8D%AB%E6%98%9F%E5%88%B6%E9%80%A0%E3%80%81%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%92%8C%E5%BA%94%E7%94%A8%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%87%8F%E9%80%9F%E5%99%A8%E3%80%81%E7%94%B5%E6%9C%BA%E3%80%81%E4%BC%A0%E6%84%9F%E5%99%A8%EF%BC%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8A%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-03-25",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260325808",
       "title": "2026-3-24周二 政策、热点与机会",
