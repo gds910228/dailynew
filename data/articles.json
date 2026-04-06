@@ -1,11 +1,33 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-04-02",
-    "totalCount": 49
+    "lastUpdate": "2026-04-06",
+    "totalCount": 50
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260407361",
+      "title": "2026-4-6周一 政策、热点与机会",
+      "description": "市场情绪冰点，但宏观博弈出现关键信号：\n川普“时间表”延后24小时，霍尔木兹海峡进入“地下收费站”模式，地缘危机最快4月中下旬步入尾声。\nA股四月进入“决断期”，交易逻辑从炒预期转向拼业绩，建议聚焦一季报超预期的绩优股，耐心等待右侧信号。  \n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260406/%E4%BB%B7%E5%80%BC-%E7%AE%97%E5%8A%9B%E3%80%81%E5%9B%BD%E4%BA%A7AI%E3%80%81%E6%B0%A2%E8%83%BD%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.jpeg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260406/%E4%BB%B7%E5%80%BC-%E7%AE%97%E5%8A%9B%E3%80%81%E5%9B%BD%E4%BA%A7AI%E3%80%81%E6%B0%A2%E8%83%BD%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.jpeg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260406/%E5%B3%B0%E5%93%A5-%E8%B5%84%E6%BA%90%E3%80%81%E7%A7%91%E6%8A%80%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90.jpeg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260406/%E6%A0%BC%E5%85%B0-%E5%9B%9B%E6%9C%88%E4%B8%AD%E4%B8%8B%E6%97%AC%E5%8D%B1%E6%9C%BA%E5%A4%A7%E6%A6%82%E7%8E%87%E6%AD%A5%E5%85%A5%E5%B0%BE%E5%A3%B0%EF%BC%8C%E6%8C%96%E6%8E%98%E4%B8%80%E5%AD%A3%E6%8A%A5%E8%B6%85%E9%A2%84%E6%9C%9F%E7%BB%A9%E4%BC%98%E8%82%A1.jpeg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260406/%E7%8C%AB%E7%AC%94%E5%88%80-%E5%A4%9A%E7%9C%8B%E5%B0%91%E5%8A%A8.jpeg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260406/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpeg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260406/%E4%BB%B7%E5%80%BC-%E7%AE%97%E5%8A%9B%E3%80%81%E5%9B%BD%E4%BA%A7AI%E3%80%81%E6%B0%A2%E8%83%BD%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.jpeg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-04-06",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260403740",
       "title": "2026-4-2周四 政策、热点与机会",
