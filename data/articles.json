@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-04-06",
-    "totalCount": 50
+    "lastUpdate": "2026-04-08",
+    "totalCount": 51
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260409452",
+      "title": "2026-4-8周三 政策、热点与机会",
+      "description": "市场在4000点附近承压，成交量是关键。\n宏观上，中东停火预期带来情绪修复，但尾部风险仍在；\n航空股因悲观预期过度定价出现机会，科技线受资金回流青睐。\n指数尚未突破箱体，主升浪需等待局势明朗与基本面接管。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260408/%E5%B3%B0%E5%93%A5-AI%E8%80%97%E6%9D%90%E7%94%B5%E5%AD%90%E6%AD%A5%E3%80%81%E9%AB%98%E7%AB%AF%E6%A0%91%E8%84%82%E3%80%81%E9%93%9C%E7%AE%94%EF%BC%8C%E6%9C%89%E8%89%B2%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94%EF%BC%8C%E4%BC%A0%E5%AA%92%E8%BD%AF%E4%BB%B6%E4%B8%AD%E7%BA%BF%E9%80%BB%E8%BE%91%E4%B8%8D%E5%BC%BA%E5%8F%AF%E5%85%B3%E6%B3%A8%E7%AE%97%E5%8A%9B%E7%9B%B8%E5%85%B3%EF%BC%8C%E5%8C%BB%E8%8D%AF%E4%B8%AD%E8%8D%AF.jpeg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260408/%E5%B3%B0%E5%93%A5-AI%E8%80%97%E6%9D%90%E7%94%B5%E5%AD%90%E6%AD%A5%E3%80%81%E9%AB%98%E7%AB%AF%E6%A0%91%E8%84%82%E3%80%81%E9%93%9C%E7%AE%94%EF%BC%8C%E6%9C%89%E8%89%B2%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94%EF%BC%8C%E4%BC%A0%E5%AA%92%E8%BD%AF%E4%BB%B6%E4%B8%AD%E7%BA%BF%E9%80%BB%E8%BE%91%E4%B8%8D%E5%BC%BA%E5%8F%AF%E5%85%B3%E6%B3%A8%E7%AE%97%E5%8A%9B%E7%9B%B8%E5%85%B3%EF%BC%8C%E5%8C%BB%E8%8D%AF%E4%B8%AD%E8%8D%AF.jpeg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260408/%E6%A0%BC%E5%85%B0-%E7%AD%89%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E7%9B%96%E6%A3%BA%E5%AE%9A%E8%AE%BA%E3%80%81%E5%9F%BA%E6%9C%AC%E9%9D%A2%E8%B4%A2%E6%8A%A5%E7%A1%AC%E9%80%BB%E8%BE%91%E5%AE%8C%E5%85%A8%E6%8E%A5%E7%AE%A1%E7%9B%98%E9%9D%A2%E6%89%8D%E4%BC%9A%E5%BC%80%E5%90%AF.jpeg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260408/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpeg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260408/%E5%B3%B0%E5%93%A5-AI%E8%80%97%E6%9D%90%E7%94%B5%E5%AD%90%E6%AD%A5%E3%80%81%E9%AB%98%E7%AB%AF%E6%A0%91%E8%84%82%E3%80%81%E9%93%9C%E7%AE%94%EF%BC%8C%E6%9C%89%E8%89%B2%E6%9C%89%E6%80%A7%E4%BB%B7%E6%AF%94%EF%BC%8C%E4%BC%A0%E5%AA%92%E8%BD%AF%E4%BB%B6%E4%B8%AD%E7%BA%BF%E9%80%BB%E8%BE%91%E4%B8%8D%E5%BC%BA%E5%8F%AF%E5%85%B3%E6%B3%A8%E7%AE%97%E5%8A%9B%E7%9B%B8%E5%85%B3%EF%BC%8C%E5%8C%BB%E8%8D%AF%E4%B8%AD%E8%8D%AF.jpeg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-04-08",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260407361",
       "title": "2026-4-6周一 政策、热点与机会",
