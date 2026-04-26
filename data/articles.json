@@ -1,11 +1,30 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-04-22",
-    "totalCount": 56
+    "lastUpdate": "2026-04-26",
+    "totalCount": 57
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260427933",
+      "title": "2026-4-26周日 政策、热点与机会",
+      "description": "外围齐创新高，A股上升空间更大！\n量能充沛增量进场，重点锁定半导体、新能源与光模块材料等五大主线，Deep seek预期差持续发酵。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260426/%E5%B3%B0%E5%93%A5-%E5%9B%9E%E8%B0%83%E6%98%AF%E4%BD%8E%E5%90%B8%E6%9C%BA%E4%BC%9A%EF%BC%8C%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E5%92%8C%E8%AE%BE%E5%A4%87%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E9%94%82%E7%94%B5%E6%B1%A0%E5%92%8C%E9%94%82%E7%9F%BF%E3%80%81%E5%85%89%E8%8A%AF%E7%89%87%E5%92%8C%E7%94%B5%E5%AD%90%E5%B8%83%E3%80%81%E7%A3%B7%E5%8C%96yin%E3%80%81%E8%96%84%E8%86%9C%E9%93%8C%E9%85%B8%E9%94%82%EF%BC%8C%E5%95%86%E8%88%AA%E9%9C%87%E8%8D%A1%E5%90%91%E4%B8%8A%E8%B6%8B%E5%8A%BF%E4%B8%8D%E5%8F%98.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260426/%E5%B3%B0%E5%93%A5-%E5%9B%9E%E8%B0%83%E6%98%AF%E4%BD%8E%E5%90%B8%E6%9C%BA%E4%BC%9A%EF%BC%8C%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E5%92%8C%E8%AE%BE%E5%A4%87%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E9%94%82%E7%94%B5%E6%B1%A0%E5%92%8C%E9%94%82%E7%9F%BF%E3%80%81%E5%85%89%E8%8A%AF%E7%89%87%E5%92%8C%E7%94%B5%E5%AD%90%E5%B8%83%E3%80%81%E7%A3%B7%E5%8C%96yin%E3%80%81%E8%96%84%E8%86%9C%E9%93%8C%E9%85%B8%E9%94%82%EF%BC%8C%E5%95%86%E8%88%AA%E9%9C%87%E8%8D%A1%E5%90%91%E4%B8%8A%E8%B6%8B%E5%8A%BF%E4%B8%8D%E5%8F%98.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260426/%E6%A0%BC%E5%85%B0-%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260426/%E5%B3%B0%E5%93%A5-%E5%9B%9E%E8%B0%83%E6%98%AF%E4%BD%8E%E5%90%B8%E6%9C%BA%E4%BC%9A%EF%BC%8C%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E5%92%8C%E8%AE%BE%E5%A4%87%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E9%94%82%E7%94%B5%E6%B1%A0%E5%92%8C%E9%94%82%E7%9F%BF%E3%80%81%E5%85%89%E8%8A%AF%E7%89%87%E5%92%8C%E7%94%B5%E5%AD%90%E5%B8%83%E3%80%81%E7%A3%B7%E5%8C%96yin%E3%80%81%E8%96%84%E8%86%9C%E9%93%8C%E9%85%B8%E9%94%82%EF%BC%8C%E5%95%86%E8%88%AA%E9%9C%87%E8%8D%A1%E5%90%91%E4%B8%8A%E8%B6%8B%E5%8A%BF%E4%B8%8D%E5%8F%98.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-04-26",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260422511",
       "title": "2026-4-22周三 政策、热点与机会",
