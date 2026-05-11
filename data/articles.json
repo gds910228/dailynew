@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-05-07",
-    "totalCount": 63
+    "lastUpdate": "2026-05-11",
+    "totalCount": 64
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260511196",
+      "title": "2026-5-10周日 政策、热点与机会",
+      "description": "A股延续上攻，关注4200点突破，中线坚决看多！主线半导体与光模块双轮驱动，先进封装与涨价概念后来居上；商业航天仅次AI，锂电池基本面超预期或被错杀；AI应用端加速落地。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260510/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E5%85%89%E6%A8%A1%E5%9D%97%E5%8F%8C%E8%BD%AE%E9%A9%B1%E5%8A%A8%EF%BC%8C%E5%AD%98%E5%82%A8%E7%94%B5%E5%AD%90%E5%B8%83%E9%93%9C%E7%AE%94%E8%A6%86%E9%93%9C%E6%9D%BF%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%B1%85%E4%B8%8A%E7%9A%84%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%EF%BC%8C%E5%95%86%E8%88%AA%E4%BB%85%E6%AC%A1%E4%BA%8EAI%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%8C%E9%94%82%E7%94%B5%E6%B1%A0%E5%9F%BA%E6%9C%AC%E9%9D%A2%E5%BE%88%E5%A5%BD%EF%BC%8C%E8%B7%9F%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E7%9B%B8%E5%85%B3%E7%9A%84%E6%9C%89%E8%89%B2.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260510/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E5%85%89%E6%A8%A1%E5%9D%97%E5%8F%8C%E8%BD%AE%E9%A9%B1%E5%8A%A8%EF%BC%8C%E5%AD%98%E5%82%A8%E7%94%B5%E5%AD%90%E5%B8%83%E9%93%9C%E7%AE%94%E8%A6%86%E9%93%9C%E6%9D%BF%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%B1%85%E4%B8%8A%E7%9A%84%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%EF%BC%8C%E5%95%86%E8%88%AA%E4%BB%85%E6%AC%A1%E4%BA%8EAI%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%8C%E9%94%82%E7%94%B5%E6%B1%A0%E5%9F%BA%E6%9C%AC%E9%9D%A2%E5%BE%88%E5%A5%BD%EF%BC%8C%E8%B7%9F%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E7%9B%B8%E5%85%B3%E7%9A%84%E6%9C%89%E8%89%B2.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260510/%E6%A0%BC%E5%85%B0-%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E5%87%80%E5%80%BC%E7%AA%81%E7%A0%B41.3%E5%B0%86%E7%82%B9%E7%87%83%E5%9F%BA%E6%B0%91%E7%94%B3%E8%B4%AD%E6%83%85%E7%BB%AA%E4%B8%BA%E5%B8%82%E5%9C%BA%E5%B8%A6%E6%9D%A5%E5%B7%A8%E9%87%8F%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91%E6%8E%A5%E5%8A%9B.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260510/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260510/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8C%E5%85%89%E6%A8%A1%E5%9D%97%E5%8F%8C%E8%BD%AE%E9%A9%B1%E5%8A%A8%EF%BC%8C%E5%AD%98%E5%82%A8%E7%94%B5%E5%AD%90%E5%B8%83%E9%93%9C%E7%AE%94%E8%A6%86%E9%93%9C%E6%9D%BF%EF%BC%8C%E5%90%8E%E6%9D%A5%E5%B1%85%E4%B8%8A%E7%9A%84%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%EF%BC%8C%E5%95%86%E8%88%AA%E4%BB%85%E6%AC%A1%E4%BA%8EAI%E4%BA%A7%E4%B8%9A%E9%93%BE%EF%BC%8C%E9%94%82%E7%94%B5%E6%B1%A0%E5%9F%BA%E6%9C%AC%E9%9D%A2%E5%BE%88%E5%A5%BD%EF%BC%8C%E8%B7%9F%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E7%9B%B8%E5%85%B3%E7%9A%84%E6%9C%89%E8%89%B2.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-05-10",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260508382",
       "title": "2026-5-7周四 政策、热点与机会",
