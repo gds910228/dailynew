@@ -1,11 +1,30 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-05-11",
-    "totalCount": 64
+    "lastUpdate": "2026-05-12",
+    "totalCount": 65
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260512944",
+      "title": "2026-5-11周一 政策、热点与机会",
+      "description": "指数放量突破4200点，但涨跌分化明显，高位个股出现风险信号。\n操作可按风险偏好选择：介意波动的可高位落袋，高低切关注医药、光伏；\n不介意波动的则继续聚焦存储、封测、光模块等有业绩的科技核心。\n外部川普访华与内部通胀回暖双重利好下，市场整体趋势稳固，不必猜顶，抱紧核心赛道穿越震荡。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260511/%E5%B3%B0%E5%93%A5-%E5%AD%98%E5%82%A8%E5%B0%81%E6%B5%8B%E5%85%89%E6%A8%A1%E5%9D%97%E6%9C%89%E4%B8%9A%E7%BB%A9%E5%92%8C%E8%A1%8C%E4%B8%9A%E6%99%AF%E6%B0%94%E5%BA%A6%E4%BB%8D%E8%83%BD%E7%9C%8B%EF%BC%8C%E9%AB%98%E4%BD%8E%E5%88%87%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E5%8C%BB%E8%8D%AF%E3%80%81%E5%85%89%E4%BC%8F%E3%80%81%E6%9C%89%E8%89%B2%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E3%80%81%E9%94%82%E7%94%B5%E6%9D%90%E6%96%99%EF%BC%88%E5%8C%96%E5%B7%A5%EF%BC%89.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260511/%E5%B3%B0%E5%93%A5-%E5%AD%98%E5%82%A8%E5%B0%81%E6%B5%8B%E5%85%89%E6%A8%A1%E5%9D%97%E6%9C%89%E4%B8%9A%E7%BB%A9%E5%92%8C%E8%A1%8C%E4%B8%9A%E6%99%AF%E6%B0%94%E5%BA%A6%E4%BB%8D%E8%83%BD%E7%9C%8B%EF%BC%8C%E9%AB%98%E4%BD%8E%E5%88%87%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E5%8C%BB%E8%8D%AF%E3%80%81%E5%85%89%E4%BC%8F%E3%80%81%E6%9C%89%E8%89%B2%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E3%80%81%E9%94%82%E7%94%B5%E6%9D%90%E6%96%99%EF%BC%88%E5%8C%96%E5%B7%A5%EF%BC%89.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260511/%E6%A0%BC%E5%85%B0-%E8%B5%84%E9%87%91%E6%95%A2%E4%BA%8E%E7%BB%99%E5%90%8C%E6%A0%B7%E7%9B%88%E5%88%A9%E6%9B%B4%E5%A5%BD%E7%9A%84%E5%B8%82%E7%9B%88%E7%8E%87PE%EF%BC%8C%E5%95%86%E8%88%AA%E5%88%86%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E3%80%81%E5%8D%AB%E6%98%9F%E5%88%B6%E9%80%A0%E3%80%81%E6%A0%B8%E5%BF%83%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%92%8C%E8%BF%90%E8%90%A5%E5%9B%9B%E5%A4%A7%E7%8E%AF%E8%8A%82%EF%BC%8C%E6%94%BE%E5%BC%83%E5%B7%A6%E4%BE%A7%E7%9B%B4%E8%A7%89%E8%8F%9C%E9%A1%B6%E5%92%8C%E8%BF%BD%E6%B6%A8%E6%9D%80%E8%B7%8C%E6%8A%B1%E4%BD%8F%E6%9C%80%E7%A8%B3%E5%81%A5%E7%9A%84%E6%88%90%E9%95%BF%E6%A0%B8%E5%BF%83%E8%B5%9B%E9%81%93.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260511/%E5%B3%B0%E5%93%A5-%E5%AD%98%E5%82%A8%E5%B0%81%E6%B5%8B%E5%85%89%E6%A8%A1%E5%9D%97%E6%9C%89%E4%B8%9A%E7%BB%A9%E5%92%8C%E8%A1%8C%E4%B8%9A%E6%99%AF%E6%B0%94%E5%BA%A6%E4%BB%8D%E8%83%BD%E7%9C%8B%EF%BC%8C%E9%AB%98%E4%BD%8E%E5%88%87%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E5%8C%BB%E8%8D%AF%E3%80%81%E5%85%89%E4%BC%8F%E3%80%81%E6%9C%89%E8%89%B2%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E3%80%81%E9%94%82%E7%94%B5%E6%9D%90%E6%96%99%EF%BC%88%E5%8C%96%E5%B7%A5%EF%BC%89.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-05-11",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260511196",
       "title": "2026-5-10周日 政策、热点与机会",
