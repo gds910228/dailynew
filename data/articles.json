@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-05-13",
-    "totalCount": 66
+    "lastUpdate": "2026-05-14",
+    "totalCount": 67
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260514042",
+      "title": "2026-5-13周三 政策、热点与机会",
+      "description": "市场低开高走，创业板再创历史新高。受“川普提前访华”及“黄仁勋确认随访”双重利好驱动，外部风险缓和，科技情绪全面修复。\n资金聚焦AI主线，国产算力从推理迈向训练侧突破，光通信、服务器及电网设备领涨。\n当前行情由基本面驱动，建议围绕国产算力等核心主线，守住仓位，关注业绩兑现。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260513/%E4%BB%B7%E5%80%BC-%E7%BB%BF%E7%94%B5%E5%82%A8%E8%83%BD%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%EF%BC%8CCPO%E6%9C%8D%E5%8A%A1%E5%99%A8PCB%E9%AB%98%E9%80%9F%E6%9D%90%E6%96%99%EF%BC%8C%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E3%80%81%E7%94%B5%E5%AD%90%E7%89%B9%E6%B0%94%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260513/%E4%BB%B7%E5%80%BC-%E7%BB%BF%E7%94%B5%E5%82%A8%E8%83%BD%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%EF%BC%8CCPO%E6%9C%8D%E5%8A%A1%E5%99%A8PCB%E9%AB%98%E9%80%9F%E6%9D%90%E6%96%99%EF%BC%8C%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E3%80%81%E7%94%B5%E5%AD%90%E7%89%B9%E6%B0%94%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260513/%E5%B3%B0%E5%93%A5-%E5%85%89%E9%80%9A%E4%BF%A1%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%92%8CAI%E6%9D%90%E6%96%99%E8%AE%BE%E5%A4%87%E3%80%81AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%94%B5%E6%BA%90%E7%9A%84%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260513/%E6%A0%BC%E5%85%B0-%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E5%92%8C%E6%96%B0%E8%83%BD%E6%BA%90.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260513/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260513/%E4%BB%B7%E5%80%BC-%E7%BB%BF%E7%94%B5%E5%82%A8%E8%83%BD%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%EF%BC%8CCPO%E6%9C%8D%E5%8A%A1%E5%99%A8PCB%E9%AB%98%E9%80%9F%E6%9D%90%E6%96%99%EF%BC%8C%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E3%80%81%E7%94%B5%E5%AD%90%E7%89%B9%E6%B0%94%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-05-13",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260513365",
       "title": "2026-5-12周二 政策、热点与机会",
