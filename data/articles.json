@@ -2,10 +2,32 @@
   "meta": {
     "version": "2.0.0",
     "lastUpdate": "2026-06-11",
-    "totalCount": 85
+    "totalCount": 86
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260612121",
+      "title": "2026-6-11周四 政策、热点与机会",
+      "description": "美国5月核心CPI低于预期令加息恐慌暂缓，“世界杯魔咒”实为年中资金面真空期的背锅侠。\nA股当前处于冰点磨底阶段，下跌空间极其有限，多空正激烈争夺4000点。\n此时不宜盲目割肉或追高，应重点把握赚钱效应最强的AI材料扩散（氟化工、磷化工、有机硅、AI金属），以及企稳的光模块与半导体。\n一切静待6月18日美联储议息会议靴子落地，一旦加息逻辑被彻底击溃，市场大概率将重回上升正轨！\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260611/%E5%8D%8E%E4%B8%BA%E8%B6%85%E8%8A%82%E7%82%B9.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260611/%E5%8D%8E%E4%B8%BA%E8%B6%85%E8%8A%82%E7%82%B9.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260611/%E5%90%8E%E8%8A%B1%E5%9B%AD-%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%E6%96%B9%E5%90%91%E5%85%B7%E5%A4%87%E5%BB%B6%E7%BB%AD%E6%80%A7%EF%BC%8C%E7%9F%AD%E6%9C%9F%E4%B8%8D%E8%BF%B7%E6%81%8B%E7%BC%BA%E4%B9%8F%E5%9F%BA%E6%9C%AC%E9%9D%A2%E7%9A%84%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E5%A6%82%E8%B5%9B%E4%BA%8B%E6%B5%81%E9%87%8F%E7%82%92%E4%BD%9C.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260611/%E5%B3%B0%E5%93%A5-%E5%86%B0%E7%82%B9%E9%80%89%E7%AD%B9%E7%A0%81%E5%87%86%E5%A4%87%E5%8F%8D%E5%BC%B9%EF%BC%8C%E5%85%89%E6%A8%A1%E5%9D%97%E5%92%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BC%81%E7%A8%B3%EF%BC%8C%E7%9C%8BAI%E6%9D%90%E6%96%99%E5%90%8E%E6%8E%92%E8%A1%A5%E6%B6%A8%EF%BC%8C%E5%8C%96%E5%B7%A5%E6%96%B0%E6%9D%90%E6%96%99%E6%9C%89%E6%B0%9F%E5%8C%96%E5%B7%A5%E3%80%81%E7%A3%B7%E5%8C%96%E5%B7%A5%E3%80%81%E6%9C%89%E6%9C%BA%E7%A1%85.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260611/%E6%A0%BC%E5%85%B0-%E7%AD%89618%E8%AE%AE%E6%81%AF%E4%BC%9A%E8%AE%AE%E8%90%BD%E5%9C%B0.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260611/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260611/%E5%8D%8E%E4%B8%BA%E8%B6%85%E8%8A%82%E7%82%B9.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-06-11",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260611515",
       "title": "2026-6-10周三 政策、热点与机会",
