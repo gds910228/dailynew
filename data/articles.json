@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-06-15",
-    "totalCount": 88
+    "lastUpdate": "2026-06-16",
+    "totalCount": 89
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260617713",
+      "title": "2026-6-16周二 政策、热点与机会",
+      "description": "今日AI材料盘中现分歧，部分资金流出转向新能源、有色、化工等低位周期板块。\n科技主线地位未动摇，DeepSeek巨额融资背书国产算力爆发，但短线需提高兑现意识，紧盯5日线跌破即落袋；\n微盘股与恒科受虹吸走弱，弱势阴跌勿盲目补仓。\n科技操作重在交易节奏！\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260616/%E5%B3%B0%E5%93%A5-AI%E6%9D%90%E6%96%99%E5%88%86%E6%AD%A7%EF%BC%8C%E6%B5%81%E5%85%A5%E6%96%B0%E8%83%BD%E6%BA%90%E3%80%81%E6%9C%89%E8%89%B2%E5%92%8C%E5%8C%96%E5%B7%A5%EF%BC%8C%E7%B4%A7%E7%9B%AF5%E6%97%A5%E7%BA%BF%E7%A0%B4%E4%BA%86%E5%87%BA%EF%BC%8C%E9%99%8D%E6%81%AF%E9%A2%84%E6%9C%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E6%9D%BF%E5%9D%97%EF%BC%8C%E7%A7%91%E6%8A%80%E6%B3%A8%E6%84%8F%E4%BA%A4%E6%98%93%E8%8A%82%E5%A5%8F.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260616/%E5%B3%B0%E5%93%A5-AI%E6%9D%90%E6%96%99%E5%88%86%E6%AD%A7%EF%BC%8C%E6%B5%81%E5%85%A5%E6%96%B0%E8%83%BD%E6%BA%90%E3%80%81%E6%9C%89%E8%89%B2%E5%92%8C%E5%8C%96%E5%B7%A5%EF%BC%8C%E7%B4%A7%E7%9B%AF5%E6%97%A5%E7%BA%BF%E7%A0%B4%E4%BA%86%E5%87%BA%EF%BC%8C%E9%99%8D%E6%81%AF%E9%A2%84%E6%9C%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E6%9D%BF%E5%9D%97%EF%BC%8C%E7%A7%91%E6%8A%80%E6%B3%A8%E6%84%8F%E4%BA%A4%E6%98%93%E8%8A%82%E5%A5%8F.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260616/%E6%A0%BC%E5%85%B0-DS%E5%B0%86%E6%88%90%E4%B8%BA%E6%89%93%E9%80%9A%E5%9B%BD%E4%BA%A7%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%85%A8%E6%A0%88%E8%87%AA%E5%8A%A8%E5%8F%AF%E6%8E%A7%E4%BD%93%E7%B3%BB%E7%9A%84%E6%A0%B8%E5%BF%83%E6%8A%93%E6%89%8B%EF%BC%8C%E5%9B%BD%E4%BA%A7A%E8%8A%AF%E7%89%87%EF%BC%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%81%E7%94%B5%E6%BA%90%E3%80%81PCB%E3%80%81%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E5%AD%98%E5%82%A8.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260616/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260616/%E5%B3%B0%E5%93%A5-AI%E6%9D%90%E6%96%99%E5%88%86%E6%AD%A7%EF%BC%8C%E6%B5%81%E5%85%A5%E6%96%B0%E8%83%BD%E6%BA%90%E3%80%81%E6%9C%89%E8%89%B2%E5%92%8C%E5%8C%96%E5%B7%A5%EF%BC%8C%E7%B4%A7%E7%9B%AF5%E6%97%A5%E7%BA%BF%E7%A0%B4%E4%BA%86%E5%87%BA%EF%BC%8C%E9%99%8D%E6%81%AF%E9%A2%84%E6%9C%9F%E5%91%A8%E6%9C%9F%E6%80%A7%E6%9D%BF%E5%9D%97%EF%BC%8C%E7%A7%91%E6%8A%80%E6%B3%A8%E6%84%8F%E4%BA%A4%E6%98%93%E8%8A%82%E5%A5%8F.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-06-16",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260615387",
       "title": "2026-6-15周一 政策、热点与机会",
