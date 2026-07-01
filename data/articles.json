@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-06-30",
-    "totalCount": 96
+    "lastUpdate": "2026-07-01",
+    "totalCount": 97
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260701546",
+      "title": "2026-6-30周二 政策、热点与机会",
+      "description": "A股上半年收官呈冰火两重天，上证仅涨3.16%，科创50却大涨64%，半导体、通信等科技主线暴涨，超六成个股未正收益。\n产业端DeepSeek涨价印证AI商业正循环，政策强化算力自主可控，上游硬件获真实订单支撑。\n展望下半年，科技依然是最具确定性的主线，但市场将从粗放炒作转向精细定价，操作上务必锚定中报业绩、紧盯新技术与新材料、规避高位纯题材，严格去弱留强！\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260630/%E5%B3%B0%E5%93%A5-%E4%B8%9A%E7%BB%A9%E9%A2%84%E5%91%8A%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81PCB%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87%E6%9D%90%E6%96%99%E7%BB%86%E5%88%86%E8%BE%83%E5%BC%BA%EF%BC%8C%E7%B4%A7%E7%9B%AF%E6%96%B0%E6%8A%80%E6%9C%AF%E3%80%81%E6%96%B0%E6%9D%90%E6%96%99%E8%A7%84%E9%81%BF%E9%AB%98%E4%BD%8D%E7%BA%AF%E9%A2%98%E6%9D%90%E6%A0%87%E7%9A%84%EF%BC%8C%E9%87%8D%E7%82%B9%E5%B8%83%E5%B1%80%E4%BA%8C%E7%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E3%80%81%E4%BA%8C%E7%BA%BF%E9%80%9A%E4%BF%A1%E4%B8%AA%E8%82%A1%E4%BB%A5%E5%8F%8A%E5%8F%A0%E5%8A%A0%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%9A%E5%8A%A1%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E3%80%81%E5%85%89%E4%BC%8F%E6%A0%87%E7%9A%84.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260630/%E5%B3%B0%E5%93%A5-%E4%B8%9A%E7%BB%A9%E9%A2%84%E5%91%8A%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81PCB%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87%E6%9D%90%E6%96%99%E7%BB%86%E5%88%86%E8%BE%83%E5%BC%BA%EF%BC%8C%E7%B4%A7%E7%9B%AF%E6%96%B0%E6%8A%80%E6%9C%AF%E3%80%81%E6%96%B0%E6%9D%90%E6%96%99%E8%A7%84%E9%81%BF%E9%AB%98%E4%BD%8D%E7%BA%AF%E9%A2%98%E6%9D%90%E6%A0%87%E7%9A%84%EF%BC%8C%E9%87%8D%E7%82%B9%E5%B8%83%E5%B1%80%E4%BA%8C%E7%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E3%80%81%E4%BA%8C%E7%BA%BF%E9%80%9A%E4%BF%A1%E4%B8%AA%E8%82%A1%E4%BB%A5%E5%8F%8A%E5%8F%A0%E5%8A%A0%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%9A%E5%8A%A1%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E3%80%81%E5%85%89%E4%BC%8F%E6%A0%87%E7%9A%84.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260630/%E6%A0%BC%E5%85%B0-%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%EF%BC%8C%E4%B8%8A%E6%B8%B8%E8%8A%AF%E7%89%87%E3%80%81%E6%9C%8D%E5%8A%A1%E3%80%81%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C%E7%A7%91%E6%8A%80%E4%BE%9D%E7%84%B6%E6%98%AF%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9C%80%E7%A1%AE%E5%AE%9A%E6%80%A7%E4%B8%BB%E7%BA%BF.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260630/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260630/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260630/%E5%B3%B0%E5%93%A5-%E4%B8%9A%E7%BB%A9%E9%A2%84%E5%91%8A%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81PCB%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E5%A4%87%E6%9D%90%E6%96%99%E7%BB%86%E5%88%86%E8%BE%83%E5%BC%BA%EF%BC%8C%E7%B4%A7%E7%9B%AF%E6%96%B0%E6%8A%80%E6%9C%AF%E3%80%81%E6%96%B0%E6%9D%90%E6%96%99%E8%A7%84%E9%81%BF%E9%AB%98%E4%BD%8D%E7%BA%AF%E9%A2%98%E6%9D%90%E6%A0%87%E7%9A%84%EF%BC%8C%E9%87%8D%E7%82%B9%E5%B8%83%E5%B1%80%E4%BA%8C%E7%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E3%80%81%E4%BA%8C%E7%BA%BF%E9%80%9A%E4%BF%A1%E4%B8%AA%E8%82%A1%E4%BB%A5%E5%8F%8A%E5%8F%A0%E5%8A%A0%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%9A%E5%8A%A1%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E3%80%81%E5%85%89%E4%BC%8F%E6%A0%87%E7%9A%84.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-06-30",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260630312",
       "title": "2026-6-29周一 政策、热点与机会",
