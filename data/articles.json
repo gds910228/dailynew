@@ -2,10 +2,31 @@
   "meta": {
     "version": "2.0.0",
     "lastUpdate": "2026-07-02",
-    "totalCount": 98
+    "totalCount": 99
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260703750",
+      "title": "2026-7-2周四 政策、热点与机会",
+      "description": "昨日美股科技股大跌，网传Meta出租算力引发过剩恐慌。\n实则Meta仅变现老旧算力，仍在大量采购高端GPU，AI需求并未崩塌。\n叠加美国非农数据及美联储偏鸽讲话降低加息预期，贵金属迎击球区。\n当前A股逼近年线3920点，下跌空间有限，重点关注工业气体、半导体材料、贵金属及创新药等板块，耐心等待中报业绩落地与情绪出清。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260702/%E5%B3%B0%E5%93%A5-%E9%AB%98%E7%AB%AF%E7%AE%97%E5%8A%9B%E4%BB%8D%E7%B4%A7%E7%BC%BA%EF%BC%8C%E9%9D%9E%E5%86%9C%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F%E5%A4%A7%E5%A4%A7%E9%99%8D%E4%BD%8E%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%EF%BC%8C%E9%80%BC%E8%BF%91%E5%B9%B4%E7%BA%BF3920%E4%B8%8B%E8%B7%8C%E7%A9%BA%E9%97%B2%E6%9C%89%E9%99%90%EF%BC%8C%E5%B7%A5%E4%B8%9A%E6%B0%94%E4%BD%93%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E3%80%81%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF%E3%80%81%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E3%80%81%E5%AD%98%E5%82%A8%E3%80%81%E7%94%B5%E5%AD%90%E5%B8%83%E3%80%81%E9%93%9C%E7%AE%94%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E3%80%81%E5%88%9B%E6%96%B0%E8%8D%AF%E3%80%81%E6%B0%9F%E5%8C%96%E5%B7%A5%EF%BC%8C%E8%80%90%E5%BF%83%E7%AD%89%E5%BE%85%E4%B8%AD%E6%8A%A5%E4%B8%9A%E7%BB%A9.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260702/%E5%B3%B0%E5%93%A5-%E9%AB%98%E7%AB%AF%E7%AE%97%E5%8A%9B%E4%BB%8D%E7%B4%A7%E7%BC%BA%EF%BC%8C%E9%9D%9E%E5%86%9C%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F%E5%A4%A7%E5%A4%A7%E9%99%8D%E4%BD%8E%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%EF%BC%8C%E9%80%BC%E8%BF%91%E5%B9%B4%E7%BA%BF3920%E4%B8%8B%E8%B7%8C%E7%A9%BA%E9%97%B2%E6%9C%89%E9%99%90%EF%BC%8C%E5%B7%A5%E4%B8%9A%E6%B0%94%E4%BD%93%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E3%80%81%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF%E3%80%81%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E3%80%81%E5%AD%98%E5%82%A8%E3%80%81%E7%94%B5%E5%AD%90%E5%B8%83%E3%80%81%E9%93%9C%E7%AE%94%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E3%80%81%E5%88%9B%E6%96%B0%E8%8D%AF%E3%80%81%E6%B0%9F%E5%8C%96%E5%B7%A5%EF%BC%8C%E8%80%90%E5%BF%83%E7%AD%89%E5%BE%85%E4%B8%AD%E6%8A%A5%E4%B8%9A%E7%BB%A9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260702/%E6%A0%BC%E5%85%B0-Meta%E4%BB%8D%E9%87%87%E8%B4%AD%E9%AB%98%E7%AB%AF%E7%AE%97%E5%8A%9BAI%E9%9C%80%E6%B1%82%E5%B9%B6%E6%9C%AA%E5%B4%A9%E5%A1%8C%EF%BC%8C%E9%BB%84%E9%87%91%E5%AE%89%E5%85%A8%E5%87%BB%E7%90%83%E5%8C%BA%EF%BC%8C%E7%AD%89%E5%BE%85%E4%B8%AD%E6%8A%A5%E4%B8%9A%E7%BB%A9%E9%AA%8C%E8%AF%81%E5%92%8C%E6%83%85%E7%BB%AA%E5%87%BA%E6%B8%85.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260702/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260702/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260702/%E5%B3%B0%E5%93%A5-%E9%AB%98%E7%AB%AF%E7%AE%97%E5%8A%9B%E4%BB%8D%E7%B4%A7%E7%BC%BA%EF%BC%8C%E9%9D%9E%E5%86%9C%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F%E5%A4%A7%E5%A4%A7%E9%99%8D%E4%BD%8E%E5%8A%A0%E6%81%AF%E6%A6%82%E7%8E%87%EF%BC%8C%E9%80%BC%E8%BF%91%E5%B9%B4%E7%BA%BF3920%E4%B8%8B%E8%B7%8C%E7%A9%BA%E9%97%B2%E6%9C%89%E9%99%90%EF%BC%8C%E5%B7%A5%E4%B8%9A%E6%B0%94%E4%BD%93%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E3%80%81%E7%8E%BB%E7%92%83%E5%9F%BA%E6%9D%BF%E3%80%81%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E3%80%81%E5%AD%98%E5%82%A8%E3%80%81%E7%94%B5%E5%AD%90%E5%B8%83%E3%80%81%E9%93%9C%E7%AE%94%E3%80%81%E8%B4%B5%E9%87%91%E5%B1%9E%E3%80%81%E5%88%9B%E6%96%B0%E8%8D%AF%E3%80%81%E6%B0%9F%E5%8C%96%E5%B7%A5%EF%BC%8C%E8%80%90%E5%BF%83%E7%AD%89%E5%BE%85%E4%B8%AD%E6%8A%A5%E4%B8%9A%E7%BB%A9.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-07-02",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260702444",
       "title": "2026-7-1周三 政策、热点与机会",
