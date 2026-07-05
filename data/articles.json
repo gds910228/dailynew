@@ -1,11 +1,33 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-07-02",
-    "totalCount": 99
+    "lastUpdate": "2026-07-05",
+    "totalCount": 100
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260706562",
+      "title": "2026-7-4周六 政策、热点与机会",
+      "description": "美国非农失速叠加加息预期大降，黄金与有色板块迎来拐点。\n近期科技股调整本质是中报业绩前的筹码重新定价，但核心逻辑并未崩塌，AI算力与存储业绩依然炸裂。\n当前市场处于上涨中继蓄势阶段，资金正调仓换股。\n预计科技股将迎修复反弹，重点把握业绩超预期龙头及上游材料（电子气体、光刻胶、靶材）主线，耐心持有硬核科技，严格去弱留强。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260704/%E5%B3%B0%E5%93%A5-%E7%A7%91%E6%8A%80%E6%A0%B8%E5%BF%83%E6%B2%A1%E6%9C%89%E5%B4%A9%E5%A1%8C%EF%BC%8C%E7%9C%8B%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F%E9%BE%99%E5%A4%B4%E3%80%81%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E4%B8%8A%E6%B8%B8%E6%9D%90%E6%96%99%E3%80%81%E7%94%B5%E5%AD%90%E6%B0%94%E4%BD%93%E3%80%81%E5%85%89%E5%88%BB%E8%83%B6%E5%92%8C%E9%9D%B6%E6%9D%90%EF%BC%8C%E5%8C%BB%E8%8D%AF%E6%9C%89%E4%B8%AD%E6%8A%A5%E6%94%AF%E6%92%91%EF%BC%8C%E6%9C%89%E8%89%B2%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E4%B8%8B%E9%99%8D%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260704/%E5%B3%B0%E5%93%A5-%E7%A7%91%E6%8A%80%E6%A0%B8%E5%BF%83%E6%B2%A1%E6%9C%89%E5%B4%A9%E5%A1%8C%EF%BC%8C%E7%9C%8B%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F%E9%BE%99%E5%A4%B4%E3%80%81%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E4%B8%8A%E6%B8%B8%E6%9D%90%E6%96%99%E3%80%81%E7%94%B5%E5%AD%90%E6%B0%94%E4%BD%93%E3%80%81%E5%85%89%E5%88%BB%E8%83%B6%E5%92%8C%E9%9D%B6%E6%9D%90%EF%BC%8C%E5%8C%BB%E8%8D%AF%E6%9C%89%E4%B8%AD%E6%8A%A5%E6%94%AF%E6%92%91%EF%BC%8C%E6%9C%89%E8%89%B2%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E4%B8%8B%E9%99%8D%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260704/%E6%A0%BC%E5%85%B0-%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E5%87%8F%E5%BC%B1%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%8A%E7%A7%BB%EF%BC%8C%E6%B1%BD%E8%BD%A6%E7%A8%8E%E6%94%B6%E6%94%BF%E7%AD%96%E7%BA%AF%E7%94%B5%E8%BD%A6%E6%97%A0%E5%BD%B1%E5%93%8D%EF%BC%8C%E5%B8%82%E5%9C%BA%E6%98%AF%E4%B8%8A%E6%B6%A8%E4%B8%AD%E7%BB%A7%E8%93%84%E5%8A%BF%E9%98%B6%E6%AE%B5%E5%9C%A8%E4%B8%BA%E4%B8%AD%E6%8A%A5%E4%B8%9A%E7%BB%A9%E8%B0%83%E4%BB%93%E6%8D%A2%E8%82%A1.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260704/%E6%A0%BC%E5%85%B0-%E7%AE%97%E5%8A%9B%E9%80%9A%E8%83%80%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BE%9B%E7%BB%99%E7%93%B6%E9%A2%88%E5%92%8C%E9%87%8F%E4%BB%B7%E9%BD%90%E5%8D%87%E7%BB%86%E5%88%86%E7%8E%AF%E8%8A%82%EF%BC%8C%E7%A1%AC%E7%A7%91%E6%8A%80%E4%BB%8D%E6%98%AF%E6%97%B6%E9%95%BF%E9%AB%98%E5%BC%B9%E6%80%A7%E7%BB%9D%E5%AF%B9%E4%B8%BB%E5%8A%9B.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260704/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260704/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260704/%E5%B3%B0%E5%93%A5-%E7%A7%91%E6%8A%80%E6%A0%B8%E5%BF%83%E6%B2%A1%E6%9C%89%E5%B4%A9%E5%A1%8C%EF%BC%8C%E7%9C%8B%E4%B8%9A%E7%BB%A9%E8%B6%85%E9%A2%84%E6%9C%9F%E9%BE%99%E5%A4%B4%E3%80%81%E9%87%8D%E7%82%B9%E5%85%B3%E6%B3%A8%E4%B8%8A%E6%B8%B8%E6%9D%90%E6%96%99%E3%80%81%E7%94%B5%E5%AD%90%E6%B0%94%E4%BD%93%E3%80%81%E5%85%89%E5%88%BB%E8%83%B6%E5%92%8C%E9%9D%B6%E6%9D%90%EF%BC%8C%E5%8C%BB%E8%8D%AF%E6%9C%89%E4%B8%AD%E6%8A%A5%E6%94%AF%E6%92%91%EF%BC%8C%E6%9C%89%E8%89%B2%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E4%B8%8B%E9%99%8D%E8%BF%8E%E6%9D%A5%E6%8B%90%E7%82%B9.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-07-05",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260703750",
       "title": "2026-7-2周四 政策、热点与机会",
