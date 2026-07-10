@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-07-09",
-    "totalCount": 103
+    "lastUpdate": "2026-07-10",
+    "totalCount": 104
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260710348",
+      "title": "2026-7-9周四 政策、热点与机会",
+      "description": "A股深V反转，探底4000点牛熊转换线后放量回升，做多情绪强烈。\n产业端迎重磅里程碑，华为将展示超节点真机硬刚英伟达，国产算力正式迈入集群交付时代。\n高盛研报直指中国AI估值严重低配，未来面临50%至100%重估空间。\n下半年资金属于“精准滴灌”，紧跟业绩兑现与国产替代，重点挖掘半导体封测、存储、柜内光通信及AI耗材等核心细分机会！\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260709/%E5%B3%B0%E5%93%A5-%E9%AB%98%E6%8A%9B%E4%BD%8E%E5%90%B8%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B0%81%E6%B5%8B%E8%AE%BE%E5%A4%87%E6%9D%90%E6%96%99%EF%BC%8C%E5%AD%98%E5%82%A8%EF%BC%8CEDA%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E3%80%81%E6%9C%89%E4%B8%9A%E7%BB%A9%E7%9A%84AI%E5%BA%94%E7%94%A8%EF%BC%8C%E6%9F%9C%E5%86%85%E5%85%89%E9%80%9A%E4%BF%A1%EF%BC%8C%E9%93%9C%E7%AE%94%E3%80%81%E7%94%B5%E5%AD%90%E5%B8%83AI%E8%80%97%E6%9D%90%E5%9B%9E%E8%B0%83%E5%BE%88%E5%A4%A7%E4%B9%9F%E6%9C%89%E4%B8%9A%E7%BB%A9%E4%BB%8D%E5%80%BC%E5%BE%97%E6%8C%96%E6%8E%98.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260709/%E5%B3%B0%E5%93%A5-%E9%AB%98%E6%8A%9B%E4%BD%8E%E5%90%B8%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B0%81%E6%B5%8B%E8%AE%BE%E5%A4%87%E6%9D%90%E6%96%99%EF%BC%8C%E5%AD%98%E5%82%A8%EF%BC%8CEDA%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E3%80%81%E6%9C%89%E4%B8%9A%E7%BB%A9%E7%9A%84AI%E5%BA%94%E7%94%A8%EF%BC%8C%E6%9F%9C%E5%86%85%E5%85%89%E9%80%9A%E4%BF%A1%EF%BC%8C%E9%93%9C%E7%AE%94%E3%80%81%E7%94%B5%E5%AD%90%E5%B8%83AI%E8%80%97%E6%9D%90%E5%9B%9E%E8%B0%83%E5%BE%88%E5%A4%A7%E4%B9%9F%E6%9C%89%E4%B8%9A%E7%BB%A9%E4%BB%8D%E5%80%BC%E5%BE%97%E6%8C%96%E6%8E%98.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260709/%E6%A0%BC%E5%85%B0-%E6%B6%B2%E5%86%B7%E3%80%81%E5%85%89%E4%BA%92%E8%81%94%E3%80%81AIDC%E5%BB%BA%E8%AE%BE%E3%80%81%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260709/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260709/%E5%B3%B0%E5%93%A5-%E9%AB%98%E6%8A%9B%E4%BD%8E%E5%90%B8%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B0%81%E6%B5%8B%E8%AE%BE%E5%A4%87%E6%9D%90%E6%96%99%EF%BC%8C%E5%AD%98%E5%82%A8%EF%BC%8CEDA%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%AE%BE%E8%AE%A1%E8%BD%AF%E4%BB%B6%E3%80%81%E6%9C%89%E4%B8%9A%E7%BB%A9%E7%9A%84AI%E5%BA%94%E7%94%A8%EF%BC%8C%E6%9F%9C%E5%86%85%E5%85%89%E9%80%9A%E4%BF%A1%EF%BC%8C%E9%93%9C%E7%AE%94%E3%80%81%E7%94%B5%E5%AD%90%E5%B8%83AI%E8%80%97%E6%9D%90%E5%9B%9E%E8%B0%83%E5%BE%88%E5%A4%A7%E4%B9%9F%E6%9C%89%E4%B8%9A%E7%BB%A9%E4%BB%8D%E5%80%BC%E5%BE%97%E6%8C%96%E6%8E%98.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-07-09",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260709010",
       "title": "2026-7-8周三 政策、热点与机会",
