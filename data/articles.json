@@ -1,11 +1,29 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-07-20",
-    "totalCount": 110
+    "lastUpdate": "2026-07-21",
+    "totalCount": 111
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260721156",
+      "title": "2026-7-20周一 政策、热点与机会",
+      "description": "监管高层亲自下场安抚情绪，直击发行节奏、量化监管等痛点。\n护盘资金跨部门升级，国新、诚通携6000亿资金入场，上升为国家宏观统筹部署。\n3750点认为绝对底部，向下空间已被封死。\n极端踩踏正酝酿超跌反弹，强烈建议停止恐慌割肉，别在黎明前交出带血的流动性筹码。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260720/%E6%A0%BC%E5%85%B0-3750%E9%93%81%E5%BA%95%EF%BC%8C%E6%94%BF%E7%AD%96%E5%BA%95%E7%8E%B0%E5%B8%82%E5%9C%BA%E5%BA%95%E8%A6%81%E8%A7%82%E5%AF%9F%EF%BC%8C%E4%B8%8D%E4%BA%A4%E5%87%BA%E5%B8%A6%E8%A1%80%E7%AD%B9%E7%A0%81.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260720/%E6%A0%BC%E5%85%B0-3750%E9%93%81%E5%BA%95%EF%BC%8C%E6%94%BF%E7%AD%96%E5%BA%95%E7%8E%B0%E5%B8%82%E5%9C%BA%E5%BA%95%E8%A6%81%E8%A7%82%E5%AF%9F%EF%BC%8C%E4%B8%8D%E4%BA%A4%E5%87%BA%E5%B8%A6%E8%A1%80%E7%AD%B9%E7%A0%81.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260720/%E6%A0%BC%E5%85%B0-3750%E9%93%81%E5%BA%95%EF%BC%8C%E6%94%BF%E7%AD%96%E5%BA%95%E7%8E%B0%E5%B8%82%E5%9C%BA%E5%BA%95%E8%A6%81%E8%A7%82%E5%AF%9F%EF%BC%8C%E4%B8%8D%E4%BA%A4%E5%87%BA%E5%B8%A6%E8%A1%80%E7%AD%B9%E7%A0%81.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-07-20",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260720998",
       "title": "2026-7-19周日 政策、热点与机会",
