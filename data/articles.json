@@ -1,11 +1,33 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-07-22",
-    "totalCount": 112
+    "lastUpdate": "2026-07-23",
+    "totalCount": 113
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260723203",
+      "title": "2026-7-22周三 政策、热点与机会",
+      "description": "市场超跌反弹后出现分化，3750点流动性底线获资金强力承接，最紧张时刻已过。\n本轮科技调整核心在于交易结构拥挤而非产业逻辑证伪，后续将走向分化，有产业趋势和业绩支撑的核心标的将脱颖而出，单纯靠涨价故事的公司难回高点。\n当前底部区域不宜丢掉信心，大的安全击球点可能已经出现。\n此外，国内公募资金或存在从硬件科技向腾讯等互联网龙头周期性回流的情况；\n宏观方面，美国通胀缓和带动黄金与加密货币反弹，网传部分银行降息预期则推动了国债期货大涨。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260722/%E5%AE%89%E9%9D%99.jpg",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260722/%E5%AE%89%E9%9D%99.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260722/%E6%9F%B4%E5%A4%A7.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260722/%E6%A0%BC%E5%85%B0-3750%E8%B5%84%E9%87%91%E5%BF%85%E9%A1%BB%E6%9C%89%E5%BC%BA%E5%8A%9B%E6%89%BF%E6%8E%A5%EF%BC%8C%E5%8D%95%E7%BA%AF%E9%9D%A0%E6%B6%A8%E4%BB%B7%E5%A0%86%E8%B5%B7%E7%9A%84%E5%85%AC%E5%8F%B8%E5%BE%88%E5%A4%9A%E5%8F%AF%E8%83%BD%E5%9B%9E%E4%B8%8D%E5%88%B0%E9%AB%98%E7%82%B9%EF%BC%8C%E7%A7%91%E6%8A%80%E8%B0%83%E6%95%B4%E6%A0%B8%E5%BF%83%E4%B8%8D%E6%98%AF%E4%BA%A7%E4%B8%9A%E9%80%BB%E8%BE%91%E8%A2%AB%E8%AF%81%E4%BC%AA%E8%80%8C%E6%98%AF%E8%BF%87%E4%BA%8E%E6%8B%A5%E6%8C%A4%EF%BC%8C%E8%BF%98%E6%9C%89%E9%9C%87%E8%8D%A1%E4%BD%86%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%AE%89%E5%85%A8%E5%87%BB%E7%90%83%E7%82%B9%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%8E%B0.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260722/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.jpg",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260722/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.jpg"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260722/%E5%AE%89%E9%9D%99.jpg",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-07-22",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260722036",
       "title": "2026-7-21周二 政策、热点与机会",
