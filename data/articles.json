@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-07-30",
-    "totalCount": 117
+    "lastUpdate": "2026-07-31",
+    "totalCount": 118
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260731877",
+      "title": "2026-7-30周四 政策、热点与机会",
+      "description": "当前A股破位下跌多受情绪恐慌干扰，已脱离基本面，大盘3750点核心支撑依然稳固。\n科技板块泡沫基本出清，但后市反弹将呈现极度分化，回撤超60%的个股或被彻底抛弃，而回撤30%-40%的优质标的仍有修复希望。\n短期市场最大的问题在于成交量不足，明天大概率会有反弹，但真正企稳需等待站稳3830点且成交量连续放大两三天。\n投资者应摒弃碎片化噪音，静待增量资金进场与上涨催化剂出现，理性迎接八月修复行情。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260730/%E5%B3%B0%E5%93%A5-3830%E5%90%8C%E6%97%B6%E9%87%8F%E8%BF%9E%E7%BB%AD%E6%94%BE%E5%A4%A7%E4%B8%A4%E4%B8%89%E5%A4%A9%E5%B8%82%E5%9C%BA%E5%9F%BA%E6%9C%AC%E4%BC%81%E7%A8%B3%E5%90%A6%E5%88%99%E5%8F%B3%E4%BE%A7%E8%BF%98%E6%98%AF%E6%9C%89%E5%BE%88%E5%A4%A7%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%EF%BC%8C%E7%AD%89%E5%BE%85%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91%E8%BF%9B%E5%9C%BA.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260730/%E5%B3%B0%E5%93%A5-3830%E5%90%8C%E6%97%B6%E9%87%8F%E8%BF%9E%E7%BB%AD%E6%94%BE%E5%A4%A7%E4%B8%A4%E4%B8%89%E5%A4%A9%E5%B8%82%E5%9C%BA%E5%9F%BA%E6%9C%AC%E4%BC%81%E7%A8%B3%E5%90%A6%E5%88%99%E5%8F%B3%E4%BE%A7%E8%BF%98%E6%98%AF%E6%9C%89%E5%BE%88%E5%A4%A7%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%EF%BC%8C%E7%AD%89%E5%BE%85%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91%E8%BF%9B%E5%9C%BA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260730/%E6%A0%BC%E5%85%B0-%E7%A2%8E%E7%89%87%E5%8C%96%E4%BF%A1%E6%81%AF%E6%B2%89%E8%BF%B7%E5%AE%B9%E6%98%93%E5%BF%BD%E7%95%A5%E6%8A%95%E8%B5%84%E6%A1%86%E6%9E%B6%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%80%A7%E6%9E%84%E5%BB%BA%EF%BC%8C3750%E6%A0%B8%E5%BF%83%E6%94%AF%E6%92%91%E7%A8%B3%E5%9B%BA%EF%BC%8C%E7%AD%89%E5%BE%85%E5%B8%82%E5%9C%BA%E7%90%86%E6%80%A7%E5%AE%9A%E4%BB%B7%E5%91%A8%E6%9C%9F%E5%B9%B3%E7%A8%B3%E5%88%87%E6%8D%A2.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260730/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260730/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260730/%E5%B3%B0%E5%93%A5-3830%E5%90%8C%E6%97%B6%E9%87%8F%E8%BF%9E%E7%BB%AD%E6%94%BE%E5%A4%A7%E4%B8%A4%E4%B8%89%E5%A4%A9%E5%B8%82%E5%9C%BA%E5%9F%BA%E6%9C%AC%E4%BC%81%E7%A8%B3%E5%90%A6%E5%88%99%E5%8F%B3%E4%BE%A7%E8%BF%98%E6%98%AF%E6%9C%89%E5%BE%88%E5%A4%A7%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%EF%BC%8C%E7%AD%89%E5%BE%85%E5%A2%9E%E9%87%8F%E8%B5%84%E9%87%91%E8%BF%9B%E5%9C%BA.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-07-30",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260730371",
       "title": "2026-7-29周三 政策、热点与机会",
