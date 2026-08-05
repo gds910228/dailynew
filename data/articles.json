@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-08-04",
-    "totalCount": 120
+    "lastUpdate": "2026-08-05",
+    "totalCount": 121
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260805083",
+      "title": "2026-8-4周二 政策、热点与机会",
+      "description": "科技强反弹：受海外云厂商业绩（AWS利润同比+63%验证算力变现）与国内芯片布图设计保护条例双重利好驱动。\n光模块限令传闻：盘后外媒称美拟限制进口中国新型光模块，短期情绪承压；但中国供应链良率/成本/交付壁垒短期难替代，3750点中期支撑仍有效。\n指数应对：关注3830/3850压力位，放量上攻3830可持股至3850高抛；若受利空跌破3800则看3760附近兜底资金。\n板块跟踪：AI应用、新能源光伏、电网设备、创新药、硬件科技持续留意。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260804/%E5%85%89%E6%A8%A1%E5%9D%97%E4%BD%8E%E5%BC%80%E4%B8%8D%E5%A4%9A%E6%89%BF%E6%8E%A5%E5%A5%BD%E6%98%AF%E6%9C%BA%E4%BC%9A%EF%BC%8C%E7%9C%8BAI%E5%BA%94%E7%94%A8%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E5%85%89%E4%BC%8F%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E3%80%81%E5%88%9B%E6%96%B0%E8%8D%AF.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260804/%E5%85%89%E6%A8%A1%E5%9D%97%E4%BD%8E%E5%BC%80%E4%B8%8D%E5%A4%9A%E6%89%BF%E6%8E%A5%E5%A5%BD%E6%98%AF%E6%9C%BA%E4%BC%9A%EF%BC%8C%E7%9C%8BAI%E5%BA%94%E7%94%A8%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E5%85%89%E4%BC%8F%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E3%80%81%E5%88%9B%E6%96%B0%E8%8D%AF.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260804/%E6%A0%BC%E5%85%B0-AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B1%82%E6%8A%95%E5%85%A5%E4%BB%8D%E6%9C%89%E4%B8%8A%E4%BF%AE%E7%A9%BA%E9%97%B4%EF%BC%8C%E5%85%89%E6%A8%A1%E5%9D%97%E5%B0%8F%E4%BD%9C%E6%96%87%E5%AE%9E%E5%88%99%E4%B8%8B%E4%B8%AA%E6%9C%88%E8%B0%88%E5%88%A4%E9%80%A0%E7%AD%B9%E7%A0%81%E4%BD%86%E7%9F%AD%E6%9C%9F%E6%83%85%E7%BB%AA%E5%8F%AF%E8%83%BD%E6%89%BF%E5%8E%8B%EF%BC%8C3750%E5%BA%95%E9%83%A8%E4%B8%AD%E6%9C%9F%E6%94%AF%E6%92%91%E4%BB%8D%E6%9C%89%E6%95%88.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260804/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260804/%E5%85%89%E6%A8%A1%E5%9D%97%E4%BD%8E%E5%BC%80%E4%B8%8D%E5%A4%9A%E6%89%BF%E6%8E%A5%E5%A5%BD%E6%98%AF%E6%9C%BA%E4%BC%9A%EF%BC%8C%E7%9C%8BAI%E5%BA%94%E7%94%A8%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%E5%85%89%E4%BC%8F%E3%80%81%E7%94%B5%E7%BD%91%E8%AE%BE%E5%A4%87%E3%80%81%E5%88%9B%E6%96%B0%E8%8D%AF.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-08-04",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260804455",
       "title": "2026-8-3周一 政策、热点与机会",
