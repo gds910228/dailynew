@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-08-05",
-    "totalCount": 121
+    "lastUpdate": "2026-08-06",
+    "totalCount": 122
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260806962",
+      "title": "2026-8-5周三 政策、热点与机会",
+      "description": "2026年8月5日复盘要点\n市场走势\n\n昨日利空后今日放量反弹，全天放量约4500亿，量价齐升。\n明日预期分歧，建议开盘观望20分钟再操作。支撑位3850，压力位3900–3915，到阻力位注意高抛。\n定性：反弹而非反转，大风险已解除，节奏以低吸为主。\n\n光模块禁令传闻\n\n美FCC拟限制中国新型数据中心光模块，但实际\"雷声大雨点小\"：中国占全球高端光模块近七成产能，替代不现实，国内龙头已在东南亚完成产能布局。\nA股科技未恐慌，科创50及半导体材料设备指数放量暴涨。\n中方超预期反制：将美合规测试公司列入不可靠实体清单、拉黑6家涉疆制裁美企、对进口办公设备启动安全调查、收紧无人机核心零部件出口审核。\n\n板块关注\n\n科技：仅光模块受影响，其余科技走强；对光模块后续保持谨慎。\n反制材料：磷化铟、稀土等\"卡脖子\"方向可跟踪。\nAI应用：连涨一周，明日若分化则看机会。\n机器人：受宇树上市影响，找短线机会。\n有色小金属：位置低，外围期现货大涨。\n新能源：科技之外重点关注方向。\n持仓策略：有业绩/增速预期的到阻力位高抛、回调低吸；无业绩的在指数阻力位高抛调仓。\n\n调研评论\n\n重仓方向指向设备和有色；提及紫金、盐湖、中国动力、生益科技、中国巨石等仍看好。\n\n国产算力自主可控\n\n科技股定价逻辑从\"恐慌供应链断裂\"切换至\"交易国产替代红利与自主可控预期\"，国产算力中长期确定性与赔率优势突出。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260805/%E5%B3%B0%E5%93%A5-%E6%8C%81%E4%BB%93%E6%9C%89%E4%B8%9A%E7%BB%A9%E6%9C%89%E9%98%BB%E5%8A%9B%E4%BD%8D%E9%AB%98%E6%8A%9B%E5%9B%9E%E8%B0%83%E4%BD%8E%E5%90%B8%EF%BC%8C%E6%97%A0%E4%B8%9A%E7%BB%A9%E9%AB%98%E6%8A%9B%E8%B0%83%E4%BB%93%EF%BC%8C%E7%9C%8BAI%E5%BA%94%E7%94%A8%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E6%9C%89%E8%89%B2%E5%B0%8F%E9%87%91%E5%B1%9E%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%EF%BC%8C%E5%8F%8D%E5%BC%B9%E9%9D%9E%E5%8F%8D%E8%BD%AC%E9%AB%98%E6%8A%9B%E4%BD%8E%E5%90%B8.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260805/%E5%B3%B0%E5%93%A5-%E6%8C%81%E4%BB%93%E6%9C%89%E4%B8%9A%E7%BB%A9%E6%9C%89%E9%98%BB%E5%8A%9B%E4%BD%8D%E9%AB%98%E6%8A%9B%E5%9B%9E%E8%B0%83%E4%BD%8E%E5%90%B8%EF%BC%8C%E6%97%A0%E4%B8%9A%E7%BB%A9%E9%AB%98%E6%8A%9B%E8%B0%83%E4%BB%93%EF%BC%8C%E7%9C%8BAI%E5%BA%94%E7%94%A8%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E6%9C%89%E8%89%B2%E5%B0%8F%E9%87%91%E5%B1%9E%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%EF%BC%8C%E5%8F%8D%E5%BC%B9%E9%9D%9E%E5%8F%8D%E8%BD%AC%E9%AB%98%E6%8A%9B%E4%BD%8E%E5%90%B8.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260805/%E6%A0%BC%E5%85%B0-%E5%85%89%E6%A8%A1%E5%9D%97%E7%A6%81%E4%BB%A4%E9%9B%B7%E5%A3%B0%E5%A4%A7%E9%9B%A8%E7%82%B9%E5%B0%8F%EF%BC%8C%E7%9C%8B%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E8%87%AA%E4%B8%BB%E5%8F%AF%E6%8E%A7%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260805/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260805/%E5%B3%B0%E5%93%A5-%E6%8C%81%E4%BB%93%E6%9C%89%E4%B8%9A%E7%BB%A9%E6%9C%89%E9%98%BB%E5%8A%9B%E4%BD%8D%E9%AB%98%E6%8A%9B%E5%9B%9E%E8%B0%83%E4%BD%8E%E5%90%B8%EF%BC%8C%E6%97%A0%E4%B8%9A%E7%BB%A9%E9%AB%98%E6%8A%9B%E8%B0%83%E4%BB%93%EF%BC%8C%E7%9C%8BAI%E5%BA%94%E7%94%A8%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E6%9C%89%E8%89%B2%E5%B0%8F%E9%87%91%E5%B1%9E%E3%80%81%E6%96%B0%E8%83%BD%E6%BA%90%EF%BC%8C%E5%8F%8D%E5%BC%B9%E9%9D%9E%E5%8F%8D%E8%BD%AC%E9%AB%98%E6%8A%9B%E4%BD%8E%E5%90%B8.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-08-05",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260805083",
       "title": "2026-8-4周二 政策、热点与机会",
