@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-08-06",
-    "totalCount": 122
+    "lastUpdate": "2026-08-07",
+    "totalCount": 123
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260807180",
+      "title": "2026-8-6周四 政策、热点与机会",
+      "description": "2026-8-6 复盘要点\n大盘\n指数回踩3900点整数关口，量能维持在2.5万亿以上，承接盘韧性强。\n连续反弹三天，科技板块跌幅深但反弹仅30%，距高位仍远；支撑位3867，上方压力位3915，放量突破可看3940。\n7月估值与情绪风险已充分释放，当前震荡属良性筹码再平衡。\n\n黄金\n现货黄金突破4300美元/盎司。7月ADP新增仅4.4万创年内新低，市场下调加息押注推动金价；但大级别主升浪仍需实质性降息扣动扳机。\n\nAI / DeepSeek涨价\n\nDeepSeek上调API价格，从\"补贴换生态\"进入商业变现，A股AI板块面临三极分化：①算力底座（数据中心、服务器、私有化部署）确定性最高；②中间件与调度软件估值重估；③伪AI应用加速出清。\n字节不蒸馏最强模型，在Xpert平台招募垂直领域专家提升能力。\n\n板块跟踪\n硬科技反弹最强：PCB、半导体材料、光互联（交换机），涨价方向跌幅最深反弹也强。\nAI应用方向未走完，可继续跟踪。\n科技之外最强板块为有色；新能源调整后继续看好。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260806/%E5%B3%B0%E5%93%A5-PCB%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E5%85%89%E4%BA%92%E8%81%94%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%8F%8D%E5%BC%B9%E5%BC%BA%E5%8F%AF%E7%BB%A7%E7%BB%AD%E8%B7%9F%E8%B8%AA%EF%BC%8CAI%E5%BA%94%E7%94%A8%E8%BF%98%E6%B2%A1%E8%B5%B0%E5%AE%8C%EF%BC%8C%E7%A7%91%E6%8A%80%E4%B9%8B%E5%A4%96%E6%9C%80%E5%BC%BA%E6%9C%89%E8%89%B2%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E8%B0%83%E6%95%B4%E5%90%8E%E7%BB%A7%E7%BB%AD%E7%9C%8B%E5%A5%BD.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260806/%E5%B3%B0%E5%93%A5-PCB%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E5%85%89%E4%BA%92%E8%81%94%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%8F%8D%E5%BC%B9%E5%BC%BA%E5%8F%AF%E7%BB%A7%E7%BB%AD%E8%B7%9F%E8%B8%AA%EF%BC%8CAI%E5%BA%94%E7%94%A8%E8%BF%98%E6%B2%A1%E8%B5%B0%E5%AE%8C%EF%BC%8C%E7%A7%91%E6%8A%80%E4%B9%8B%E5%A4%96%E6%9C%80%E5%BC%BA%E6%9C%89%E8%89%B2%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E8%B0%83%E6%95%B4%E5%90%8E%E7%BB%A7%E7%BB%AD%E7%9C%8B%E5%A5%BD.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260806/%E6%A0%BC%E5%85%B0-%E9%BB%84%E9%87%91%E5%A4%A7%E7%BA%A7%E5%88%AB%E4%B8%BB%E5%8D%87%E6%B5%AA%E9%9C%80%E9%99%8D%E6%81%AF%E6%89%A3%E5%8A%A8%E6%89%B3%E6%9C%BA%EF%BC%8CDS%E6%B6%A8%E4%BB%B7%E7%9B%B4%E6%8E%A5%E5%8F%97%E7%9B%8A%E4%BA%8E%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E3%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8F%8A%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2%E7%9A%84%E7%AE%97%E5%8A%9B%E4%BC%81%E4%B8%9A.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260806/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260806/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260806/%E5%B3%B0%E5%93%A5-PCB%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E5%85%89%E4%BA%92%E8%81%94%E4%BA%A4%E6%8D%A2%E6%9C%BA%E5%8F%8D%E5%BC%B9%E5%BC%BA%E5%8F%AF%E7%BB%A7%E7%BB%AD%E8%B7%9F%E8%B8%AA%EF%BC%8CAI%E5%BA%94%E7%94%A8%E8%BF%98%E6%B2%A1%E8%B5%B0%E5%AE%8C%EF%BC%8C%E7%A7%91%E6%8A%80%E4%B9%8B%E5%A4%96%E6%9C%80%E5%BC%BA%E6%9C%89%E8%89%B2%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E8%B0%83%E6%95%B4%E5%90%8E%E7%BB%A7%E7%BB%AD%E7%9C%8B%E5%A5%BD.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-08-06",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260806962",
       "title": "2026-8-5周三 政策、热点与机会",
