@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-08-09",
-    "totalCount": 124
+    "lastUpdate": "2026-08-11",
+    "totalCount": 125
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260811975",
+      "title": "2026-8-10周一 政策、热点与机会",
+      "description": "2026年8月10日 复盘要点\n\n大盘方面\n反弹行情延续，已收五连阳，今日光头阳线触及年线3967附近，下一个目标关注3983、3995前两个缺口位置；\n若带量补缺则反转确立继续看多；若回调至3940附近企稳，可低吸；\n科技板块今日调整属良性\"右侧换气\"，上证站稳3750后正向3900-4000筹码密集区试探，剧烈换手为消化解套抛压、夯实底部；\n4000点以下无需过度恐慌，行情从\"急跌反弹\"进入\"平台整固\"阶段。\n\n板块方面\n科技（半导体材料/AI算力）：今日调整为健康回调，核心逻辑未塌方；半导体设备等自主可控方向抗跌韧性极强，继续盯紧科技 \n医药：大概率分化，龙头出现对子顶信号，注意回调风险\n有色：中线思路，反弹空间力度不及科技，但AI相关材料弹性最大\nAI应用：分化后关注情绪是否转一致，等二波机会\n国产算力：光模块拥挤度加速出清，国产替代方向为重点锚定 \n\n宇树科技专题\n今日以150.8元/股申购，发行市值近610亿，静态PE 219倍，市场认可其从极致降本制造到\"具身智能大模型生态\"平台升维的逻辑 \nG1核心组件自研率超90%，物料成本压至8976美元，维持近67%高毛利，制造护城河难复制 \n2025年人形机器人出货5511台，业务占比超52%超越机器狗成为主业（同期特斯拉约150台），超60亿募资最大单项投向智能机器人模型研发 \n\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260810/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%EF%BC%8C%E5%8C%BB%E8%8D%AF%E5%A4%A7%E6%A6%82%E7%8E%87%E6%9C%89%E5%88%86%E5%8C%96%E9%BE%99%E5%A4%B4%E5%AF%B9%E5%AD%90%E9%A1%B6%EF%BC%8C%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF%E6%80%9D%E8%B7%AF%E5%8F%8D%E5%BC%B9%E7%A9%BA%E9%97%B4%E5%8A%9B%E5%BA%A6%E6%98%AF%E4%B8%8D%E5%8F%8A%E7%A7%91%E6%8A%80%E7%9A%84%EF%BC%8CAI%E5%BA%94%E7%94%A8%E5%88%86%E5%8C%96%E5%90%8E%E7%9C%8B%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BD%AC%E4%B8%80%E8%87%B4%E7%AD%89%E4%BA%8C%E6%B3%A2%EF%BC%8C4000%E7%82%B9%E4%B8%8B%E6%97%A0%E9%9C%80%E8%BF%87%E5%BA%A6%E6%81%90%E6%85%8C.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260810/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%EF%BC%8C%E5%8C%BB%E8%8D%AF%E5%A4%A7%E6%A6%82%E7%8E%87%E6%9C%89%E5%88%86%E5%8C%96%E9%BE%99%E5%A4%B4%E5%AF%B9%E5%AD%90%E9%A1%B6%EF%BC%8C%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF%E6%80%9D%E8%B7%AF%E5%8F%8D%E5%BC%B9%E7%A9%BA%E9%97%B4%E5%8A%9B%E5%BA%A6%E6%98%AF%E4%B8%8D%E5%8F%8A%E7%A7%91%E6%8A%80%E7%9A%84%EF%BC%8CAI%E5%BA%94%E7%94%A8%E5%88%86%E5%8C%96%E5%90%8E%E7%9C%8B%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BD%AC%E4%B8%80%E8%87%B4%E7%AD%89%E4%BA%8C%E6%B3%A2%EF%BC%8C4000%E7%82%B9%E4%B8%8B%E6%97%A0%E9%9C%80%E8%BF%87%E5%BA%A6%E6%81%90%E6%85%8C.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260810/%E6%A0%BC%E5%85%B0-%E5%AE%87%E6%A0%91%E5%88%86%E6%9E%90%EF%BC%8C%E6%AD%A4%E5%8C%BA%E9%97%B4%E6%8D%A2%E6%89%8B%E5%89%A7%E7%83%88%E6%98%AF%E4%B8%BA%E4%BA%86%E6%B6%88%E5%8C%96%E8%A7%A3%E5%A5%97%E7%9B%98%E6%8A%9B%E5%8E%8B%E5%A4%AF%E5%AE%9E%E5%BA%95%E9%83%A8%EF%BC%8C%E7%9C%8B%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E5%92%8C%E4%B8%9A%E7%BB%A9%E6%8B%90%E7%82%B9%E6%96%B0%E9%80%BB%E8%BE%91%E6%A0%B8%E5%BF%83%E8%B5%84%E4%BA%A7.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260810/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260810/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260810/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%EF%BC%8C%E5%8C%BB%E8%8D%AF%E5%A4%A7%E6%A6%82%E7%8E%87%E6%9C%89%E5%88%86%E5%8C%96%E9%BE%99%E5%A4%B4%E5%AF%B9%E5%AD%90%E9%A1%B6%EF%BC%8C%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF%E6%80%9D%E8%B7%AF%E5%8F%8D%E5%BC%B9%E7%A9%BA%E9%97%B4%E5%8A%9B%E5%BA%A6%E6%98%AF%E4%B8%8D%E5%8F%8A%E7%A7%91%E6%8A%80%E7%9A%84%EF%BC%8CAI%E5%BA%94%E7%94%A8%E5%88%86%E5%8C%96%E5%90%8E%E7%9C%8B%E6%98%AF%E5%90%A6%E4%BC%9A%E8%BD%AC%E4%B8%80%E8%87%B4%E7%AD%89%E4%BA%8C%E6%B3%A2%EF%BC%8C4000%E7%82%B9%E4%B8%8B%E6%97%A0%E9%9C%80%E8%BF%87%E5%BA%A6%E6%81%90%E6%85%8C.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-08-10",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260809438",
       "title": "2026-8-9周日 政策、热点与机会",
