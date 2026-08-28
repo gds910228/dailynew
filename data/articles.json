@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-08-27",
-    "totalCount": 131
+    "lastUpdate": "2026-08-28",
+    "totalCount": 132
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260828297",
+      "title": "2026-8-27周四 政策、热点与机会",
+      "description": "026-08-27 复盘要点\n指数与节奏\n行情逼空上行，已逼近年线3982和整数关口4000，下午不少踏空资金追进；明天若继续拉升大概率放量 \n操作：带量突破3982可继续持有；若直接冲4000注意高抛，冲太快要控制节奏 \n支撑看3950、3930，证券搭台下指数无大跌风险，回踩3930附近可低吸 \n\n反弹双引擎（内外共振）\n海外：英伟达FY2027Q2营收与EPS翻倍、大超预期，提前给出明年70%增长指引，证伪\"AI资本开支见顶\"，AI离拐点尚远 \n国内：智谱GLM-5.3 Flash开源上线，调用超10万张国产芯片集群承载大规模推理，\"模型+算力+软硬件\"闭环打通，看国产算力 \n\n板块强弱（业绩排序）\n英伟达海外硬件链（+87.4%）＞有色金属（+62.3%）＞基础化工（+22.6%）＞AI软件应用（+12.4%）＞医药（+14.2%）＞国产半导体链（+11.8%）＞新能源（-3.7%）＞消费（-18.3%）＞机器人（-24.1%）＞商业航天（-31.5%） \n后市方向\n\n重点：英伟达产业链（小光、PCB、光纤）、液冷、半导体材料、小金属 \n超节点方向选股三标准：生态订单、核心制造能力、服务可复制 \n反转趋势（2.5万亿量能）确立前不建议追高；坚定做多科技，震荡做T降本收集筹码 \n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260827/%E5%B3%B0%E5%93%A5-3982%E5%B8%A6%E9%87%8F%E5%8F%AF%E7%BB%A7%E7%BB%AD%E6%8C%81%E6%9C%89%EF%BC%8C%E8%8B%A5%E7%9B%B4%E6%8E%A54000%E6%B3%A8%E6%84%8F%E9%AB%98%E6%8A%9B%EF%BC%8C%E8%AF%81%E5%88%B8%E6%90%AD%E5%8F%B0%E6%8C%87%E6%95%B0%E6%97%A0%E5%A4%A7%E8%B7%8C%E9%A3%8E%E9%99%A9%EF%BC%8C%E7%9C%8B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%B0%8F%E5%85%89%E3%80%81PCB%E3%80%81%E5%85%89%E7%BA%A4%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E3%80%81%E5%B0%8F%E9%87%91%E5%B1%9E%EF%BC%8C%E5%8F%8D%E8%BD%AC%E8%B6%8B%E5%8A%BF2.5%E4%B8%87%E4%BA%BF%E6%B2%A1%E7%A1%AE%E7%AB%8B%E5%89%8D%EF%BC%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%BF%BD%E9%AB%98.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260827/%E5%B3%B0%E5%93%A5-3982%E5%B8%A6%E9%87%8F%E5%8F%AF%E7%BB%A7%E7%BB%AD%E6%8C%81%E6%9C%89%EF%BC%8C%E8%8B%A5%E7%9B%B4%E6%8E%A54000%E6%B3%A8%E6%84%8F%E9%AB%98%E6%8A%9B%EF%BC%8C%E8%AF%81%E5%88%B8%E6%90%AD%E5%8F%B0%E6%8C%87%E6%95%B0%E6%97%A0%E5%A4%A7%E8%B7%8C%E9%A3%8E%E9%99%A9%EF%BC%8C%E7%9C%8B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%B0%8F%E5%85%89%E3%80%81PCB%E3%80%81%E5%85%89%E7%BA%A4%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E3%80%81%E5%B0%8F%E9%87%91%E5%B1%9E%EF%BC%8C%E5%8F%8D%E8%BD%AC%E8%B6%8B%E5%8A%BF2.5%E4%B8%87%E4%BA%BF%E6%B2%A1%E7%A1%AE%E7%AB%8B%E5%89%8D%EF%BC%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%BF%BD%E9%AB%98.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260827/%E6%A0%BC%E5%85%B0-%E5%8F%8D%E5%BC%B9%E7%94%B1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B6%85%E9%A2%84%E6%9C%9F%E4%B8%9A%E7%BB%A9%E5%92%8C%E6%99%BA%E8%B0%B1%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87%E9%9B%86%E7%BE%A4%E6%89%BF%E8%BD%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8E%A8%E7%90%86%E6%8E%A8%E5%8A%A8%EF%BC%8C%E7%9C%8B%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260827/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260827/%E5%B3%B0%E5%93%A5-3982%E5%B8%A6%E9%87%8F%E5%8F%AF%E7%BB%A7%E7%BB%AD%E6%8C%81%E6%9C%89%EF%BC%8C%E8%8B%A5%E7%9B%B4%E6%8E%A54000%E6%B3%A8%E6%84%8F%E9%AB%98%E6%8A%9B%EF%BC%8C%E8%AF%81%E5%88%B8%E6%90%AD%E5%8F%B0%E6%8C%87%E6%95%B0%E6%97%A0%E5%A4%A7%E8%B7%8C%E9%A3%8E%E9%99%A9%EF%BC%8C%E7%9C%8B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%B0%8F%E5%85%89%E3%80%81PCB%E3%80%81%E5%85%89%E7%BA%A4%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%90%E6%96%99%E3%80%81%E5%B0%8F%E9%87%91%E5%B1%9E%EF%BC%8C%E5%8F%8D%E8%BD%AC%E8%B6%8B%E5%8A%BF2.5%E4%B8%87%E4%BA%BF%E6%B2%A1%E7%A1%AE%E7%AB%8B%E5%89%8D%EF%BC%8C%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%BF%BD%E9%AB%98.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-08-27",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260827477",
       "title": "2026-8-26周三 政策、热点与机会",
