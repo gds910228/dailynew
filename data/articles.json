@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-08-28",
-    "totalCount": 132
+    "lastUpdate": "2026-09-03",
+    "totalCount": 133
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260903194",
+      "title": "2026-9-2周三 政策、热点与机会",
+      "description": "2026-09-02 复盘要点\n\n盘面：\nA股缩量普跌，成交额降至1.82万亿阶段新地量，超3900只个股收跌；归因于全球无风险利率抬升（美债、日债收益率飙升）、大宗输入型通胀隐忧与国内资产重定价，9月议息会议前大资金观望情绪浓厚。\n\n资金：\n买盘缺失型缩量，题材股多\"一日游\"；资金从纯概念叙事转向可验证基本面，科创50及半导体ETF逆势净流入超53亿元，硬核资产与新电网方向获避险资金青睐；冲4000点需放量消化历史套牢盘。\n\n技术面：地量是否地价看明天量能——支撑3925，有效撑住且放量可低吸，破位看3900；压力3965/3986，放量站上可持有，缩量反弹则高抛。\n\n宏观：债抛潮是单方面风险预警，尚非金融危机（需多重坏事叠加）；今晚小非农不及预期，黄金白银反弹、国债利率跳水。\n\n策略：主线仍看科技（三季报业绩驱动），首选材料方向；短线关注小光、交换机、液冷、算力租赁；有色中线思路；明天看科技反弹，按量能与支撑压力位把握节奏。\n\n其他观点：光伏产能过剩调整三年未见反转；QD基金仅释放60多亿新增额度、约1800亿存量，高溢价短期难抹平；国内民航股长期看无投资价值。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260902/%E5%B3%B0%E5%93%A5-3925%E6%9C%89%E6%95%88%E6%94%AF%E6%92%91%E5%B9%B6%E6%94%BE%E9%87%8F%E8%80%83%E8%99%91%E4%BD%8E%E5%90%B8%EF%BC%8C%E6%94%BE%E9%87%8F%E5%85%B3%E6%B3%A83965%E5%8E%8B%E5%8A%9B%E4%BD%8D%E7%A8%B3%E5%8F%AF%E7%BB%A7%E7%BB%AD%E6%8C%81%E6%9C%89%EF%BC%8C%E4%B8%89%E5%AD%A3%E6%8A%A5%E7%9C%8B%E7%A7%91%E6%8A%80%E4%B8%AD%E7%9A%84%E6%9D%90%E6%96%99%EF%BC%8C%E7%9F%AD%E7%BA%BF%E7%9C%8B%E5%B0%8F%E5%85%89%E3%80%81%E4%BA%A4%E6%8D%A2%E6%9C%BA%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260902/%E5%B3%B0%E5%93%A5-3925%E6%9C%89%E6%95%88%E6%94%AF%E6%92%91%E5%B9%B6%E6%94%BE%E9%87%8F%E8%80%83%E8%99%91%E4%BD%8E%E5%90%B8%EF%BC%8C%E6%94%BE%E9%87%8F%E5%85%B3%E6%B3%A83965%E5%8E%8B%E5%8A%9B%E4%BD%8D%E7%A8%B3%E5%8F%AF%E7%BB%A7%E7%BB%AD%E6%8C%81%E6%9C%89%EF%BC%8C%E4%B8%89%E5%AD%A3%E6%8A%A5%E7%9C%8B%E7%A7%91%E6%8A%80%E4%B8%AD%E7%9A%84%E6%9D%90%E6%96%99%EF%BC%8C%E7%9F%AD%E7%BA%BF%E7%9C%8B%E5%B0%8F%E5%85%89%E3%80%81%E4%BA%A4%E6%8D%A2%E6%9C%BA%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260902/%E6%A0%BC%E5%85%B0-9%E6%9C%88%E8%AE%AE%E6%81%AF%E4%BC%9A%E8%AE%AE%E5%89%8D%E5%A4%A7%E8%B5%84%E9%87%91%E8%A7%82%E6%9C%9B%E6%83%85%E7%BB%AA%E6%B5%93%E5%8E%9A%EF%BC%8C%E7%A7%91%E5%88%9B50%E5%8D%8A%E5%AF%BC%E4%BD%93ETF%E9%80%86%E5%8A%BF%E6%B5%81%E5%85%A5%EF%BC%8C4000%E7%82%B9%E9%9C%80%E8%A6%81%E6%94%BE%E9%87%8F%E6%B6%88%E5%8C%96%E5%8E%86%E5%8F%B2%E5%A5%97%E7%89%A2%E7%9B%98.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260902/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260902/%E5%B3%B0%E5%93%A5-3925%E6%9C%89%E6%95%88%E6%94%AF%E6%92%91%E5%B9%B6%E6%94%BE%E9%87%8F%E8%80%83%E8%99%91%E4%BD%8E%E5%90%B8%EF%BC%8C%E6%94%BE%E9%87%8F%E5%85%B3%E6%B3%A83965%E5%8E%8B%E5%8A%9B%E4%BD%8D%E7%A8%B3%E5%8F%AF%E7%BB%A7%E7%BB%AD%E6%8C%81%E6%9C%89%EF%BC%8C%E4%B8%89%E5%AD%A3%E6%8A%A5%E7%9C%8B%E7%A7%91%E6%8A%80%E4%B8%AD%E7%9A%84%E6%9D%90%E6%96%99%EF%BC%8C%E7%9F%AD%E7%BA%BF%E7%9C%8B%E5%B0%8F%E5%85%89%E3%80%81%E4%BA%A4%E6%8D%A2%E6%9C%BA%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-09-02",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260828297",
       "title": "2026-8-27周四 政策、热点与机会",
