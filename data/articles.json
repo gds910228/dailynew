@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-09-03",
-    "totalCount": 133
+    "lastUpdate": "2026-09-08",
+    "totalCount": 134
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260908009",
+      "title": "2026-9-7周一 复盘、热点与机会",
+      "description": "2026-09-07 复盘要点\n\n大盘节奏：\n未放量下难有连续普涨，本轮按反弹对待，核心是关键点位+成交量做高抛低吸；明日上方压力 3950/3980，支撑 3915/3900，缩量高抛、近支撑低吸\n首日大涨本质是存量资金从防御板块（银行、红利、农业）回流科技，持续性看量能与板块承接\n科技反弹主线\n催化：GPT-6 Astra+黄仁勋“AGI已至”，算力从“副驾驶”跃迁为“全自动Agent”，需求底座系统性上修\n利好密集：工信部2030新一代通信网规划、华为麒麟芯片手机回归、CPO设备缺货追单、高盛上调光模块2026-28年市场预测33%/81%/115%，英伟达临近新高激活PCB链\n高端PCB：从炒作过渡到业绩兑现期，层数跃升至18-20层+、供给壁垒高筑、Q3量产打满+成本传导，量价齐升“戴维斯双击”\n\n可跟踪方向：\n光模块、培育钻石、液冷、材料；有色低吸中线逻辑不变\n\n情景应对：\n乐观（成交>2万亿）：加仓跟随硬科技主线；\n中性（约1.9万亿）：去弱留强、逢低布局；\n悲观（缩量/砸盘）：勿追高、严控仓位\n\n风险：\n忌大阳线后盲目追高；警惕科创板密集解禁，高位+小流通盘个股优先排查筹码结构\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260907/%E5%B3%B0%E5%93%A5-%E7%9C%8B%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%E5%8F%8D%E5%BC%B9%EF%BC%8C%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260907/%E5%B3%B0%E5%93%A5-%E7%9C%8B%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%E5%8F%8D%E5%BC%B9%EF%BC%8C%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260907/%E6%A0%BC%E5%85%B0-%E9%AB%98%E7%AB%AFPCB%E9%87%8F%E4%BB%B7%E9%BD%90%E5%8D%87%E4%BB%8E%E7%82%92%E4%BD%9C%E5%B9%B3%E7%A8%B3%E8%BF%87%E6%B8%A1%E8%87%B3%E4%B8%9A%E7%BB%A9%E5%85%91%E7%8E%B0%E6%9C%9F.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260907/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260907/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260907/%E5%B3%B0%E5%93%A5-%E7%9C%8B%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%E5%8F%8D%E5%BC%B9%EF%BC%8C%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-09-08",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260903194",
       "title": "2026-9-2周三 政策、热点与机会",
