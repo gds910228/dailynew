@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-09-08",
-    "totalCount": 134
+    "lastUpdate": "2026-09-09",
+    "totalCount": 135
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260909099",
+      "title": "2026-9-8周二 复盘、热点与机会",
+      "description": "2026-9-8 复盘要点\n\n大盘：\n成交量持续萎缩，指数夹在支撑与压力位之间，需警惕破位风险；深成指、创业板、科创50走势偏弱，可能拖累上证。\n存量博弈下波动加剧，资金入场谨慎，短期预计在 3850–4000 点区间震荡。\n\n策略：\n操作上高抛低吸、关注放量突破，9月下至10月三季报披露前大概率横盘震荡，等市场选择方向、吸引增量资金。\n在有效突破或第一阶段信号出现前，以耐心磨底为主，避免频繁追涨杀跌。\n\n可跟踪板块：\nPCB、光模块、培育钻石、液冷、材料、有色（中线）、低位化工。\n\n资金面：\n存量端核心矛盾：交易情绪恶化、叙事割裂、外围冲击、量能制约；\n增量端看险资托底与居民存款搬家的接力，关键在\"三阶段资金接力模型\"（两融/私募反攻 → ETF/公募/外资聚焦 → 存款/理财趋势确立）能否走通。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260908/%E5%B3%B0%E5%93%A5-%E5%85%B3%E6%B3%A8%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E3%80%81%E7%A7%91%E5%88%9B50%E8%B5%B0%E5%8A%BF%EF%BC%8C%E7%9C%8BPCB%E3%80%81%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF%E3%80%81%E4%BD%8E%E4%BD%8D%E5%8C%96%E5%B7%A5%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%8D%B3%E5%B0%86%E9%80%89%E6%8B%A9%E6%96%B9%E5%90%91.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260908/%E5%B3%B0%E5%93%A5-%E5%85%B3%E6%B3%A8%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E3%80%81%E7%A7%91%E5%88%9B50%E8%B5%B0%E5%8A%BF%EF%BC%8C%E7%9C%8BPCB%E3%80%81%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF%E3%80%81%E4%BD%8E%E4%BD%8D%E5%8C%96%E5%B7%A5%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%8D%B3%E5%B0%86%E9%80%89%E6%8B%A9%E6%96%B9%E5%90%91.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260908/%E6%A0%BC%E5%85%B0-%E7%AD%89%E5%BE%85%E9%87%8F%E8%83%BD%EF%BC%8C%E4%B8%89%E9%98%B6%E6%AE%B5%E8%B5%84%E9%87%91%E6%8E%A5%E5%8A%9B%E6%A8%A1%E5%9E%8B%E4%BB%8B%E7%BB%8D.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260908/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260908/%E5%B3%B0%E5%93%A5-%E5%85%B3%E6%B3%A8%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E3%80%81%E7%A7%91%E5%88%9B50%E8%B5%B0%E5%8A%BF%EF%BC%8C%E7%9C%8BPCB%E3%80%81%E5%85%89%E6%A8%A1%E5%9D%97%E3%80%81%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3%E3%80%81%E6%B6%B2%E5%86%B7%E3%80%81%E6%9D%90%E6%96%99%E3%80%81%E6%9C%89%E8%89%B2%E4%B8%AD%E7%BA%BF%E3%80%81%E4%BD%8E%E4%BD%8D%E5%8C%96%E5%B7%A5%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%8D%B3%E5%B0%86%E9%80%89%E6%8B%A9%E6%96%B9%E5%90%91.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-09-08",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260908009",
       "title": "2026-9-7周一 复盘、热点与机会",
