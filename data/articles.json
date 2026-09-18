@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-09-17",
-    "totalCount": 139
+    "lastUpdate": "2026-09-18",
+    "totalCount": 140
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260918202",
+      "title": "2026-9-17周四 复盘、热点与机会",
+      "description": "2026-9-17 复盘要点\n盘面：\n科技调整带动明显杀跌，PCB、高速覆铜板（CCL）跌幅居前；\n触发因素是“MC级材料替代高速覆铜板”小作文，但该传言去年就有且测试不理想，替代需跨过技术、成本、良品率三关，短期属情绪利空，实际是前期大涨后的获利回吐（上游电子布、铜箔跌幅不大可佐证）。\n\n指数：\n大盘穿头破脚K线，盘中冲高3998点，成交量小幅萎缩，可上可下；放量则大概率向上。\n支撑3866/3842，压力3880/3898/3910；\n明早十点半重点确认是否放量，缩量跌需防午后跳水。\n\n美联储：\n时隔三年首次加息25bp至3.75%–4.00%，12:0全票通过，16/18官员支持年内继续加息，整体偏鹰但已被市场计价。\n\n结构：\nA股顶住海外紧缩冲击震荡抗跌，护盘承接力量明显，处于底部蓄势阶段，切忌洗盘中交出筹码。\n\n明日策略：\n加息靴子落地，重点看科技龙头修复、科技反弹开启；继续看好PCB细分赛道，电子布（今日最强，虽龙头炸板）仍有跟踪预期。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260917/%E5%B3%B0%E5%93%A5-%E7%9C%8BPCB%E6%A6%82%E5%BF%B5%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%93%EF%BC%8C%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260917/%E5%B3%B0%E5%93%A5-%E7%9C%8BPCB%E6%A6%82%E5%BF%B5%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%93%EF%BC%8C%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260917/%E6%A0%BC%E5%85%B0-%E5%8A%A0%E6%81%AF%E5%AF%B9%E9%BB%84%E9%87%91%E5%92%8C%E7%A7%91%E6%8A%80%E8%B5%84%E4%BA%A7%E7%9F%AD%E6%9C%9F%E6%89%B0%E5%8A%A8%E4%BD%86%E5%BA%95%E5%B1%82%E6%94%AF%E6%92%91%E9%80%BB%E8%BE%91%E6%9C%AA%E5%8A%A8%E6%91%87%EF%BC%8C%E9%9C%87%E8%8D%A1%E6%8A%97%E8%B7%8C%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E7%A7%AF%E6%9E%81%E7%9A%84%E6%9C%BA%E6%9E%84%E6%80%A7%E4%BF%A1%E5%8F%B7%EF%BC%8C%E6%98%8E%E6%98%BE%E6%8A%A4%E7%9B%98%E6%89%BF%E6%8E%A5%E5%8A%9B%E9%87%8F%E5%9C%A8.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260917/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260917/%E5%B3%B0%E5%93%A5-%E7%9C%8BPCB%E6%A6%82%E5%BF%B5%E7%BB%86%E5%88%86%E8%B5%9B%E9%81%93%EF%BC%8C%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-09-17",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260917482",
       "title": "2026-9-16周三 复盘、热点与机会",
