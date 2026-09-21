@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-09-18",
-    "totalCount": 140
+    "lastUpdate": "2026-09-21",
+    "totalCount": 141
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260921147",
+      "title": "2026-9-20周日 复盘、热点与机会",
+      "description": "2026-9-20 复盘要点\n大盘/量能:\n节前延续震荡，周一核心区间 3910—3930 点；短线支撑 3910/3900（生命线），压力 3919/3930，失守 3900 谨慎情绪升温\n上周小幅缩量至约 2.08 万亿，突破 3930 需进一步放量；当前 1.5—2 万亿量能仅够支撑结构性轮动，警惕无量强穿 4000 点的\"假突破\"诱多，3850 为强支撑\n周五放量大涨已确立四季度做多窗口，行情切换为高利率环境下的\"盈利牛市\"，选股从买赛道转向买利润兑现。\n\n外部环境:\n伊朗递交停战条件、地缘风险降温；特朗普 AI 政策定调偏松；中美维持\"有管理的竞争\"，贴现率压制缓解\n资金面。\n两融企稳 2.6—2.7 万亿、期指空头回落基差转正、外资阶段性净流入；机构科技仓位偏低存在踏空补买盘，但各路资金尚未共振。\n\n主线与策略:\n当前是科技内部轮动行情：材料和设备是后排补涨方向，光刻胶、零件涨价消息可跟踪；PCB、光模块涨幅已大，看后排调整后低吸\n非科技资金主攻创新药和 CRO。\n四季度业绩将引发科技股洗牌，紧盯涨价、订单高增、产能打满、份额提升四大信号；二线进攻看人形机器人、\nAI 制药；黄金做战略底仓、铜做波段。\n\n十二字方针：敢跌敢买，涨了别追，主升等待持续放量。\n\n其他：\n境外机构普遍预计 2027 年一线城市房价止跌，不看好三四线。\n总体判断：消息面、技术面中性偏多，无系统性回调风险。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260920/%E5%B3%B0%E5%93%A5-%E8%AE%BE%E5%A4%87%E5%92%8C%E6%9D%90%E6%96%99%EF%BC%8C%E5%85%89%E5%88%BB%E8%83%B6%E5%92%8C%E9%9B%B6%E4%BB%B6%E6%B6%A8%E4%BB%B7%EF%BC%8CPCB%E5%92%8C%E5%85%89%E5%90%8E%E6%8E%92%E4%BD%8E%E5%90%B8%EF%BC%8C%E9%9D%9E%E7%A7%91%E6%8A%80%E7%9C%8B%E5%88%9B%E6%96%B0%E8%8D%AF%E5%92%8CCRO.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260920/%E5%B3%B0%E5%93%A5-%E8%AE%BE%E5%A4%87%E5%92%8C%E6%9D%90%E6%96%99%EF%BC%8C%E5%85%89%E5%88%BB%E8%83%B6%E5%92%8C%E9%9B%B6%E4%BB%B6%E6%B6%A8%E4%BB%B7%EF%BC%8CPCB%E5%92%8C%E5%85%89%E5%90%8E%E6%8E%92%E4%BD%8E%E5%90%B8%EF%BC%8C%E9%9D%9E%E7%A7%91%E6%8A%80%E7%9C%8B%E5%88%9B%E6%96%B0%E8%8D%AF%E5%92%8CCRO.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260920/%E6%A0%BC%E5%85%B0-%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9%E9%A2%84%E6%9C%9F%E5%B0%86%E5%BC%95%E5%8F%91%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E6%B4%97%E7%89%8C%E8%A6%81%E7%B4%A7%E7%9B%AF%E4%BA%A7%E5%93%81%E6%B6%A8%E4%BB%B7%E8%AE%A2%E5%8D%95%E9%AB%98%E5%A2%9E%E4%BA%A7%E8%83%BD%E6%89%93%E6%BB%A1%E4%B8%8E%E4%BB%BD%E9%A2%9D%E6%8F%90%E5%8D%87%E5%9B%9B%E5%A4%A7%E4%BF%A1%E5%8F%B7%EF%BC%8C%E8%8B%A5%E4%B8%9A%E7%BB%A9%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F%E5%9D%9A%E5%86%B3%E8%B0%83%E4%BB%93%EF%BC%8C%E4%BA%8C%E7%BA%BF%E8%BF%9B%E6%94%BB%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%92%8CAI%E5%88%B6%E8%8D%AF%EF%BC%8C%E7%9C%8B%E9%BB%84%E9%87%91%E6%88%98%E7%95%A5%E5%BA%95%E4%BB%93%E3%80%81%E9%93%9C%E5%81%9A%E6%B3%A2%E6%AE%B5%E8%BF%9B%E6%94%BB.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260920/%E6%A0%BC%E5%85%B0-%E8%B5%84%E9%87%91%E8%BF%9B%E5%9C%BA%E8%8A%82%E5%A5%8F%E5%B0%9A%E6%9C%AA%E5%BD%A2%E6%88%90%E5%85%A8%E5%B1%80%E5%85%B1%E6%8C%AF%EF%BC%8C%E5%BD%93%E5%89%8D1.5-2%E4%B8%87%E4%BA%BF%E9%87%8F%E8%83%BD%E8%B6%B3%E7%9F%A3%E6%94%AF%E6%92%91%E7%BB%93%E6%9E%84%E6%80%A7%E8%BD%AE%E5%8A%A8%EF%BC%8C%E4%B8%BB%E5%8D%87%E4%BB%8D%E4%BE%9D%E8%B5%96%E6%8C%81%E7%BB%AD%E6%94%BE%E9%87%8F.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260920/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260920/%E5%B3%B0%E5%93%A5-%E8%AE%BE%E5%A4%87%E5%92%8C%E6%9D%90%E6%96%99%EF%BC%8C%E5%85%89%E5%88%BB%E8%83%B6%E5%92%8C%E9%9B%B6%E4%BB%B6%E6%B6%A8%E4%BB%B7%EF%BC%8CPCB%E5%92%8C%E5%85%89%E5%90%8E%E6%8E%92%E4%BD%8E%E5%90%B8%EF%BC%8C%E9%9D%9E%E7%A7%91%E6%8A%80%E7%9C%8B%E5%88%9B%E6%96%B0%E8%8D%AF%E5%92%8CCRO.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-09-20",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260918202",
       "title": "2026-9-17周四 复盘、热点与机会",
