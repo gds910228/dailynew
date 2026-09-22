@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-09-21",
-    "totalCount": 141
+    "lastUpdate": "2026-09-22",
+    "totalCount": 142
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260922147",
+      "title": "2026-9-21周一 复盘、热点与机会",
+      "description": "2026-09-21 复盘要点\n指数：\n上证收 3949.91 点，盘中最高 3950.94 点，回踩 3927 获支撑探底回升\n量能：\n成交约 2.03 万亿，较前日缩量约 456 亿，指数涨量能缩，增量资金尚未大规模入场\n结构：\n普涨格局，全市场 4536 只上涨、逾八成，涨停逾百家，中证2000(+2.02%) 跑赢沪深300(+0.71%)，资金向中小盘扩散\n关键位：\n3950 为重要压力位（3980 与 3915 中轴），明日放量站上 3950 则看 3985；对比 8/18 冲关，本次筹码结构扎实，4000 点大概率震荡换手中突破而非一蹴而就。\n\n主线：\n科技搭台、群雄跟涨；创新药/CXO、大金融、消费接力，AI 算力龙头（光模块/PCB）交投仍火爆\n\n机会：\n半导体后排补涨挖掘；PCB、光模块回调低吸；房地产政策利好短线；化工细分；医药/创新药继续跟踪\n\n冲关三信号：\n成交额重回 2.2 万亿；光通信/PCB/存储/国产算力维系高活跃；创新药、优质消费良性接力。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260921/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%90%8E%E6%8E%92%E3%80%81PCB%E5%92%8C%E5%85%89%E6%A8%A1%E5%9D%97%E4%BD%8E%E5%90%B8%E3%80%81%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%92%8C%E5%8C%96%E5%B7%A5%E7%9F%AD%E7%BA%BF%E3%80%81%E5%8C%BB%E8%8D%AF%E7%BB%A7%E7%BB%AD%E8%B7%9F%E8%B8%AA.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260921/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%90%8E%E6%8E%92%E3%80%81PCB%E5%92%8C%E5%85%89%E6%A8%A1%E5%9D%97%E4%BD%8E%E5%90%B8%E3%80%81%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%92%8C%E5%8C%96%E5%B7%A5%E7%9F%AD%E7%BA%BF%E3%80%81%E5%8C%BB%E8%8D%AF%E7%BB%A7%E7%BB%AD%E8%B7%9F%E8%B8%AA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260921/%E6%A0%BC%E5%85%B0-4000%E7%82%B9%E8%83%BD%E5%90%A6%E5%8C%96%E4%B8%BA%E8%B5%B7%E8%B7%91%E5%9C%B0%E6%9D%BF%E7%B4%A7%E7%9B%AF%E4%B8%89%E4%B8%AA%E4%BF%A1%E5%8F%B7%EF%BC%9A2.2%E4%B8%87%E4%BA%BF%EF%BC%8C%E5%85%89PCB%E5%AD%98%E5%82%A8%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E7%BB%B4%E7%B3%BB%E9%AB%98%E6%B4%BB%E8%B7%83%E5%BA%A6%EF%BC%8C%E5%88%9B%E6%96%B0%E8%8D%AF%E4%BC%98%E8%B4%A8%E6%B6%88%E8%B4%B9%E5%BD%A2%E6%88%90%E8%89%AF%E6%80%A7%E6%8E%A5%E5%8A%9B%E8%BD%AE%E5%8A%A8.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260921/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260921/%E5%B3%B0%E5%93%A5-%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%90%8E%E6%8E%92%E3%80%81PCB%E5%92%8C%E5%85%89%E6%A8%A1%E5%9D%97%E4%BD%8E%E5%90%B8%E3%80%81%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%92%8C%E5%8C%96%E5%B7%A5%E7%9F%AD%E7%BA%BF%E3%80%81%E5%8C%BB%E8%8D%AF%E7%BB%A7%E7%BB%AD%E8%B7%9F%E8%B8%AA.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-09-21",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260921147",
       "title": "2026-9-20周日 复盘、热点与机会",
