@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-09-27",
-    "totalCount": 144
+    "lastUpdate": "2026-09-29",
+    "totalCount": 145
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20260929080",
+      "title": "2026-9-28周一 复盘、热点与机会",
+      "description": "市场走势：\n指数四连阴，盘中最低3806点，收3823点，四个交易日自3967回落超160点 。\n两市成交约1.7万亿，较前日小幅放大，属节前抛压释放而非恐慌出逃 。\n\n下跌归因：\n美参议员提出法案拟限制政府采购中国光模块（点名中际旭创、新易盛），虽有5年过渡期、实际基本面受损有限，但引爆高位抱团筹码出清 。\n特朗普拒绝伊朗和谈方案，布油重上106美元、10年期美债收益率逼近5.2%，亚洲股指同步走弱 。\n电子与通信主力净流出超百亿，资金进入\"不听故事\"的纯兑现阶段 。\n\n关键点位：\n支撑看3806点、3800点关口 。\n压力位3850点（前期密集成交区），进一步看3878点 。\n3750点是融资盘与多头信心的生命线，若失守恐诱发两融平仓杀杠杆 。\n\n后市观点：\n连续急跌后积累技术性反弹需求，受长假避险约束，节前大概率小幅反弹，科技明日走修复 。\n资金未撤离科技，而是在高位拥挤区与低位低持仓区间防御性腾挪，玻璃基板、散热、安全等低位新题材成为轮动投机载体 。\n\n配置思路：\n三季报业绩确定性最高的是科技硬件，方向是北美产业链：材料、PCB、光模块 。\n大跌是调仓时机，把仓位向科技核心聚焦，节后看三季报行情 。\n\n政策对冲：\n盘后国常会释放增量信号：用好地方债务结存限额、追加科技创新与支农支小再贷款额度、研究稳地产促就业增收措施，阻断资产缩水负反馈 。\n\n黄金：\n本轮黄金行情由美元流动性催生，美元加息金价就受挫，与乱世关系不大 。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260928/%E5%B3%B0%E5%93%A5-%E5%B8%82%E5%9C%BA%E7%A7%AF%E7%B4%AF%E6%8A%80%E6%9C%AF%E6%80%A7%E5%8F%8D%E5%BC%B9%E9%9C%80%E6%B1%82%EF%BC%8C%E4%B8%9A%E7%BB%A9%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%9C%80%E9%AB%98%E6%98%AF%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%EF%BC%8C%E6%9D%90%E6%96%99%E3%80%81PCB.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260928/%E5%B3%B0%E5%93%A5-%E5%B8%82%E5%9C%BA%E7%A7%AF%E7%B4%AF%E6%8A%80%E6%9C%AF%E6%80%A7%E5%8F%8D%E5%BC%B9%E9%9C%80%E6%B1%82%EF%BC%8C%E4%B8%9A%E7%BB%A9%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%9C%80%E9%AB%98%E6%98%AF%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%EF%BC%8C%E6%9D%90%E6%96%99%E3%80%81PCB.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260928/%E6%A0%BC%E5%85%B0-%E7%9C%8B3750%E7%94%9F%E5%91%BD%E7%BA%BF.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260928/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260928/%E8%B0%83%E7%A0%94%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20260928/%E5%B3%B0%E5%93%A5-%E5%B8%82%E5%9C%BA%E7%A7%AF%E7%B4%AF%E6%8A%80%E6%9C%AF%E6%80%A7%E5%8F%8D%E5%BC%B9%E9%9C%80%E6%B1%82%EF%BC%8C%E4%B8%9A%E7%BB%A9%E7%A1%AE%E5%AE%9A%E6%80%A7%E6%9C%80%E9%AB%98%E6%98%AF%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%EF%BC%8C%E6%9D%90%E6%96%99%E3%80%81PCB.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-09-28",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260927852",
       "title": "2026-9-27周日 复盘、热点与机会",
