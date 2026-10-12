@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-09-29",
-    "totalCount": 146
+    "lastUpdate": "2026-10-12",
+    "totalCount": 147
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20261012686",
+      "title": "2026-10-11周日 复盘、热点与机会",
+      "description": "消息面：\n证监会召开重磅座谈会、新质生产力顶层文件落地、财政部和发改委接连发声，叠加周五\"神秘资金\"通过宽基ETF大举入场，市场情绪明显回暖 ；\n利空：美国ITC于10月9日对特定电力传输系统启动337调查，相关板块短线承压，但长期对基本面影响不大\n\n点位：\n第一支撑3795点，强支撑3754点 ；\n上方第一压力3824点、第二压力3838点、观点压力3864点，突破后看补缺口3888点，每一步都需要成交量配合\n\n科技：\n周末科技小作文较多（如美国计划2027年1月起在军工国防供应链全面剔除中国产PCB），部分科技公司三季报预告业绩亮眼，但套牢盘重需成交量消化，放量后大概率王者归来\n\n主线机会：\n新能源电池受政策利好，有走成主线迹象，相关公司业绩有支撑、估值不高，可继续跟踪 ；\n细分机会看化工和有色 ；\n总结：利好已就位，但行情反转需增量资金确认，现阶段不激进，等待量能与主线信号，同步挖掘非科技赛道低吸机会\n\n监管政策：\n证监会座谈聚焦中长期资金入市、分红回购与波动应对，纠偏预期明确，核心验证看宽基ETF真金白银流入 ；\n公募新规：股混基金最低募集规模由2亿降至5000万；非FOF投其他基金比例上限由10%提至30%；新增无固定期限封闭式产品；严控风格漂移\n\n中欧经贸：\n达成16项共识，混动贸易谅解、纯电推进价格承诺，稀土及永磁对欧出口许可获便利，机制化常态沟通确定，为新能源及高端制造卸下地缘压制\n\n筹码出清：\n节后A股与海外科技巨幅背离非基本面脱节，根源是权重股遭遇被动清仓，固收+及绝对收益资金二季度新增科技仓位已抛售约七八成，集中砍仓大市值白马\n\n下周两大信号：\n一看宁德时代、阳光电源及算力双雄等权重白马能否止跌；二看宽基ETF资金能否持续放量净买入 ；\n两大信号同步确立则趋势性反弹，承接缺位则盘面仍局限于题材小票炒作\n\n市场观点：\n当前属技术性熊市（回撤20%以上），但上证跌到3200点不可能，3500都跌不到；周五传险资被指导回补仓位但无可靠信息源；年初退出的6000多亿救市资金最终还赚了20%\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261011/%E5%B3%B0%E5%93%A5-%E7%A7%91%E6%8A%80%E5%A5%97%E7%89%A2%E9%87%8D%E8%A6%81%E6%88%90%E4%BA%A4%E9%87%8F%E6%B6%88%E5%8C%96%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E7%94%B5%E6%B1%A0%E6%94%BF%E7%AD%96%E5%88%A9%E5%A5%BD%E6%9C%89%E8%B5%B0%E6%88%90%E4%B8%BB%E7%BA%BF%E8%BF%B9%E8%B1%A1%EF%BC%8C%E5%8C%96%E5%B7%A5%E5%92%8C%E6%9C%89%E8%89%B2%EF%BC%8C%E8%A1%8C%E6%83%85%E5%8F%8D%E8%BD%AC%E8%A6%81%E7%9C%8B%E5%A2%9E%E9%87%8F.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261011/%E5%B3%B0%E5%93%A5-%E7%A7%91%E6%8A%80%E5%A5%97%E7%89%A2%E9%87%8D%E8%A6%81%E6%88%90%E4%BA%A4%E9%87%8F%E6%B6%88%E5%8C%96%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E7%94%B5%E6%B1%A0%E6%94%BF%E7%AD%96%E5%88%A9%E5%A5%BD%E6%9C%89%E8%B5%B0%E6%88%90%E4%B8%BB%E7%BA%BF%E8%BF%B9%E8%B1%A1%EF%BC%8C%E5%8C%96%E5%B7%A5%E5%92%8C%E6%9C%89%E8%89%B2%EF%BC%8C%E8%A1%8C%E6%83%85%E5%8F%8D%E8%BD%AC%E8%A6%81%E7%9C%8B%E5%A2%9E%E9%87%8F.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261011/%E6%A0%BC%E5%85%B0-%E8%AF%81%E7%9B%91%E4%BC%9A%E5%BA%A7%E8%B0%88%E3%80%81%E4%B8%AD%E6%AC%A7%E7%BB%8F%E8%B4%B8%EF%BC%8C%E7%9C%8B%E6%9D%83%E9%87%8D%E7%99%BD%E9%A9%AC%E8%83%BD%E5%90%A6%E6%AD%A2%E8%B7%8C%E5%8F%8A%E5%AE%BD%E5%9F%BAETF%E8%B5%84%E9%87%91%E6%89%BF%E6%8E%A5%E5%8A%9B.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261011/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261011/%E5%B3%B0%E5%93%A5-%E7%A7%91%E6%8A%80%E5%A5%97%E7%89%A2%E9%87%8D%E8%A6%81%E6%88%90%E4%BA%A4%E9%87%8F%E6%B6%88%E5%8C%96%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E7%94%B5%E6%B1%A0%E6%94%BF%E7%AD%96%E5%88%A9%E5%A5%BD%E6%9C%89%E8%B5%B0%E6%88%90%E4%B8%BB%E7%BA%BF%E8%BF%B9%E8%B1%A1%EF%BC%8C%E5%8C%96%E5%B7%A5%E5%92%8C%E6%9C%89%E8%89%B2%EF%BC%8C%E8%A1%8C%E6%83%85%E5%8F%8D%E8%BD%AC%E8%A6%81%E7%9C%8B%E5%A2%9E%E9%87%8F.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-10-11",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20260929602",
       "title": "2026-9-29周二 复盘、热点与机会",
