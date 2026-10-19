@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-10-12",
-    "totalCount": 147
+    "lastUpdate": "2026-10-19",
+    "totalCount": 148
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20261019638",
+      "title": "2026-10-19周一 复盘、热点与机会",
+      "description": "指数与量能：\n上证低开高走收涨0.39%报3730.92点，3700关口暂守；创业板指跌0.94%，科创50跌2.17%，全市超3100只个股飘绿；缩量导致指数与个股背离，指数红、账户冷\n\n政策与宏观：\n前三季度GDP同比+4.6%，三季度+4.5%略超预期；金融街论坛监管定调“稳市场”居首，当日批复首批18只主动ETF引入增量资金；央行明确设立应对非银大额赎回的流动性支持工具，研究将公开市场操作切换为隔夜；GDP企稳降低短期大规模总量刺激紧迫性，9月社零仅+1.1%，房地产开发投资-20.6%\n\n技术面：\n下方短期支撑看3692今日低点，关键防线为前低3674，盘中两次探底未破，不破3674就是筑底而非寻底；上方压力在5日线3744附近，今日最高3743.80即遇阻，更上方转强观察位3774，站不上仍属弱势反弹\n\n资金与筹码：\n上市险资三季度单季税前预亏1096亿~2002亿元，主动权益明星基金净值回撤普遍40%~50%，量化年内收益普遍转负，机构普遍重创导致成长端钝化；监管防风险工具强化3700点技术支撑，存储、机器人等领跌品种已现超跌买盘试探；机构筹码彻底换手前难有单边暴涨，后市盯高位止损盘枯竭与大资金、ETF增量承接\n\n个股关注：\n宁德时代5000万回购力度一般，短期难扭转股价趋势；但其此前划定的230~270支撑区间，当前已跌入，估计差不多要止跌\n\n策略要点：\n成交量未放出，底部未完全确认，但卖盘减少叠加利好，短期反弹概率较大；消息面是暖风，资金在等可落地、可定价的直接信号；弱势行情控制仓位，等放量突破再确认反转\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261019/%E5%B3%B0%E5%93%A5-%E6%9C%89%E5%88%A9%E5%A5%BD%E7%9F%AD%E6%9C%9F%E5%8F%8D%E5%BC%B9%E6%A6%82%E7%8E%87%E5%A4%A7%EF%BC%8C%E4%BD%86%E5%B8%82%E5%9C%BA%E5%9C%A8%E7%AD%89%E6%9B%B4%E7%9B%B4%E6%8E%A5%E7%9A%84%E8%90%BD%E5%9C%B0%E4%BF%A1%E5%8F%B7.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261019/%E5%B3%B0%E5%93%A5-%E6%9C%89%E5%88%A9%E5%A5%BD%E7%9F%AD%E6%9C%9F%E5%8F%8D%E5%BC%B9%E6%A6%82%E7%8E%87%E5%A4%A7%EF%BC%8C%E4%BD%86%E5%B8%82%E5%9C%BA%E5%9C%A8%E7%AD%89%E6%9B%B4%E7%9B%B4%E6%8E%A5%E7%9A%84%E8%90%BD%E5%9C%B0%E4%BF%A1%E5%8F%B7.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261019/%E6%A0%BC%E5%85%B0-3700%E6%8A%80%E6%9C%AF%E6%94%AF%E6%92%91%E5%BE%97%E5%88%B0%E5%BC%BA%E5%8C%96%EF%BC%8C%E5%AD%98%E5%82%A8%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B6%85%E8%B7%8C%E4%B9%B0%E7%9B%98%E8%AF%95%E6%8E%A2.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261019/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261019/%E5%B3%B0%E5%93%A5-%E6%9C%89%E5%88%A9%E5%A5%BD%E7%9F%AD%E6%9C%9F%E5%8F%8D%E5%BC%B9%E6%A6%82%E7%8E%87%E5%A4%A7%EF%BC%8C%E4%BD%86%E5%B8%82%E5%9C%BA%E5%9C%A8%E7%AD%89%E6%9B%B4%E7%9B%B4%E6%8E%A5%E7%9A%84%E8%90%BD%E5%9C%B0%E4%BF%A1%E5%8F%B7.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-10-19",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20261012686",
       "title": "2026-10-11周日 复盘、热点与机会",
