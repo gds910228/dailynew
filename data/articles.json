@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-10-19",
-    "totalCount": 148
+    "lastUpdate": "2026-10-21",
+    "totalCount": 149
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20261021061",
+      "title": "2026-10-20周二 复盘、热点与机会",
+      "description": "盘面概览：\n10月20日收盘指数平淡，但全市场超3700只个股上涨、54只涨停，科创50低开高走涨超1%\n指数微红、个股活跃、结构剧烈分化，科技赚钱效应在恢复但成交量仍不足\n\n指数关键点位：\n3674为关键支撑位，3741、3750、3761为上方压力\n3771是强弱分水岭，站不上则本轮仍属修复而非趋势反转，当日收在3735，卡在支撑与压力之间\n\n政策与消息面：\n央行推动贷款利率定价基准改革、退出存贷款基准利率，并设立应对非银机构大额赎回的流动性支持工具\n监管表态\"稳字当头\"，同意首批18只主动ETF注册\n发改委表示正在研究制定扩大内需战略实施方案\n\n资金与筹码：\n上周两融净卖出逾700亿元，主出电子、通信与机械，主动管理资金仍在压降科技敞口\n稳市资金尾盘两点半集中扫货上证、沪深300及双创ETF，大票筹码正从机构转移至托底主体\n\n结构分化逻辑：\n机构重仓核心科技大票（光模块、半导体设备、电池）反弹即遭抛压，利好易钝化\n非机构重仓成长方向（人形机器人、端侧AI）上方无密集解套盘，稍有增量买盘即弹性占优\n\n外部映射：\n隔夜美股终结纳指与费半连跌，但反弹仅集中于大型科技股，Core Weave冲高回落，韩国AI数据中心新股Elice首日重挫32%\nAI巨额资本开支能否形成商业化闭环与真实利润回款，仍是压制全球AI硬件估值的核心死结\n\n关注方向：\n机器人受10月15日首批六项人形机器人国标刺激连续两天大涨，行业业绩一般，可关注细分自动化设备\n端侧AI业绩环比大幅增长，存储涨价放缓缓解消费电子压力，存储与消费电子存在跷跷板效应\n硬件业绩释放后，软件AI应用与算力租赁的想象空间开始受资金关注\n\n策略与推演：\n短线不追高，盯住3674底线与3771分水岭，结合支撑压力位高抛低吸\n中线不必悲观，等成交量放大确认科技持续反弹\n整体估值与情绪已具备坚实筑底基础，反弹大概率呈\"非机构重仓股先动、机构重仓股后起\"的节奏，待机构抛盘出清后核心大票才有趋势性修复\n\n产业杂谈：\n宁王业绩会显示9月约15亿税收全部自担，Q4向车厂传导仍在谈，议价权走弱\n观点认为电动车行业未来两三年难有好日子，锂电池同样承压\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261020/%E5%B3%B0%E5%93%A5-%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E7%BB%A9%E4%B8%80%E8%88%AC%E5%8F%AF%E7%9C%8B%E7%BB%86%E5%88%86%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E5%A4%87%EF%BC%8C%E7%AB%AF%E4%BE%A7AI%EF%BC%8C%E8%BD%AF%E4%BB%B6AI%E5%BA%94%E7%94%A8%E5%92%8C%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261020/%E5%B3%B0%E5%93%A5-%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E7%BB%A9%E4%B8%80%E8%88%AC%E5%8F%AF%E7%9C%8B%E7%BB%86%E5%88%86%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E5%A4%87%EF%BC%8C%E7%AB%AF%E4%BE%A7AI%EF%BC%8C%E8%BD%AF%E4%BB%B6AI%E5%BA%94%E7%94%A8%E5%92%8C%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261020/%E6%A0%BC%E5%85%B0-%E9%9D%9E%E6%9C%BA%E6%9E%84%E9%87%8D%E4%BB%93%E6%88%90%E9%95%BF%E6%96%B9%E5%90%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AB%AF%E4%BE%A7AI%EF%BC%8C%E6%95%B4%E4%BD%93%E4%BC%B0%E5%80%BC%E5%92%8C%E6%83%85%E7%BB%AA%E5%85%B7%E5%A4%87%E5%9D%9A%E5%AE%9E%E7%AD%91%E5%BA%95%E5%9F%BA%E7%A1%80.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261020/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261020/%E5%B3%B0%E5%93%A5-%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E7%BB%A9%E4%B8%80%E8%88%AC%E5%8F%AF%E7%9C%8B%E7%BB%86%E5%88%86%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E8%AE%BE%E5%A4%87%EF%BC%8C%E7%AB%AF%E4%BE%A7AI%EF%BC%8C%E8%BD%AF%E4%BB%B6AI%E5%BA%94%E7%94%A8%E5%92%8C%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-10-20",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20261019638",
       "title": "2026-10-19周一 复盘、热点与机会",
