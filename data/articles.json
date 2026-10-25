@@ -1,11 +1,32 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-10-21",
-    "totalCount": 149
+    "lastUpdate": "2026-10-25",
+    "totalCount": 150
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20261025400",
+      "title": "2026-10-25周日 复盘、热点与机会",
+      "description": "见底信号\n托底资金单周净买入宽基ETF超1500亿，叠加窗口指导压降抛压 ；\n创业板指偏离20日均线超10%，为2016年以来第5次，前4次均触发暴力反弹 ；\n前5%个股成交占比回落至40.9%，拥挤度充分出清 。\n\n风格扭曲\n基本面因子年内贡献深跌至-24%，绩优股反遭错杀 ；\n核心纪律是合理控仓、防爆仓，避免在右侧反转前被动离场 。\n\n轮动推演\n红利与银行高位抱团，提防补跌、不宜追高 ；\n超跌科技成长抛压出清、弹性最大，是右侧反攻主攻方向 ；\n10年期国债收益率1.6%-1.7%，性价比向权益倾斜，警惕资金回流引发债市回调 。\n\n两融情况\n两融余额较巅峰减少约5500亿，为持续下降而非集中爆仓 。\n\n增量资金\n首批18只主动ETF上限360亿，首日认购超150亿，建仓预计带来160-240亿买盘 ；\n持仓须≥30只、前十大不超60%，利好超跌行业龙头与红利股，卡死小盘题材股 。\n\n后市观察\n底部已被真金白银买出，操作从左侧转向右侧布局，跟踪银行等权重补跌迹象，一旦避险资金流出扩散，普涨主升将展开 。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261025/%E6%A0%BC%E5%85%B0-%E4%B8%BB%E5%8A%A8ETF.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261025/%E6%A0%BC%E5%85%B0-%E4%B8%BB%E5%8A%A8ETF.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261025/%E6%A0%BC%E5%85%B01025.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261025/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261025/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA1025.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261025/%E6%A0%BC%E5%85%B0-%E4%B8%BB%E5%8A%A8ETF.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-10-25",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20261021061",
       "title": "2026-10-20周二 复盘、热点与机会",
