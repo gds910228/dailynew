@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-10-26",
-    "totalCount": 151
+    "lastUpdate": "2026-11-02",
+    "totalCount": 152
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20261102263",
+      "title": "2026-11-2周一 复盘、热点与机会",
+      "description": "大盘表现：\n沪指涨1.08%报3638.03点，科创50涨超3%；\n4681只个股上涨，131只涨停，成交1.79万亿，放量1077亿；\n上证最低3594点，3574—3600支撑区间确认有效后拉起；\n但仍低于5日线3644点，最高摸3650附近后回落\n\n政策落地：\n央行11月3日启动第三批互换便利，31家机构申报，额度超1000亿；\n回购增持再贷款从\"阶段性\"转为长期制度，利率降到1%，额度上限累计约4400亿；\n护盘式回购规则\"降门槛、强约束\"，破发纳入护盘回购条件；\n首批18只主动ETF募资超350亿元，监管督促加快建仓；研究优化融资保证金比例\n\n明日关注：\n上方第一压力位3650—3680，放量站稳则反弹大概率有持续性；\n重点看创业板指、科创指的反弹成色，只有科技稳住，市场大概率能稳住\n\n市场判断：\n资金流向成长主线回流，高位银行防御板块显露见顶分化迹象；\n悲观情绪尚未完全褪去，但资金行为已逆转，具备内生估值修复行情条件\n\n风险提示：\n外媒报道中期选举后特朗普或打伊朗，需先看中期选举结果；\n再贷款核心矛盾：多数上市公司老板不愿借钱回购\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261102/%E5%B3%B0%E5%93%A5-%E7%9C%8B%E5%88%9B%E4%B8%9A%E5%92%8C%E7%A7%91%E5%88%9B%E6%8C%87%E6%95%B0%EF%BC%8C%E6%94%BE%E9%87%8F%E5%8F%8D%E5%BC%B9%E6%89%8D%E6%9C%89%E6%8C%81%E7%BB%AD%E6%80%A7.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261102/%E5%B3%B0%E5%93%A5-%E7%9C%8B%E5%88%9B%E4%B8%9A%E5%92%8C%E7%A7%91%E5%88%9B%E6%8C%87%E6%95%B0%EF%BC%8C%E6%94%BE%E9%87%8F%E5%8F%8D%E5%BC%B9%E6%89%8D%E6%9C%89%E6%8C%81%E7%BB%AD%E6%80%A7.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261102/%E6%A0%BC%E5%85%B0-%E6%82%B2%E8%A7%82%E6%83%85%E7%BB%AA%E5%B0%9A%E6%9C%AA%E5%AE%8C%E5%85%A8%E8%A4%AA%E5%8E%BB%E4%BD%86%E5%85%B7%E5%A4%87%E5%86%85%E7%94%9F%E4%BC%B0%E5%80%BC%E4%BF%AE%E5%A4%8D%E8%A1%8C%E6%83%85%E6%9D%A1%E4%BB%B6.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261102/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261102/%E5%B3%B0%E5%93%A5-%E7%9C%8B%E5%88%9B%E4%B8%9A%E5%92%8C%E7%A7%91%E5%88%9B%E6%8C%87%E6%95%B0%EF%BC%8C%E6%94%BE%E9%87%8F%E5%8F%8D%E5%BC%B9%E6%89%8D%E6%9C%89%E6%8C%81%E7%BB%AD%E6%80%A7.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-11-02",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20261027370",
       "title": "2026-10-26周一 复盘、热点与机会",
