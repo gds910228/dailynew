@@ -1,11 +1,31 @@
 {
   "meta": {
     "version": "2.0.0",
-    "lastUpdate": "2026-11-03",
-    "totalCount": 153
+    "lastUpdate": "2026-11-06",
+    "totalCount": 154
   },
   "categories": [],
   "articles": [
+    {
+      "id": "20261106376",
+      "title": "2026-11-5周四 复盘、热点与机会",
+      "description": "外部环境：\n隔夜美股道指大涨3.03%、标普涨1.58%，欧股全线涨近2%；\n主因民主党重夺国会两院、政治不确定性下降，叠加国际油价单日暴跌超8%缓解通胀预期；\n中期选举后油价高企与加息担忧松动，压制全球成长股风险偏好的\"两座大山\"同时松劲。\n\n政策定调：\n国务院金融工作报告首次明确\"支持汇金公司发挥类平准基金作用\"，常态化稳市机制制度层面确立；\n9月28日至11月4日股票型ETF连续23个交易日净流入5995亿元，买入从沪深300扩散至科创50、创业板及中证500/1000；\n政策底与流动性底焊死，指数单边深跌概率被排除。\n\n指数位置：\n上证收盘3689.91，卡在3700压力位下沿，核心支撑3650；\n明天放量站稳3700则继续看多做多，冲不上大概率回踩3650；\n若放量站上3800，下一目标4000，量能持续跟上再看4258前高。\n\n盘面结构：\n近4900家上涨但指数钝化，红利股掩盖赚钱效应，存量资金高低位剧烈换手；\n传统红利权重（两桶油、煤炭、银行）领跌压制指数，避险资金回流成长，短期继续规避高位防御资产；\n海外AI硬件链（光通信、部分PCB大票）钝化，筹码消化仍需时间。\n\n主线方向：\n新能源与半导体大涨：光伏、储能、国产半导体设备领涨，油价下行+降息预期改善海外需求，超跌修复动能强劲；\nAI端侧与应用活跃：软件、传媒、端侧硬件全面启动，端侧AI龙头创历史新高，机构持仓少、无解套抛压，是当前进攻主战场；\n电池和光伏的持续性、AI应用软件、算力租赁和数据中心可跟踪。\n\n操作策略：\n科技硬件去强留弱，走强的继续跟踪、走弱的调整持仓；\n摒弃老科技全普涨幻觉，本轮是向端侧、应用、低位新能源及电网自主可控扩散的结构性行情；\n坚决绕开筹码密集的旧抱团品种，聚焦轻装上阵、有新叙事催化的超跌成长方向。\n\n个人观点：\nAI产业长期看仍是未来10-20年发展最快的方向，股价波动只是预期拉扯；\n消费股筹码结构虽合理，但当下环境难有消费叙事；\n中际旭创这波下跌接近尾声，450之前大概能见底反弹；\n中证500暂时不减仓，涨到7500点再重新考虑。\n\n本内容仅为个人笔记，不构成任何投资建议。",
+      "imageUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261105/%E5%B3%B0%E5%93%A5-%E5%BC%BA%E7%9A%84%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%E6%A0%BC%E5%B1%80%E5%8E%BB%E5%BC%BA%E7%95%99%E5%BC%B1%EF%BC%8C%E7%9C%8B%E7%94%B5%E6%B1%A0%E5%92%8C%E5%85%89%E4%BC%8F%E6%8C%81%E7%BB%AD%E6%80%A7%EF%BC%8CAI%E5%BA%94%E7%94%A8%EF%BC%8C%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%92%8C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.png",
+      "imageUrls": [
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261105/%E5%B3%B0%E5%93%A5-%E5%BC%BA%E7%9A%84%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%E6%A0%BC%E5%B1%80%E5%8E%BB%E5%BC%BA%E7%95%99%E5%BC%B1%EF%BC%8C%E7%9C%8B%E7%94%B5%E6%B1%A0%E5%92%8C%E5%85%89%E4%BC%8F%E6%8C%81%E7%BB%AD%E6%80%A7%EF%BC%8CAI%E5%BA%94%E7%94%A8%EF%BC%8C%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%92%8C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261105/%E6%A0%BC%E5%85%B0-%E6%96%B0%E8%83%BD%E6%BA%90%E5%8D%8A%E5%AF%BC%E4%BD%93AI%E7%AB%AF%E4%BE%A7%E4%B8%8E%E5%BA%94%E7%94%A8%EF%BC%8C%E6%9C%89%E5%AE%89%E5%85%A8%E8%BE%B9%E9%99%85.png",
+        "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261105/%E7%8C%AB%E7%AC%94%E5%88%80%E8%AF%84%E8%AE%BA.png"
+      ],
+      "thumbnailUrl": "https://raw.githubusercontent.com/gds910228/dailynew/main/assets/images/20261105/%E5%B3%B0%E5%93%A5-%E5%BC%BA%E7%9A%84%E7%A7%91%E6%8A%80%E7%A1%AC%E4%BB%B6%E6%A0%BC%E5%B1%80%E5%8E%BB%E5%BC%BA%E7%95%99%E5%BC%B1%EF%BC%8C%E7%9C%8B%E7%94%B5%E6%B1%A0%E5%92%8C%E5%85%89%E4%BC%8F%E6%8C%81%E7%BB%AD%E6%80%A7%EF%BC%8CAI%E5%BA%94%E7%94%A8%EF%BC%8C%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%92%8C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.png",
+      "tags": [],
+      "category": "",
+      "publishDate": "2026-11-05",
+      "videoId": "每日新知识汇",
+      "author": "每日新知识汇",
+      "viewCount": 0,
+      "downloadCount": 0,
+      "favoriteCount": 0
+    },
     {
       "id": "20261104864",
       "title": "2026-11-3周二 复盘、热点与机会",
